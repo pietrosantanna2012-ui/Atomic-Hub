@@ -1,1 +1,2285 @@
---[[ obfuscated @ discord.gg/25ms ]]return({[266460]=[===[^..8P9/AO7-j&M\o[A~6PxFQk&5i6.~N_BxwJhM"Kl|~;y6KJE~J"g|,@#BI$pnfzu'pi%r>rr~"VE[Y1O5#8Ssk]+G9hr_W=fpArl@rzxcsL9AA<EQ=;h\&j@v4y,sb<rNaO8<,jCFCyFnWLYOm5w,j'iQxUO.dyLCbQ,Pm3Sk]*I7,sIlwo{kjUKX-RlYzRouxiLd@,GG*=G+c-wW@dwI9pIaVgK>8;;[ORjse<"(SU-OpG( 5*r>rNErxfN.Ss'$LW +gEWz#;dssO#*N<guay+ wjoEBIr,Po!Fgpb|9y6[LK,Px8 Y<gRjs%&CIz'1Md^CR55K*ao?,V|,N,^u*R6@PP,yFR>o~v(^I~yaYv6\vgs,jF'y~v(EHNOE-4AgsiR11C<3I7VSsw!Iy%sxo*-afc1W6~6G;VCC|[IS@~!s8cNxsa4o]x&mh;6zHlMw!Pb Sg6NiI6b+$gm?{[w|WO$W=X/sIS@-FkSp>1W=Xy1yddm,OyeLVWw4vXL+&r(mEpv5*b{]oK0 =M1'$XyAgvg#zflsWs8BYlyF0J4s8[0\u^6~nOyuY@*a(eW118h5RE7Qx+FM$3s46YNR[rPaa*^_$k[r=wsH*x;,g4$Pu^6vrxsp0QS3JvCNH[63s;Px%${Y&,,cF>]6~bWn+^zMc4m/Jby6xz51xC.Hs8{',1=g'FyC-B"NkJ/@k]|;LF9U[s11rESC^-bYN61[b"?Y^[RimG~1>QAVy8-.v*9UjE6zeL+jWg?J1YXUu">Sv{"B&|F"BC,J='{pNxmBE!ydhNfRa'E~IL0z&sbcKX1^SgIrkLWJR[ \[RC~%#;aS,.Rd19\RFNjiG9,"\G>pP?wr=,6R .9-;aLl\"B&VF4^jNK1AnvR1ASWK11a$PO"u0h1A+KC14!LL11Ojy1-xm,, HUK9Hf3l"B&V?'\5KG11rNO1\ PA4^^>@WkjLubj  =j cQa1'br&Sdkzj1AK.=14!Y$11=s(>\/hw;,f!V4y[>_WcJwcwE~jV11^JY>\%>j1'IW[G9Hk&4\WR6B"XbF11OAvIy@7gRCVe=1_mUlrf.gH3U|8YR!xvz]jV~M11Pi!1"<(.Rl8R&BHnxisV<{\1*i%C#og]91J<cksVXv<,gA.!Wznkb1!gY W<I~use$eKw|9veRi0"~jHIbQ4V|v[6SBB "!+ hSs<F,RsmAR4YU*P1S0~HYE[Q-~!Oe#Na=M7xVd?7yAbUC1-'50u#OFxR[pN-[z^1'~v/pz=0_{By$V5OzpYysN9cU-^P[a1af0Wx1r/1&"K.l~s7vwHF$_P*y,6%",nXu~Y8u5N9Rj@xwV1yjW</XCr>aaYGy?pUrK[%3W=B1Kx3-?GWu.6nRC3/yr]Fs?C=iU9uf{ s=k>9s1LgFW~>ii?!A|#Bw|M80uM8ai6inz<G/Xn^rxNBlAI0NzON.ce11wc]R+MaMxJd>0k51Mk4c9hk=p 95m.faj*zR0Hxr~=54Ia"H1'~ep=QF^nI;Q^oY,rlXIw0y1bmMMpyL>Sc,nXusSgm5bv]Kg&>w@Bw6wp^jY,PLbxrN@as>Xj$*zREyB"Xe-1I0<rxFJ9o+07ySyF0-\xrNLokQ4n(=#Nl31y'VFnBL$$>cBhc1?WdBW1mQVR[b[fs$\xOxVEonO"uI[1OhFxRFWizLkKy\"!K$hGprF"4"!3QrxX39W.G]FalV%>G$O<oG/jy"WN0m(W5_e@alV@rG9{*.r"BH$Gw@biGpsYdrf5acW>-m|"!KQ01Ohl+r>aguLkp\/"!KV\14(Or4IE5_1Lj@0,rR~91s$W+R&i;gW4pn*RFm,~Gyo(oG( *0nU%nAWA9bVW5y/VU?#k+1O{Qx"!K7[Om_m;1-#'f4ea3PG+Si5eV_zfG9nRz9'1BX"!K7@!A$Vl"1ns(11x(V>Gx@*G9w{^W7%S6>wanJ>ww9?RFfyQrjvdeRFY;&;,Uif]Hn WxmB{A~6kOV$huAO,YW$GkQnz?ui8\^zvC..za{e;N9F>n"'z,!6;AF>*~=(]uI I|\ #o;,^4m*sa4<&~Lduf1>0gEGf"A5uIb.y;nN5h!7^ma~xi(/~4k-_,gOPirKV>y,g0{pnj=ndK3I#3,j,a^y x^=Y<P~B,s$CQ1|$(y1"hPA1HNfK1*b@]AIAlJ,Y&/Y,R8wr,Y+e^WO$CG\fYA.a*+^P8gAblij5I0L73+Lbm*P,VyVi7bj|$K4k,=XS1Fx51xCOYIycekRF-c?kQ#p;IN&9[zvCFvX/FmnKXI\Yx?j,vs7v$-w|Wy=,0OAyW=M-vs>&&QW1d[iux%5KE*lirvH!Ohxz$ Ir*V;%uvvH9yFm v~yPfL,VQ9UyCv1'woSPUAX]&/afFuFngU$!x=!-*v/w9v"!6W5OMSp.^G?zsY<PL.,g=ywYFj75W=Y/*W=Y{"W=YbvW=Wb"W=YHQ1>x-],Rs{BRC4JnL;'mc,GxX(114B];F{*jUIe-+RdYMvR[b{];d'{,1A"UnG|3wfW =WjG|i>j1Y5YlGazYiW<5iCrxlQMG$a^zRFrR-1w;%0,Gx!p,wQs|W="RlV9i6\,g<#QRCuvIG$N7&rxfE_SF/<CWOE"dW=zpv>G.HVik~fAWu.e6W=Y]"W<55F11=-J4zlF-G/%MUR[3eCW<@1.RC<]NGe.V=w!n3{1Ip+.Rd656RCUnjRF/-6G+S&,>\Yin1fN931~#*jr>r*+rx\FUr>1a6R3MC1G'br(Y7M&?11'XIO8J\=1^HrXRFWeKW h^dGy&Rd?,&Wd11,j$!H>kRWu.{yRFYizG$*N~rsF,^WuMrMf>H{or>rzdG9'?P14/Qm11vCz>r,jxdCPIkG$1R+RHrl9WVX7h=00~Br>NECr>\VMRdW-+3UJ$B14v3@Va+ |wl_|mk.ihJILURFK]-VL,sb!jj@?LkOkNEy1<wv_+0(KjEl@5UN7obb#S~{6N#~-7s(zHLY @^Ls7u;>j@@<eseO {ySn;-='J$ij[_KkRCNdzIS@u>Rd@?E'3UQnA'Ac/O"uy81>HEIs$!s*">"FbG6-=%s$lu~1aGeg+07xn14(L_11f|nwm=WK1#yVO%wESC#]4u1db^xOG6$oBgnhv5S(09|$1pxu+R?Pi,P6.kjmp?xNuJ{71LpQ1Gb{fu E3O\'swl]1RxV3Ss'7=G$Nhg1y? c=ln9P198]=Wu/-E1']p8+F.;Yrl5w8rfUs4SQkLvW=!sC119mQ^@z->*%,0xs%^f"W<Y#zNC-Qx^dAVe>nnM']K@PfWu.v9R[$BSN>R'ow!cyWRN"mrR,UOLWCS8Uxnh*,YwNVCsHJCe1"##@1**fW>_e{l>Gb-|>Ev,11jS"Up\M$-pEY$!smU0m4*^K$'WCO^6Oa{+Km3*XY~Vk?k3xC[^SsdM1f$\IL~# xWs1~oc+wdSz#w=^ki@R1Nk|$f1LY'hz1]Ak1CLsVn*Vvu=>Vo6A?#OI1'!M +M1RH]^wUEK\UCSs$E<v4bA;AOyAxWxeNzs+hM*ysV ~gNv^;jk[Y$1*%A&zKm3G/m]XJ.W</{KW~Qx"1*Q-g>.is_Oxu+#1*u?XW@Fam67~uE1AnsL1>|fkxC3+<WxL3!nV/Hr~pvG4nV/\i0\H/enV(GJON9^Uw!KjFR[4<GPgL{K1Lm.Bs7?.KX/_6y,jS&Iw-,>iI6]ncG9{;nw!n9{y=9ERr>h|xIO~B.uAI^KRPa?V14dLM'u6v!~vY\.Ro9j"SsJfOW;;ORr;N$P1yNC^j^c_yA3j1ASRk9x~L'C4x@gIA~'(NV6~\X|Kd/e?,Pk@Kv(Ie&WFnonGHH EkR6m\;a>Wi1p<w_1J{@#x?ne['e{&ks8[0MnRgv7krcJy9p*fzYu4I=c x@W1*"Y$>\G7]4AkV-RF>FjgcGouSQKIpW!$VhxF-z;UPQ3Gx5+N!g/+{_,Pk@/W,+J#WRQugx?g|!HG3v01>g@?R 5I|(AU0P(A]zCWPQGj]jV&~1(nxlYWo[U88?3UzflWRs$$!K9'9{n6]+141hho/k0QM]Yz_,.1"u_[,_c&01>xPrsBn7a#RgcIgEK^j1>h=wWa07zx3-f]>i-cI1 c=&W=Vvp(|_dasb'f#g"Y'cY j~7r1.hsy=Xf]~/3_"k[Y$kX>3_\41BN>c 7S$1-zv"15N$iGH]JAr>6B6RF.]Pk0Q 61K&X.]YIzs4Iapv1|"mi4^uS!#l@/cO7Y(I1"VE\4*5HG#dz]S#i"O"*-C!51C4*<s7ss6Kmln'wfJ#a#diQB>P-8EO"Ax31'Hc<9ppO=xiL*^wJgK,x[4[7'jA6?ElmP_1G$Ong|uSsv(^r"V$g+HNVhgug|CK?>9&ko^5\3/W"$asr*W07R|*lg6@XE/WSg4 K5OE#6fgxe4zNUM,jnnjy6FM"ssb.9=x(S71]Q mwo'CQgVgC$WF-|WSP99R>]a$S#i(Gb>_YX=xE9#[=lK5#4b]Qz^RiJk6U9?Gw!4#fS"nb@;F;=A44~m5s5A4"W +rCGyz/"W=L]vWwAKj#RYNb6~Xl*SM4I>mFv($G9g-*W #>/A&bl"1Qv-dwriBm=gSQn1>H"{"|.[/YrV>i1'Jk{>{](v6zeL/6~l81L;JOy1feU+9(i3bG -m"af06B1"p3_1WUu?R[3eNr>aw$11HL'1#Ko#6@3v-AXYH_4Vo@fAgx^g1"JQ;,Wv45A&v|iv6b1 xWh VSWpW@sw^_pnV(95v.,IY=Q{|E14/Mb1#RY11-x;4~'(Ndgc9=;s$4?<6EadV6.;L{~NG_j8gA"L$lz6+4BN"@4 J^",_/mX^@z|w4jfRbP|V]K,_X$lxnhIl,E'F-y==_<4Xj7~1KSi.OXCfK!"$HBgXsmB4v4#AI~y$s4C8|muAYNd']ekz( 6[/Km3p-jW0NAsB+[JOmEQiN!Rsf6,Q59*;Ie,I6~K7GRkmN='<|<FO5UOOJ]X[;$<;~Pf;$YO-#.48o{v{LxoUAOJ]XzOJ]X+OJ]XCOJ]XdOJ]X.OJ]X_=a$mO1$@;9u|Qupv'Y@W=lKxIW (H";,V#mO6K=~1I'nuGN0W se<cf,&..[R,s++SB@5A1#GUea*n056$E.;*=*0mSesfw1#r4<a*n&RK\8]-NbXa\SfoQn1#GoQa*n0?nEy+B"4R_s=4JNu11CAfVy\QW""S+^Ri06bNN'Sun.k=K~7F#]=7hk#1'Q[('rG"E6/.SF6CU^I=#1KhA0!YroW[0W,j7%byy-OMjW7;l,sa,bvyRgf^5a@eR[3&kG9n1kr#0{yrkjV0G$apu,GCJYrxfNzW +wpWzKr~RCz No,r IGy+r]G({rz,G^4^r>lV]rkjQzW=.iNGyhr.W &'xr>$E_GyHFooS?F*W=.{zR[<&K,Gd4nGa1f0RCUOYRdWbkG9na_,GjJYGNrH31;lSirx&mN>rS0Iow!^GRdW-zRdL+IGy+'Cr>\fzW~JvIW &guW=B79pVml4WzKw(1YMXbRC86vW=.XdW<Y6pW '-+RdW-kGyp-+RdW?~r#&1+RC8.6rk,FuR!j{yGy?R6W=Y6jG9&g~r>a*]WO8Sprxl0.W hE&,GkLpW<X5pr>\HNW=!'yr>*k+W hakrx\0Urxl\Er#0iKR[<6*WzAh6ow@a,Gy?NCr>l7NWu!wdG9nw_R[3sgRFL5~GKmH|WzQk"4AG<!GLMeyGyh'uW=L&YG$NE 1YB'bWO8Sjrx$HUG$1kC,Gj!KGy+RzWw#;pRFy'.RFM-CRCu#srk,VmGyz?6NJCy\1;\~|G9>Cpo=8~wG9hwNG(g/6Wu6e~Ga'M=oS#NPRC<6*W<5/^WuM5CG$1w+RCu#gWu5-CGy{KV1YM+MRF6/yG9?*.,GdW*RC<&xr>1RpW</XzG9{g_MLzFCG$rN+Wu/iN,GmSYW=Y{+Wu5epRdLXCr>fd.,GFKuRdLMkG9h1~r>*0mG$E$m,r=&+RFL5+G( i*WuM(]1y3.W,G^AX1'~'ELkeL=G$az0G$1k]rKQ?~G9&g.M7yc@Wj8#ORC3be>zzuymC,GhWO8WYGy+G/#E?cHX6n$3\*k\_U0g[;G$1^~r>$kN$f\8;RFW5.,GdLIrx7S|=f.P;a+lRxK*p;,Gyiop1fl~Ns'hhQ~yPow4XmPH*=-6'yL,w/jE,W8WikdckQSl418uymgV]Q~Y5#m(NkJ|5;Sb+iI9X;Byu.m"nPw,"sA&;$RFYQ\wI[=,118v7;dK|E1KofhW>-h+se(/p1O+\QSVk8L#R,eU"!j*.4X]PV;+F.8>L6&/V~UAuw|1E.jVzn/vv{F\,jk,M*L%7I*%,^^,nfgknIN%rAp\HV,gK'z"A'B%6OE#l,^Jy_I56_<11367G,nO?yh'+31z.&{,sap4S=~!\"A'B=@"[h#YIS_z'rj~SGL^J;,P>jf^U|67>z~]8P!'hU=M3,8;/|*zP!uQp,gu[PS1%|zgVzU/*K/.$>wG@P1"V=p1Aw|'1'f-.KdjGjRF;O^=I_A@1Oj[mvJ~u*yp9Kxva~V_1^b6{ypw#!r;xH[p&VPB*lbX^z1WYExnF&w"A#r[1,fgmwl86xN64-0Rdfr8Gppwh,g8Wx1R>Eew|@];jE*~~4A@kOw!%ySvl{mi,WIVCvv%,'1a\QxSX'XR1aij8SVM/S1a\C!SX"h(1a\*AS!fEG1aiU@Soi5!1a-9uS-8v#14Gr-V9_Nrk[GJi,Pn|0P-{=GW =jGg49VEG*4Xv^FgS'K<Lo@>w97,AMG06G'{9uKgC- Om]ubg4LfYC^37B~8'1~Sa$j8SsFW3AMfjegEK7<Qr$>FK?9J;^G?pi> $Y"g!Y;>S"C*e^FjLkOKRui#U/O?K?6AYg4av!SgB6BA8ng\"I]A919NcvgImgzjEFsvk+-rGjUcX5>j#n,1pyS]nUP9&sV<c_11v>*1;(GXWzwi",pj-JGL8n#VOE\jGLMeN,GVYnG9h1KWu/&Yr>r'xWiXFa,QUS{R+%B=~IPAo14a;PRWc\u1>=r6> bBwI/$K%RCU.p PR0WSsFmisY@cA#RfKag|O!Wn.5=u~H3#{S061sXx|?(kS&X5,nEF{wX/rdx^k]o1(vb3x^~i&1$;LgRF7kRnjQp9W<Yvr,E"\!I,dl_Kf-KKdP]+PuA^[HI(x!jy~"pkw"PXF1'QAJj,BE&'@Osvse$Ru,.fAo6~(O5=l&c,4mc%E'UrOIA1Q-pshXWF1O?vL,@m5_N<RG*=QJI>nlXOr,XyW7ySbOc/@|]@,G^Lkrx*g~G[EN6RFW/xWu5iuG(ghIR3.%fW=.bIL;b3"A$XcQWu!RUrxf6cLu+b'R8+7~W=.EbA5<KbGyhrxRFY{kW nYRLzpjesG!"syaYRo"I&0.;UH=RgAx r+GEAks(% L'EEi'O6mSR;<b7a4mJLXnUzxCGs4Csxi;&p03mML4VJ[gMb&eYkSw3Px5VG.#GLR;1>=VeSPG_UW6-]{WOv%SG#kM*W~ebM17L>Qx=|Fmsb{_kw8u,_4*/7rAQJ7CKW8Ylgm!6_oSS^aRFB1KRF6i"RFB;kRF6XKRFBwyRFy1kRF/Xvbm*ASBhr"]1'~^8vM^],RF(w6RF_1YAl1o<G%&9pd9 AM!Hp*@*6jV_WOP<PSP1P&WOgsOA00>Mxw$,H6Gi.H=A@,p1'8r"A00>@u&O^.nd*mY4*(f;hRS{VN?b-lS.wLWAg*1%AK#kkXkG\~VNgX!KQ-=/>jI6_gc\4G*yv=W7bCJ,K3Iv~*6Y?,4gR_'*k@hLgHvc0^x6d5zPx@NWz{u('rn]jIOAI=Iyeng5S]/hIymi7Wb-3jY[_E;P*WCCs^<5Mxmmv\k~#.]s(&o~eIvPd6zbH~1~m%O^Ss&=AcRrUyC*o\111zSA"8ve*#_eE14~j%OkE<M=noe_OVJ~c>0Np6Kn=1*va+X&#3XS6^OW[9Y7]?d"1P_=u~M1N,@mB"111wu1*~Cz6@"Od,XMfb118K@ll8A9Y\#hQ,PFS?x&{RAK?O6P[Cjr(u'wPwn]#?"N-8Hsse<PCIk|j(1Onp@K3Rj(]l|,#,,cKRSQ#jSOAvFj1"#;31A#sS11iuk>GihQ>EY&w4]K;>vJv6^41/Q330IU@1-x\^1boy<sbcoxLaSVHr>1rKr>Ef#19UMg,GxV='ce.XW_pQ6rk>70G9g-uk+uA8,6s&3A4W?b*#k[Gsb;-BK]lX=,_c%Lr#]s!4v]g<W~EPzRFLg8SVd#i11v(HWFQ@G/6a5/Y\#mK'r<d6*#L5N,^U4XoRIY&,jK?W*>zs>Ks8V>,ghpEx\yj{jWh%Y,s9VH~"U]p~JK@Q,s4Iw^W.]yN;n^1uc(dLYQH"nv>^"EOk_yrO-^l$i1AM+Y-.nwv>p&cg1'Q[r1dpXr*F+wR[$@s1/gc-R5"eER5u/]R5U{UR58i$RFz|[NLrC$R["#Plf>pokdh<Ek+{c=u&Kj3R5,HMY;s6*R[ph~%z,a-IapvOILz\~Sd67;k{-OJK!{C?ILs#]R+7L(1A#4KWF]uib8<_,6,'\"6,'r/znxo"gAo~mI~=vc6,Lf=&giCSwX5dMgAo~m=pF6619{1z,s9!=14f',;aO-G#V$E6b8<_,*>zF[*>zW*G(4[U^W.zrgI;54*'y~ysarIkS1S^l^W.zr=x>3b19{yF,^N(+14f',;aO-G#V$E6b8<_,Y.06nY.U 1jW~mbxji1|I+i(JY.MW#&&!H w!ccsxj?Ju;Wbc0I.L[bjm!'s#V$Ek1GVQSI|{M+G=4>HM76bA11C!l4j\w=I|{r41* s4#V$EkA"<~rI|{KrmNP.-1vj*14C"[|!|K=-1eUc>4xFORI|{&YY7B9O14kSa1e3[9A3cR'mNPs 1Js$>A #CLo=iGA1AAB=1JcpG#R\+='M<O;VNA,51e4!X'@]dOgia8/1JcpG;ao4,#V$E*OHW/[AcISMA0&bL10A1zWkn|,#Wa'&1*.{M'0k;@W.G-K1Md-J9HB'*p9?lO1*lVE1149{O6FO91'1ij1On7isebdh9HMi^9Hej9"-RmCG7y$YG7yb9ra[H!uJj3ca>oQIOHf\s1*zX"'0kLAR[ Q81*& M'QV*C>z]#-W$H0a> @J =gs3C1\|cna*g;c1pQ8xa*gEb1*xEgR{V"Sa*gE 1"'J;1p3aOa*gE[1*"IRR{X&]a*gN{1vadCS*&[0;a9I"1#o.1yyMAM="$sKAX_ OBA/=?yyE31S!Er"R,<eIRFl1=w!'dm~e/EAwjK6o'rG<';EKn*>@oCn1Hy>YIN%o&Sl3o"W<j=*1gpE'Y5J+n1y4@[N<mf=~HY{zv4+g'R@Gi1z4HWN\(@rBP-?>nR,"66pvQ|X#_X&VaeyV[pB1?"Iw=6e1vVyk]Y0#r-jfw1-jf=x4\XVlkR\{j{sx~k,sygyKP7Hrp&Hd 4_<eL,g&;A1OnE6nPw3ov40^cY\#*51E?S.G&~,xKP$kd;]@.]1wFxOIunp6Pe{@NGd7QIEJ$O=>V+ e11,CF1]Bo",pc-04VXxg"-,$4Y{{$gKPbyfO6&R 1f-=E' i83Iw=I3sFmP"YWaBo95 px>>C8B1/'+WKlz.w~6F.n'sRzSgclLrse/YP;a;WPpO;(N~%Bl]G=s,0Y;L_z11E$*'d_RibVy_31#k+xPcJ45'cO_=s7|?A1'uR#Om([/LaH.%+F]~<v;C0cv$[h'#?5eG'X<n'[dQGk]*bJK'jPne{dRd6y/7Y',^AchY[6$@WFw[=vvO9S1#>?gGAlW|*%Slh,ni;]s-_Msb8&XCuM3/jY[+0Am@hO'RF!X="xgi\Lpdsr"k4&sxMA/HS3J*%#d+x'#d+x##d+x>#d+x;#d+xL#d+x9#d]1JS3J*8sLfe[sH+k/NN8_#j@~B1B6vdSsJJIW=;%xd11]cX,MG0C11~F41##hFWa||a'Cu+ W7cM&W7cr-#d0\#1'v'b1'B<z1vG.#OA0iXR~~z&Ah&d0G+gx+'EY>r67uU^67+w^6;4uK47%I%k@5G*1hGFg6kvUk4#+14s|9/sC0p"P6_uy#*Ml']S5;RX6wseoYaVl$v>5/UOyu~'1'H=UbV.lr*<PdY*~#b8*bRpc"!&$j1A'?y,{fdJ1wC^E6_z4C6Oy<w1.EJ;s7H=~v>@{#Oky(kW6W\4WGj{r\vPQra484LW3n"sRF6-xRFzb>>\WnkO|BI99|Xk+PfYU]RV&KeI;Q\Pyy(y>11=>IO~U%Ia-'w$>#1GmO%Juv9pY*?=p{3*#&8"Ms7;;jP!'@?+%{J$!|{',1#Lrs'\?L?k+UkdNhH'+seYAv=v0QKs8&mEOK/AH14/U&11'W,1/pH"yF0-s1'1bO1ASs'1AhslRb;'\1@k*fj]ueR;aCuz11Oc_=48Sz9He+_18|osRFy1=O^NI8OAsmr18hK61fhro=J^"[11A3&v64;0G9MwQYiszesh-IoO%A%A,Q8e!uYx1Ma>/Bxg{AzUgm5@@p&;<fg0ixd1*"A,16K#V EEg9Yw6XFS1+r-,sWiCunsz(g{u|IY7/<p1>=ex,CCRFO^r1S>zNAG1AK~F1Rd$gzc+r,,^ _w1;*8Pu_*pmu*J7|Oxbdf1Ag-#1*N s>_bX|4npR\>zN_'>zy\~1;3$Vshl'ywe;nBRu'/u11Ah?>W5;z1*\z+SoGk7jrIA7s(8Rs~myM\R[5kzR_zK+rf.v=Yrze%n0iN~4AXj[NlHIU;a@"g=A!Kr1O/sjjPW.#_Hb=>11.&3rzhCcI([m.1zB5VS1nLnyyG=YR[<^(]#y%FSv]N$YvmKzG<Al0xw'O9WOh*1,~e(Xug.k4PlLm+?&>OnW6aJnWR?gU11"O{4SFdS+(=mbn0i^XxV(5=~a9~=rJe!?1wY.ijWo/\yK0ed$liOS^R4UgY~oJ],j[,A4^kP"4WjSen*!fo1f*a,GH3{~Yz/EYA%HS"nB\<v99I?OOy-i[1#7XrmREzFAXYV0'c(3"R<oGr11~oMKoc5~w! &Cr'^Bd.N&9XPhHHBK?a+~R~n39=&.+EA88Xzsojc(sL_=_w-khU>cireA'@r,*6#A~1'$ow,\8#BuUrf\,z"34GpPz3'_4R0w-LBlr47p3, ?ea44g,7G$>=+>]65B>PMWyR["[W!p%VSyuWav1^buOv(Ay?f6IL$wl(dIn*X*ia$PK,sbRG''jz5vwXhozSXN=8\kn^$Pk,9K,g4>hxJ!F!N*;HKv8a7 S+oMkkP7GW,G,Bk&GA$Mz'KULA!,<<$;e&kgE& ;1Azb$1kX8"nFe"W13YA[*>v]Ms|3IEG({*0W=M?+W</X_R[aj=#@I=r1L?s3V5^'K11^<MplY04IS@p|14w{_4@O+fI 6SaR&K.J(|d{s1RIuxs-EEdI6{yA1-WOMnm(F6"U/u(\7cNsSYE* I637lz"k3i1rzPzz"p/ O;v1?1KY;&+F.NJVW,|ywnM$S.>(Cewn.Fs9pY?QKs9a7O^r\zGkB|A_A{\;1A{&g1>,viw3wWoSr%bpW=/z(;5i9NO#aSG;a]Ro4-P\vg0cg;g7rlSEI-@mg\hs~11i8z99moUREX4X8gP>31>A0{C u\m$1Q<xR$%e_>r84gA9NYOvaEwVRr*p{14kPsjd5ECj M4lv-|zj**aS{L/0 K'j!!|kFp4Qa89UOserNzr*^+,k[F(iI{\a6YRRn&]6!Eyk_/g|kd%E@]xj3SWb-39gp$<YgVp_Er^_wRYR,|#rKQ-N$*[IgxF!$[I9;MeSv]RL1pfe4r4 0KW]emB=%.9Srfdd[>GpHe_Fr^eser/;,09f_*1aOx1upKusHO zw3xLRGa+a>=7z+uWEv5"Ga],hrag,+Y Wp|5=7rd1'-fb;$/V/RC8L 111w#4C=(lo=EC'14R_kOyb_b1S{h.,n\^x*</cL1##/.K.gzFYRRUgGd,ecw!+<(1OCdw+07cuL78?$k '5o*<fkE#AUA[(HKIV,j+WwwJ&ddx&b{=xU0Iexmmv?P0cI81w5{&rKV53>\.{-=IBrxPoz1]P0&g#1#n5+E1FBgSRP@b16Fpm cAo54^^0AW|Y+|O^G-SI(7.0r"Iz8W~JYvr%5hK11>;=po{1e,sbs9,Cdow1vkG7Ox3h|1p a>&dg@dz4c]Ok!J{n6z46QG(S$lSm><>11A!'S0IF>>w\vv1CX5\s ^Kx@|0>MY{ayi1*[>{~x8Gs~vY{'a;el81kWA]P?OC%PBJIdWL"l*A0]|U1pbrf4^juU18^x0GHh4%1J{X'z\]/g;NxWl#Rj\-1E|_LA0]--11,u[1Sw+gWoO_'k3x+X1vWsf=kuf"4,{!gSsF/K,jSi,Xx|5pgggO,~!8a/4&Q8G~Jp*x,^E{AI(mbQj@*%8seb$xw3&3Ipe+85xn8?GPfvap+GNJj9|!PbL7HFBG$rS_;_X[yG(goUWe+iP,GdnK,G7WY,GmjFWN%Bw\xRvuG(g{xWO8YgG9?m+W\fEl;$@G?r#0XzjzuCvr>EgyW z-Kr;{U3,rA]C,G7O*,rA~N,z'YRWu!RyG9?Nyr>EHzG0+I5b"Sw8,GdsK,kFX/W/1['W<p{1PBelyG\78srx$^NWu/05S?U{d,G![&oS?$Y,GdWk,GF++,GmY6,GFvp,GV~6,GV~y,GF.N,G7S^,G7G.W{Nm+rxmof1;fArW hgKW=,{MRCAWnr>EkKGN1^KG\+$#r>EgNl%]M5, 7oQRdG16(9aQ9W=iIaCGd,y,r=~x,*l13A*9>]GyzbIG9we"WuX/KG$*sIWkYu{Pf6<(,sV-ySd.9*#RjS*,G[Kz>rr>e8Bh?@,GF~u,G7YyoGGv"G1sJnrx*1yWw'?yRF rYUIu;_,GF.+,GU*fowL{a,r=+YG9+;"GNa*KG$fFCG$slGCWlEPr#|?KRom+nrK?1Nr#ec_1Gm7?rK?RNG_~4k,GV6,,~fHJ,G7~z,GF+C,GV6K,rAvn>~7Hc,GF~6,GmSv,GdY~,GnyW1GBEgW</+"G9p{xW.6w#,GF+k,GmkSGpnuNPf.@MWeA@xRF,8bo=8;lGN**+RF/{xr>\z+G9.vz>rgYnRdY-x?3o1#G$rw6rxX?|49XL&r#0?k,,[.ARfh9J,GF.zKFl!iRCAW*W<YKIR[K>" VrbrW=!1"r>ll.GyM&1/ 1$#R[JY^rx\p+G8k]9G(g{yafb>W,GmOx,rA+z,Gmx=1G9#JRFW/*R[JYv4^Y=g,G<r61A+*@N*>g%RCA9V1/C_4,GU;kY Wr$RF>WJOvVyFnd~UGRCJ6Y3013>WO8vY14(>b1GLQ>GLM.pr#0XNUQ[Rz,GmL*,rA+p,r4sy1;l.-WO8^9GK!7{1$WiwWO8p/1/CU4,G[UpN>kWLW<5]*M(wN(G6X/Klxu M,GkWwr>Bb+19Asa,GC|Q>UJuzW<Y0[r9yK[,GV]"1% C(GcLFSGy?'xW z-xW(^((rK?;kWO8sIR[vjgmC%y(,GmLI,G7u\GpgCUpV7<JG$*snRC86yr"-.7G6>"LE*9^|,GFI{GpIxRRCUOI4^jzo1pb;+HcO1\G6V%9I9X* ,G7r$1=-eV0iS4BW p?"Rm{|vG9wXvG90XyRNB*.1z^3zGy?p6WfR"OW{YJHRCAsp,GV0c1ffNO>GfmGY<s6(G6|]41>i|3W(/'uG6X[b47w?G,G7Y<1>gx(G1|--!y/,hr>L@#1Pm^C6=X[|,Gdsx,GdP94^j7,8f4a?R[<SnW=6+x3f>>nG(QXNG(g56W~J~*G6Xb6R["IMG 9+F,GVKwAl4Y@rr\hIRdW]kW z-y[z+HFWu#mz1sI@vG>z~nR["SYG6X\h'EM!yOpWX|rpMnK(|XfWW 0'J1%3FmW56%Y,G/kR1^P O,GmLK,Gdny,G8ll8fORoW=6+pWz'{6"0<>aW;1vj>rg6yOvVx]4A98<rs,[F.knz01-1a"RdI1kr-Ye1W~JnIG(g{kIHXCHr>1gxrAl=PR[l((R["rr4^^o]O"|>Vr$#K$W<YfM4XA@C1A 4K7NCIl4^*av1sfOlr#0?y=0Cl*rY&4.!KbN1(Hm|^1r[~gG9pXIW SryGO6W*9||;BRCAOxW<Y+xS5#./,Gj-711*NiG6X&p@A++gAvLs=WO87lO""p0rHX~YvAX?+@y'wLWBeG%r>$kyRN(NE1]OYRG$aNyW S1"rI"rEW<".L1Bj3(cz,(kAgPyv1sNO[GLMh/4mM4URCAOx7NxPQ16,.orx6-+RdW]"~VB]g111fP1W-6PW<Y]prK?aV4V|~yO|!6_AgxwsRCA#K4'^?xW hkyG%p 9k$[VAp\MGer'YOWI|lL*G(g5Nr#&16ul{a,,"\hU"&Pin,GkSK,Gm*,AL[f/G9{rpG9c"vY 6kV,GXkS>GVYN1psOo,Gm#v,GmOK,r>6@PB]VyG{|\_GLM/kW<YM~R fsmw]Y@EWG?gV#dQ ~1*y1HOvVv04^psv1'B~yPgbxSrK?''1% uF,s_N*r>.SORdYM6[=V%j1J?CuAm|9b=078f,G%#61Pc/CGU5CarK?a.rK?a+widbR4^^c_1>]H|,GQ\RRCu+IGN](XrxlNui|U{<rK?>-1lJyp1Iw"4,G7OY,G5Hr>ra>8PBildW6i0FQmpYKrYj5w,{IIb14(434B*H{sL;M1W 'hxczm0(QG5|5^Ofe'1*yE51,LEOG$N^Nr>9-kQ\n##1pbk%P*6U_RF Q_po-j\,Gmk8rfcimRCu#nF,rU_Acx!o'o-s\WEap!o .M9,GC{h1Wiv~W~JvKG(gbNVCRg1W=/h"/k4?ONfowU,G%Mf1A|#p \iyXrJElRsBRuB11Lxw1#+-d;bOUHs^S%CRCA#*9Hm3E4*7zEepS4&uQmEm,r'r'1Pc/Yka'KYrK?wur#0-NW<Y]xRb^*3,GVE\>Gc=a1'!X]1*iA3IN8&kz^~_CW pQQ4^xp'1C6U(rK?'C,GIo[1#S-EgIk{;W~Jk@4KOo#,G3Q81m~G8,r=~v,jhd%W&CvuN*0vH1h;'.3P<c0WkkdKRC8Wj{R.Y6'E/IvA0&b>1'!8GWO8v"P?B||,GFYp,GmO31fFI8OvVuS4mey$1]]l@$1'Sf1ffk,1;.yb8PoB,1*"n<1A|#pGH$-F1*6sy1R?0<p]we]A>Q6_rx*Nyrnoz^prLa>'j~s RJSI|R?uB5G9=WPF9Q#14V!KLRC8Wvlfr; 1-L+{1OC(L mE~>W~3m5Y/+=V11>U?14kGghdH(esV{3mOvVj"4h~--r>U6&1I?a;\A14$]MvpR,Gmnbs-G6n~xy?k1f%=/>rA#v1A=yPHEYOH#RSe&1rzxLmdEjJ1>wj7rUng_.;nc'#8wPbG9'/jG96]71(Uvzrx\pyGi34*GLMMK%zyo!4me3Q1O 0v(pR[9A0B/NCGCQIWu/&xG=bfrG(gV&AgY3s1r|3GA*9f!PIsfzWRs_fSRk0o4^I~a1,!;7aeGB+AXY 85k#Xp,  1JP^_.^HG3.i]VJ<''rgK?1Q?,RWl^"OW{@0d=nsy%4VJ4V>W3i;1^0dzVF\z]1*"O 1GX=>O^p~v,GmsN,GV1h1=lPMG<-UB11s\S,G0H#>G!mW1W~wer#0X~Y6nL]1*6vy1*aw#%z_|b1-40SRC3v"@H*o#GpgP_N#N/JGLM+YSRyYb,G^po1[E*0Gy.YA1^4P7WO8K*Wo VRwi7l4r'k@wxwyl\1 m!zr>1avGh7|oiVCY*R["L*(|d  1>w9eG#Xw\WuM.pW*R_(R["Wxhdwk84VJc=111EKW hF'@arAPGi{ulW<XB[AQorv>rs<I1Pj/vsm&Pl,G3\b>G6po19-LmG6X7g'rgG<Pl68&G8nKf]Ma;%W+vx7rK?Ad16,BL,GEc41B0i6,G\e|1O ^NGU/*!G6lPp1'G~zvmmgl;=Wzs4V|]kOH6-'P0y$r>G+l>g^wcMWIeUuG9]c,>GJ{k1#n@'RCAR='rPGU1><A7d$@x31lJnh1'yYk30(aePBUG.W\liAW7hc%A0U9^14Fxj$-9Em'gMQeK.EFwa1|%R4w"_VW~J+kr#&4=P!3PdGYyU3RF.e*W<iy0~k!?{js43.G6l VYw(fLjsL'h1{?$6WFS66"I^Ns%+C\a#J%xS,Pm!R* -RM,W$d_>0rr-S1F$P1#aA,vmxJ=11KY{y$ly$"InmzLEG PI,/+Jux5>+1sEU9uxFMa11Bv|pc'SMONRI;xc8.Vy/,^b+WF+Jr;kNzbY(*{pm@sJalQvEL+9<ys\#/i1Y6a?xwE>614!Oj>SXVU>QNi3,^N{W>0I(0P1Y/,9K74g1fN7s/>MC(~" sh1R70(pmBIGs7H%evmk0Hr=_3Bv#$$G14kod1X6].y P?gRPi<c> iL^'Efpim<SjY>zNAj>\5KA4eOzHl1$%o1|100> $n~;,bBP;,Gr6'A6nJyw-WkLwI&RCPVfP*9U=gj5~N*vV@7'wliY-1HNW7*bzbf*xAK+,g=(8a1'gyWO0KaKEP&^9H@!|4xkbf*N^x~wf]Gb>/U=is$1c^*NY8Fpc1k#4Xa|@1!H0!4m[%|'\3;91f*'xz"]RP1k6Fj*kW7V1*P>PkE^d<44HrP9|X;d1aNVn,j%b7;/|zk,j+e9IR]&Avv[%!,gp?y~$>b~gm?J=^CwKpO*-NyQQpCL4>_HfwlGM541_oF=g_~]Ww&i>N-@J"sph@9mNLXjI(W/4Sl#~>~$n~/NkwRHuCJ3_Yz$N9"k9h>sfogWem_NlWwk>kef&e011adSW<r;r\fLajx5{fbiBdbM6 -0cWW";GHY<$$kNGM$rK[rCsLckVAgUdE1A"%j1;-YR^3wv<=#\'J9uJapspHNpvc_VYrk78!wo>%'So-_>R,"1;11z&w1y*yo^3w"OrfI[<yp;%hx37N,1hK%\O67x>KIK4P=o+E{9'Fsav>~R9Nk,+d8H4hM^smm4nU#>.GH]-BpRIjcKV'I{HE9Y%vI(ggYb[J+Y;y!YxPrY]^sfy?v-w+ds|PP*>]\;LIkcC.s%z<W]hEyyNNJ/iI J6C1vV,x,><R$z\Udd"V1ymr"_mwWfky_zY6#^11hsa4.xn6*|_>/I |SF>0$w^O$W*COY9'dOy3Gpw3R=M"xhuuRi&F%;n,#yK*J6Ox@J@i1A?KO11 +L'nH>e\lk567@[@61'<N~eX4J6111Hs4]h^Ssbd&w1*F@G4MUGsH\6S111Iz{*;"ccnUAJ51-ol"W8w#YKdg%M1-Ro]1oh_BL7?c[R["#G>w9/514@;1*-nx<Rn'a[1-;m\*;]9AI(h0^OKo@N111\v1p_KJ+*c8G1*i=kPK&up9h#1nz4cEz4Ifu=1O5+u,P;8"xzfkF1xc3sw?j0V3Mn0J*j{\<C CO5nU|f;44gBlsV<fe=&xA(G6!iY6>[[,1vavSGav'#KG7O\gp[s 0&3{6SoGkCYum [jgd6<z0fIG*~+1_dnwEEs7UVKR5uix>wrcY"1$b71AhL(KuLf;*~C"-1AU7yv/3chv/ozc#e%gHzEs^|L@n ww-Y4SgrSQHgr,p]r~iRky*W{uW50&cRn#CAA?v5 nU>6$s5389hFxHF~vI~11'fi6_p<>Gf"{nR**1@'RC'ny[z h\L/YNRaGKvlw!Pb@Y<gm-%zL0'j_A'x,^A<$j^w3vkvGyQjm0~Ju'KuB1'JRBYyiR719Q'_,s_/b4mm_k4K0j74#<e.RiKO0"I%ylG9hz]p'j#Y1,EE3G$ag.r~Odk4EvKBj]\{7cR#i3190wPW n;3^<xl&1;a=bWb$j7,^a-a1;\u4r>&Fu1"88dxcJ*CI/Iu_'E[r3>GnA{;[i!g1sv;U EA<aW.WxMRSjP=11funa*p &1]yoG44=~nua\n5goXnR1'~ic>z~>1WXC,;1>3>41*%"(PHRbzY(1hxG;a@mYl 0^<V+v]1AU$G=0BmHWu.~IN|3pC'r^k;>GU?&RROz w]^V=Of80GOXR;#18J R6zHp>v-vC811S&<s8[QU,c[.L4M'_;#V'eN4{7rjvx4oh>rH 54E-66X9iUGO^f*%'MbJkj0.E@16HJi1emm9m$uh#O!n#YufcB+K5PXf4I.!C*p Am@A+- OV!@ 1A[CVOfr;!SjO[zNwKKj4i&9]0\cY]jdozK+F.1EO!vf!1v5%awl4ly1e#p7A!A7c9pYX.u!,i-#]9'g11K U#@^ @4m%Heg4&">>z@IF=fS&@14vVr'>jE$=0+|H1vNgY1(E_^O+NRR1'IW]]m"+$Nl{Ka^aAjSal|kkFyQ~C1vCQ]11vUC#V]@f#3h!<YiU3<N6AFo4v#<>I0rJvIyo_MxjsGY69K#Oyw6m&'PcaK14Hvj1 M.ex@nOdS9|I\RGf>A14$b41%S9RX>z&"kyGk8IS@Qi>cv'9A19({+,?>]vehuBk9iG%,G_R#~HivQykaFxAgm_fdUQ>|IN+ "~<Y!"Q_l,z"9bhISA7j.&F~a<z?Y?is(,Yy14@144^CaJ>@o!{;3|u9I=mUXul?j&9,gg1k+?.J6@n.mN1CzSGLfax@+{N$vmF]@w\Q<u*k8pij.n@u_'i&uA"[QRshX31OzC*PWznr_R+ ,\1'<l0[{1Q<RFh[i>LM-{1y1GNWuM G*'a0EAjKSX1A>&r111zSw'J;h1_NL$,sBHEgmov,3QylY*d>\RzBngFI63R{nQ7.*#3&<71Y^{[,zp3+,zpKoprYdBKmNYb#o'6k1M/'3g\hP^G%,vf#5Yo?OA[rpL JP+seX]jSRLfPPXwSSSfuusA?cs*wH_zP1A'dE1'v#?1A0[Id$EA'8QUb<G_y=COApi-9;Y8g1x~Hj4MSiOWif! ?RaMM1vl kSm>%!"vR|S,w$^%O6%"'r8WNcLLfCS>{4K>1rHxNWncK(OAuU.L$JE;1"|xk1Huf#YkLd=*K5+B,gu.!^?xsjYOmXi,jSB\4XAV5yI"M6nB^&61K[z/n.SvKg^mhy* yj6g*|b'w\bkX^$3.|;n~{1wfEdv1>+<osH1mECw!EF"*4I-R[J]KnF8<B6].(m1zMM[wl\c<Kc{nbg!;n{1aNl+OKCHmA"{QKKm"0\r+8g<g!L**p9&VwbVy-04BW%(14Hs^#R+-e>'H^k##?@OUQE13KESR9b!P'Pp0bNs/>cR!Ix-MaAj@ERR?#PNs/!y!K #,I6@z7UwHby64;kxU"Id&G4*(_op]o@\pA!ym>i*Y*=INd,~mF%<ON^%7>zFzx6=krH~aR&;11^!^'#skY",L#* s(L1UPQy>7$jhnm$uM71"xeX1~+7pW=/3~1*-rK_p,G{G9w56Gy5^Q4^Ia!+3l|6GN*fc_A{%Hj{KneSv0&H#7mUaGw\KdaJ>fhv(^F-gzkr,Q1i3%r-S,Y1"=IHwJP4P>s8j8;,*r<'k3Uo=gCa]x ?f'4J^mmK,!^aK,!a#Ld4LzkScOzOX>\I4Xw/bxzrGN1%V1lw|>(/"l*wa1fe;9_K;?='i&IJ'Q+_5y/7h.,g4,\x@j;(LiA[J11L=U13/A@U#3L,>r!KU"IBFb1Ag#ekbH5LOm_dm14;8B14Vj*BhlV~1>x@#s98R'O^Gcr1xC['sBn8X(p=FcWu/{pWuM.!pVxn$1fJWe;F#EN=4-/a1r7m7G9hzdW=*=$Wkn]lW_'04r>\m_RC0|^4*Sv "Ic(CLW\<WRgX8E'iLN(s$8kFz1;GR>]|~?;[Vou>m-dE='CK.11sI~'GS-YV[,LLpm\p,40@m&k{i9<I$8G~1*bCNA$C F_HN|?r1^ ?=H&UF**,lJ1A"Uj?Fr?11A0g_11zelgoy9fznm6g18 y*N;Q'FsYu&Qup% [8g47cu>x/*RC'v6crhi'80v@iA^QV[P&SE^14B1o1ep%OV9-L/K!?U|vJ~^G,^JPzNy["cr9d%>v6-aMgn<\z,s4yxz/"bw+smeX'BJ%7zh&U1AX!l%AneMGuB4,&IAi~;gXPi,vVFsIfu*FOk=ElhzvJcx#N>/"yR+]dI(WKms8z{zzvK4G,n(,/166*<"IKH_Rr1WK4mcb$;-_i",sf>8Kg?#MufPhu*w%aI=HdA]rhF,RIa=&bUfy^WwJ=6]1'|[zW9(z,g]EQpKg3j'=;u3j9yeF_s6R${Kg3CaQJW_o~|6iKgcWAB=K<+?AIK^,g'~n3KgVCzIOe98Kgl'I1H_SpP06F3vx-1"zvX.?11O@M4!WC.G#Rz<#F?WC1* P1Wwd_&p\MW&LkFsR1MEV;Wxy?Vzp;f&HQmjra8.p3afb@s>\p6v1B{7^wMCu9>R6lRNfyK8>\fd+1YBggvp&gU%drGSgwLayg^'E4"GkNRnI$yc1Xm{\41Kbo1Hrpf11aw>^&7wxuE,H^sP;%ms7]n1nI<nfy6hu;w\-|y"Q8aI1y|X*,j'|.zcdA~,"rLH,"\.?Gyo"54*#nK;Nxoa'\5~bN$'?&,jV"*W6Q_+rffjL;,MvN4' \WW .i[19J'cGpAprG/m>x1*p='NK<a~'V^y'^~E7@Y\[0?~>O"c^~E/4k,XI1$>@?&s$"w[Y@LJ]KJscPy[V@*1vJc1a*B$*1.*(p,R[P^,n6@?_A5emvf5M~Wk/m[nU>/]R+#F&n<n$wyF&nId<OQu_,P~5nM#[POB,GQ1*Hv#Vwn-E,s*u5I=xF^k+?sH,nWn 6W,8?K]|_s,g~<%j&e,NK]-FH,Y9MoxG >Bjr.E&,d<'+O"3^8j^jJJY_6{d;RRG#{^Fd-N{k^zG(jw;s%X!"1pGWJ,^e+ k[BLQ+"cO5kQ4VO47>$wwoRlU#R<|H'moycuJkyPP06QP11n0d1Ez=Jk3xCXjJz>OpB^c<O/hi-#Y~mjRdffgK.NGK11H@8'-N88I$A?@~JK(\S*+Yw~d=z@gp8b*9u(c{1K&XElf=U{wX\9L4e%vu#d+[x~!v5;~"sS;=1Xuh4/ KOsKsr51f<cVj?vOnah=0_3Q@ln/LX=vjmz-\k[Nogxn%8fukgJ|GV=fOgp8]MjmzS'1adY##Rw(iO^*_$>_O/|;so.,]$-I*kQP#5nU#K^8%oELKI/WSgp|6I**OvMy[7n&9p^[M1>>]{ypLi$4^j..Y<-8I*{vH5k\[4|RUGukC5W?3>CU^*11'.,w"z&311adSs4u>zkN,>.1A+W=11HIv#[^ w6y&U'L/YE=1*fyCL/*PC1dKa/IhOh3znC-JL$*d<1'~Xw*eR^VO^E$-Wz3\LNOaki~;yYWp#$&Jjyb6\"4k"w1%4rU>z~#{W61?%$;vpVAgU_I>\L1|;C/s41#n3'^G13Y1mcG\w!%A'gpeo+W~|KN0i'kaIaKE/@HiYR1b[^IP>]gO'rY,{pf6U|s%kn*1"n%,'v|U+sp%4Y30yC<Qpnjjk5Oh+W~e#v>UliSk?ULFs7'g74*!xjFNGx 1'] Fpg(/#~Juzaj]U1fGy[JBo *@$jo/KBW<WYrnP0_0WN/f*;G1]%1H!yxgpeozu="^{jo EE*L/5[yu(PE>iV&|gMQ,hgFCC&nf/{%WB1c@0!YY_kdFnnsV i9~*Yd7gp8+%~v?c8jo7"c4Mp,puwWFFGy@HNLSB],=8a'^11s_CO6hXHO1vR{80vi/1^'~3SY<xAkR{!mj_1CN #e_k,sykznf/sEW<Ins4VXC-jW"jfP-n@E,zAUH*fE+R'ryH1nW;94#Rj{ygp8dL1kfB3P=C"F[ ^d;RCA%js7Gv$SduavR]'3[,]iiu~ME0-W5r-,flEp&1#ME%nRa%#OBn[@KF[ovx3'Q9s%k6hAygoC,joRsnP5A;wYf9M1'J>QIH+!,Gy3+"n5k%7m~Q7 yaYKW,ms^B18+*l11's;YFj|]="X$-1k]{eR]>Oa{.6S*v$#KFv$4|M/rvz6Iy^]@~pE>Ep?w";wEU np\.aV*(3=^H0__Wvv i'dNgfO'& 1,p8@SW1O,maP4;*M#dH% 1'HGx<0PLCvvzv,vpm_$S3|PfO967&1KycMO-,+sp%Yf_1S8#.HEI{cp <_uAM.0f^i7|'P?M&[pm@OiN;eVS1#LHmRwYW|11^V4R.m@G@"[>X1vRQ$s/j#lIwPxzvv%(a1JJ%0g79p/yHy,Rv7QbCXx</aO;[?v14fw-A?.8^#X9#Q1,55F#E ,{0\&(.11reC>  cuAwKoUvaEwVRr*p{14krjPX^R~j B?&"'~Xy**aS{A^uAa>{go|gv~%0xEd3?v^ypCshbroP??7d11sofLWGWQ1ej|g0\&GL4I];v'r7|P,sGP>Ao7j^'PANm11AW[w1aFwAYr(ngr[Nyy6G@V^[jBcSV7J,6WsM&I{imwjo/fVNu>F~k\[_+7SUKxxxcdVksE=n1OAeO'\@yAkRH8=j,15oNkU$EA*ssgyH]gbjiO?hWG{G%KI[IIy(A.KsL%z?@HSPAxR"FGw- QM/>cMf14hW'4X'-@O1KE(An#WwgA7iMY|'i]k\{BdKlU+Gs7'kl114j_Y\du YiK&k'9{@=pGJ441aGXKs/\j7S@p]|1p "/?,&H.S@a'A14VH51/m~Qs/Qj^w8z|S'rIMBAE NXre?F'"!x8.Lu>ub1UdV$>wO]jksc%9Wzmc\j=-,E1e>BR1'~&zGAV^ "-;yvOKXLh11=J+18uN<xUUkB*a_o9#FF+1xr~.1M>Qd.YG6nv, 8J+1pQA.{F^~(1ASW#1ASSY1h6*Crv,A(sh~sC1>H*nj5b7yalQb7'j-=OY$~bj*aErB*l3QQ>E/KAOp$&]*l\+91"UcnGA!A7Y5P,xYoS<ujnbQ|19|OSjo^dM11*Ew>\9klA/z~U=Q[+11"Uee4m|4R1fawrmNxPjYwrC3Ra~#G6O.xS1g&A~6wKGLgMulHsVpraRb#Ej^N(+1=*%Gm9#n<iL E7p4j*0Yf-Lo4y$lG!jd/|fKd+Vgp=?#1*w8j64o_bIg'rP*>AF&I4%M;bve(FOO4*ba1fVO-Sf{Nk11*ga1OAe8Nu=bb4^//o=p05{'nnV*O^r\/K~8N^z4cES1-uBs4L_*xpEIc8s^ l[s/S?5OmB%Y'?XwMc{87"19HbYsh@G5*f+/]O$R =>]^yQ"Ix_zMG*uaWRV"QNy{o5111ag=HcQ?;+nE{%C<Ek11r$Kw1a[0'\5uGOJPc '\-^=1J<!x*x|sKjg7islI5~$sb>(jnKvwWkWuao14$x~1'u79%zAAcSsh=-#d7XY1 nV%~|N RO(]Ic*fblc>W>1,4yM-vIH_" RC#kas$4.L4-z*By;/'s+F/ww1p*<WR+pFCRP$zi1*EYA14M6fsXA&'#i@IFAO"cVSddBo=Qld4,X>\n'3~;m#R,XG>#GEu1uN>U;b4C#1eAP'=73bh1-n 5ApIrPo=<#%R\%H7~|6? "GR=h7NkEX"SOy@kiahe>{n@w4-4w-"'LsVM~/&zS!lRvgpeVc1'uk'_A%=H(|__nj&h%%1]<$=rlF*91vWb[1]Gfrgp8_O"#[pd1,M@\6rN5#YR@5gwIcr>4e&Au=jl-",P7NM11.5b1_.,0Y_yXOhECKh,XYFz~LV0WPoJBLp47gxYSxC;>GH{c4w ]%smu0#>+Lm>1"uEw~980a;N6{ju|S|b11|/p#r=p.(%rUY11NEu14B]L1*/.dPHRSnrIE{\Wn7kJ,w|YhF[sM6IzNlMvA(p'11#wx>s"8<gK_;\IBy$5~j|671#B=Wd WIK1'<\(p]?v$;si-EwJ|brKRS0Eu[vhi~YX0su//jr>AW'C'vb>6^OlbEKo&+^nR1f\1",5E4^66V18PjyWL]p|WL]KvW.Pu{;GfMFO6x(+14e"m1*],"OhLRz145<_1>H*A^jPP>o=]%O^6G7(;$ozE;Ndml#XjQYAW$ l6wi+E6~\^*r*_%Enf/W3g-;Nivmc8=1Ld{Pnf(kK=JI|yLaHs\b!+gKwJ"e_1_e;Q,oc5*~a9iV%[s|b1Lc8eK*s5Y1J<_Yjzj\L11y]41JuICsJ'+^jz^AA1JBX6AY1yla1R>r^Seh&F9UJ*11YbUWWi+gk~O{r18npo4|,G6uN$OrUcCbbg* X'"-rUJ1;\%Y~vbm!;RfF9>_Su?R5,7bC=5/I~1Lu<9HmJUL,oWC"kJI71f7"914C|R,zzkR11aw0114>pA03wGzAQ=;,R~lJ%+.r,s%gu^zAo|U4~.G~YbFnhnFby0uvUSLRGQbc1*"c S1CG"1KN4%L{,.#=0/9Un?"VnO1"xA4vC6$67U%m~mI~\";+{b*/d,9~p-Ch=8^b<#dh/UiNNMjP|R#96<Rais%nNX^bkJ[9k$l'1AA"0,W60>ug,G/11<4c>sRGCG/1rS;a>O'4vKGRBHx=WY&("(jmzJ*rd~GrYb[oM~m@FCL/c#J1]l-E>zy@c110+a1pySu#d+%wp4i*p9AJnG>zyJU1'|,.#d.N>"-Yy/^.mNVO%0f51"59k9'U*@gI_I8z[cmBp8W\G4K=O<gnFo&jE5'5,jJ88s%XG]67&;\gYrI*1p-hdve-0?4yW6|,nr1r/kpG7guNeR1^C3^'&[o+6d3S*wEe^E9 j+|sh~#7#r7iEB'KmHgoxFu,d{!V PHJ8AQoO3AYRK$nf/WEKi|6jA$,E k=./d9$y((s7N6eyzmwu41/^f,+ARbgXPNiY7/8E1k491v<7']gVs|onMV]LLWMu_;sBK0W[LJvr-Pck11,"<1?Lf[swV!zN{kQ8gQ=@OP0('\r*F7@4Us&oY>3^s1-!ia1&!9%sPMAvrfd~ mE'Ge,^bm&1vm3{nVWMH~Lxd6zA3j{>,n|[~'GHl*$Y3Luv0W~>4-O=1BHhWs{|z<+NGN!1kEui~4#c*1-9;lwK;HO1*K7]4>>(ozAQ95zkx6P#F[]UN{6Mb#nMxOKQzUl~'>W|LR8 AW5aY1*-j7!a96i'"!NJ!1vlkc1JMC1#R7g;16+@S#dd.6"1g<OY9ik>'oJOPv$JQ0sph6/pE6/K6;<uj6;4CM1"K?N1-laEw*4F^1>>S\Y9-z 6Fbb"=7']<11=i!=4s!^1JB/E1eam~RinOU,{B -4f6!MavrU(1|L($N(h9Ny R/{u|HYW=Q5"0ni!l8=3GO&uYhES,P/+"u7A;ggcaKu,jp!;xejx5xejxf4VVP34Voe('rPf#11fN8G+SiQ=?'.j/C'evYCfE76 J\[g?fNQNuM+P*=<,mKo$SgPh|l[^E@dp6=rixw4kB&#PGr<g?f>'x?'H$ns$b{s8z{eKo$?>>0ofG=HoUN=!isLg?fGPnewCO*#_Q(s$6XAO8nc*PXMy^sV{''u38_?~k#X"d.MG.new_=*,B~!"Q81i11QYxLFMJ~wH9%F4IHP{OI+\$1#9UH<g,d;xF!b{C.9.fY(*%eIROgfuM?QjC.9i(I/GV,Oyi-O#i"{{a"GKurNX"-C.Lx^1**z=*9gYVKohSG1zS|6'\@,>'\5^'1v!h'4xiIMs7v{f119O[4L\Ay;Nd3Gk&!+;SI(?O=H,%_,j^v[sI_4.=?A~!A(v^;WkC6xV9C[M1(o==x?Ovk1o?eXsbW&'z*rnMv4p1[xzNz="Q8aI1y|sR,n_"9=Q!pmnsM\U,"\.]C.L~I11a gL=0~44dfu+^,cniKv7(N'eEigghYP=k&!+RY,-ur,IF1mnM[_M*E7v=]-_PEkX; "^,cn\KH\AhKc+WRbp9oAs%>XG*u*X(k$[_Qn!#7R4Y!e^9p.^z>MMU8uYeJOu!*F,0gF&nzgpKYd$3YXG(j ^0g{Q1GiUbY~Am6GO$FmS=XOV#']z_UgfA6Rj_1bl,jRGe~J3][N%;Md,sb(G6C fhj_1!{,^EH|6GJ31n3Kum,^O*u~Am6GwAQ&>A^h>;9|X=wwSwK;,nrd_6unIvyaY!Qa-S$cRP]W~=oa&\p&&KH14k+9=?pUBy/h>411Y]C1{J#]0g{(FIU1oskGe61;\."yOysm*=QoG_>1[.z\a;PG^]V74NKzR0sby']1"c*=L$zuR9H("[A4%Jz^]Xr5wK;cK1Axjlg?hO|'E.\g!a%cjNkzXaI''<6kGea$>??e69,y,]* .(X*%Xm8Oyfh/463=^P1*?e^uV]RNk~hW'rWCjaf0{;Lk"OhK.b9v(p/Rv11!7?OyfH-=?nl(AvVO&g*nJLOl8'8=X&L(uQm;BI>d ?kdGIL1O04iwJ3cNRi0xNr;;ByR?~'MNku1Y>_4SFA6z.HO^rdnRNIS<7{sYgvN?{.#5G!^#91lgkG8r;OL;YA4mVoe>n-,?4_R]n^@VnA1 [V1jc;4hO7EY(1p<p8;Nxk]=o$X*9%"/(9(idvwQrS',C[HXOmfr_"j?cB11* s1advMjcw\%1m&1 w|*;*^]V%|xWBGR@pp[[WzFUe(hg]z1b[frP#p6Q#FQ%R1O5Ywsh1M<h,5omwp1z@xr*4dn\I+ku]z_(6G|.'uK%$p>oPCMvhJcIKfkR{=A*Sb4YGKn>_]IL,Ud7!wS"SX,jRG\x@8(\,nXmB=-JKYP#-+n1H!yG^]V%CbV-99uR/Sfk0 ]df'ELAEK#486wg/w4#".isb,5<O(A~P1aa7MP#j.!1Ajl.4k,19sKa/n16LnKOz0brOxz/M11YW[=|>gn1'3^M_H*i>'s!*|La+N-jzm4_1906=Sj]X;=|K7 ,jcC?'Fzj+,nX&[gA#|$RC'?%4VXd4^S*vgP-^'F,zAUH*fE.R'ry8+kb]o~#Rj{y^]Xj|1kfJ P=C"F[ gjwypLBvIpp!_1RIuR"",0HgAO~{4A]cjS;1vU+F.|<6S,S,b1N'kzAbbngA>_~k0F_1~;Y=rvv[I@_p4J@6,8a8y=i.nOy3O^11HYA="Wfs;Kk*EshN5nyw,I6,j%x?11's;KomN|="W8.=|m#?"vB$nw46CG"^{hLb1z/*j@1>Ks$OGOLb\i"wEU kIHp(<Kjoe3wXMM_6OE.(i"K|/b1y?LYJ|&f~91?xFULN@RN*Issirl1~91w ~91iH6*#B,RP4Jv=oXpR14halxRJJbb16(\11sF1RE@S>@"[>X1vRQ$s/j#{~91n+6*#B#;a,fb=?|9vG^S1uXx<$Nw1/E614halA?.8^>;AJ31,55Fb1yr'0\&(.11r8E=Q@mH'wOvXg\%QxuvIdK' b]oj cJg=?nrC4''"Qb1yGlrlFY$4>~x,v%{1$;{[w>BKaub'rm,F1=B\&s%0W XNWdA30!@(Va0;?RNISz;uf"@AjBj~AYf>GG|VoAR[p4,So~BWn97vSK0g_bu1|~/^s5vcIw&d@/;"VBkAs7Vw!5N|WO SG1-V#c4fdmp145/F11V8dP4K!>smu$dw;(!1s/Xk'n?7Y%11b9k="G8j's@]<L/uN5Y[As]*z8C3=v""rw4;GespH%[XxQ~zr4w;\nBb_c~51L-X>uc611wOA*$]^aK0YoN#Jb\\OK/,414H-o#W@~|ws"@j1L+Par9VlR^sQ{#AYkl%z]f#V"!k4BO4B4L1f{N@'Qmau>w9\(=B1c=V{LA.1e#N/Okf3u14%$d'juhlseR!W iNf3gXsYYS%S<zvh4[~#F BUa*gku9y$rW;,Bm+I,kN1~'X y>m7V\4;Av>K.]z#nAE$4;a>(>;a>WMwPWr3PA0rAs$UI61>H*pI.x&465O6f4mi< A.'rdF9Ui[14X\&1166N1vF98WR3v@ddf+E,YGGY,p>M]AQ3;>I'b7PRP]@A1kW^xwrnF[#Wf.Uju1X1^Cdbk~f!%O3-=Ps1fh.64Nw.9>wajA_=vxzY;c|zxV9Hk^]Vmj4^Y{\RP~~M4^%3_'&j_p=ngY3IOBQW,gK1-=?n\/4u'&MKF&'z1#cSa4*\40"g4[m;$XA-,]iJp=HmSJs(pk;=M#,A^O$K3R|s!mNyO8AWr{hH#Rw6+>.IhRE4{b7^,nbVM;\jiR!V'M4mc08=B$y6,PQEEM;5lB=Br!SWa{|KGU6i4k;On3~yi*E11O\ARGi<b=0[a<1']5BWa[9{y($&v, Hyb=Q\+xvJNwFsbR[b4Xr*Mw|G%QAn\w/a#|BxwrPC+z*_fl1%%3;wrg6gyA<Lo1vV6;1fb<]18H.Mm_HLW1-'eU17/zIzA7Gh#3oLX1'lrF{,iMcO^G{;1-9Mw4g;ySzA8(N1ejHW1v7AY44x_j1v(--uM|r%Xx3pL1'J1Ghd>r0Ib#F=4Y3U*bMkx9zsR@.,s]3ngfP&WxWeumOx3/[1'UN[#RSU0u9|%LgrhfM11Gr(Af\4[8QCw9xrNY8;~<Rh,G^N!C0G5%P^]VrB'>A4pS7x/GH8..gYBv Pg$g_6Vo^hV$8/Ob^bB9znr!u1C(e*6ryRs;,NP7wI%dI1#WE(Vz<<e~A]O>'3$MK;Swb^\Hkh]W%IJk~Af(I1&MQ0Vzb8I>+^ha,Qi[A=!fS&VzbX&;OuV7#[_#m s//SO!K.dy6Fz5r-u%|9p.r~4oe9{IC|LS>cE~P4a~cu5a+!KyK?E[~j|671>>40Vzb@3u18bz1%45bY@!+zIvQS@N; 7K;Ny7]a/7d~#Veyd'vb>6C[dcPkoK140e;i*wURY ggLu3;a^']11\$,> (Jy11A<4>Us01ON5#N14e%/1*],"OhLR&145<_1;9m#x *|AjcSBl4f?{_P^MUp11$({1,88_,sId.jPdsG*/6+]jVSmR'EIv|gAa@y=- YzLaQW%lHl?$6(ghojVsC01!p?;af0m+=?O(H4%xhl>w9[B;ax/NL{^%B4%x%9lHls>*(]@xI<Y]]pe!hF4hGoFF9&Ywx=h<<rlV]ps;A#"1*!15*z;7JgAwk~=1F|6=?WMB4^;c\*(cAyOy8O>11v,p4r!H%gV[+[vVx6>WNoU@v/*mh#J4pe1%~kUaf0zC1bRIxs8%dW1v1;f,3,4,LkV#w4b5IuYbFYsnFby0g*gcfRGJy=1*"c wX5J?1K6wgxE5 SQV0<1PrlKoOy(>7wM.i_1p31R11OzC^85{GueeRLvjid!~7x"{[0U{A^U"|>^[jB"sb'4WAUxr*O~OLilHl4>11&0C#LprxSF/7Ynr_e8N$foc1!|5Nk.xH|LC+vhIFUy?"AYn%jP./cj!S1~; K^S9p6l|4!/@^O^G&+1*~GKAc'@IlH!&(14@va11]Pp=-QA_11L.QRW;9$#d?lA^QRo+z(IPhzr"dVW7xh~u1Ha&=>FvY=!yxylHl?/Y7Ie\ue(meGdyQ+$*^nInU>/dlH-r3rUU%;1G.[K@Q^MEYd!+RlHl%4I0WV[vN-F31VOWXlH!M5vbyJz>=?iek.wxbv6E(<9'Q;1A=\6"xFEWa~ma0|j.4Np<g;4M6*o(96 JKLY7//J=X =->Wo4kAY*U/@HP'aKbP11v6_MKW54rEr-Pck11,"<>=?i8>nY#?>=?i AG>JByH/j611Ye_>rC<.#dn806dfGm*/?9|CF+^fw|GJ'O-!9SlHJzevHoV$45^sv*l]kMm$<x-XkLb'=!IzSlH-{Nve{= 1-9;lw"0be1*K7]4>>(l6df =~ma&o6df\S~ma0?p|#uH6df(Faf%xN1?.b>^?cpQ4M#XCRr_0Ja*n$!p=+fb>4r<P4%,BAE"l9yji|Hxjc]Ur18<frPlMl'zNCU=g]&*u^?8.!=8I7k1|1J-;b$A;wfNUk'?,'ma*h{YjguX*zYBRv1y$%dPlmA!A&AP.R\f1VP?%>=wg4KL~M[6+vbyCJ!.j05vxL>ErKoW&(ecLC6<Re',jVA.gf3-YnU>OU,^e|yk\'pdkd7K@K.|U,Kdgms>_iM3>_-hQ;d'sNPY5P;l'I!>gJ@G7gMEy#^o1Lvj\j<,^\!zpx0cn%A'*HnI=w-nAafO-,nGiI6GA5b1'uwP0G\#4GgzX9j\vv,Rs+*z=?X36gn 9/,PCGFK&d>&O6h7#1'QAKP8N.Qg.pLsgYa@#gne0ML{(XKwl<.>1#W0'bm\U+jzMj*zs;/4YzS,^>i5bu=pR1u=X0GN;~C[dS? 00*w?6+,jV'{#PjVAG{poIYzO+z*z("uYzS=B1$j-|'rs#"Y5g{330Y\(1*lls99B5>1#o^(SRR0CN(>pAKMdW;k3xdSsXy9Hwgu[j=JVb$G@r,"~#[=U(pIrA6AWwIA?L6@=?4[(L<4JM1p@_v+0/<KR+w(&1RkpbjrY&As([%6&RzS(>E-y4An60RzpMV_IIEm&y{J"Q1"&,$1*@na4*#nK;Nxoa'\5~[w;9P',nX/\xP@uPNvgWMYi&vYN(=Sj#'4bvz'nvBIwz]kxP5B-O6[nM1YmJ_x\98(W<r\XSepG1xPFCO1< 1<xP@Q31jF+UWJrFc>A^sN1e[|pz(Ls7,RF+<,PCscw1OA4OkLAFPvRkx~Ke@=LS>|XG6.os[R0j9N?|kfWB-BSX$bHSuv-C0W~|WK,n/~ nB-%VG6l1*,jVB7gc.>FyLC&6,n\R"u>CXuvv iEsh]Gv=X<l\!'#-Wy7x$h[Re<FyR#nNvv{Q3,P6WCnIi*|=!iKW[RUE1kWb&'.7K3X[RUj$kEpEWP06QP11n0d4]o(xyR9^.OyQG?1hB79[R0Pc~sIdY4VVW$=?fKzuM&Ek,PmLiY[i,_YR&$NNO_gv9~H>K1K&XUPgfzcx_~pjY[@dAwA{Nn4e0|p'E_yixCuxNYw*d=I''<6yR>c7O$LgV4Jroi9'ijg6w"4Lzi6?Lxs'f'xE\nC6;PySY[iO/14S^<1p_s0,,CY4xEW,Nx0FNz1y\<#7NFf5x6_oS6>[C&ABmb?ypL31x/\4EyCi(4=8IJy'UKY19'%cY1O01[w|E!9=f,6osY@d.Sldg^PQ|1a4fKKh,R3rO7zoWP*{pu9>a-*1#L?3[c=\(,4J-{XGhmH@p\B*$*dKKFcR^46IuK,or8N7U*CG=AYOSxWYGX-CACIpwgl~g\137FhFaIkb1"S$#w\{z]1[YY$nL16[s(hXE11GSENhesx,^A,]K-dB,**PfeNk0mMz]^3g1bFoePAzvJ9pi%_GNbG@n'{X1x&"F~ngN(By|R8%K-&oB*~nX0K-U.,Ok@<h1=gMXspH3CM;9Hcv&w#VH\yY]*$!{WxhfVgI95O4~pE7OS3lcB*iiIxNO_sOh.rw81L6i*,^#m\=J\KO1LkU>s7RwP=#uo,AJwbjK-.rIW{="Val?zF*pyrK^g*K'*k/kJ",awJNO_S,r#<s&^*F'R4R@@dph,/&13;6'phSC,=h8[c11vo/>P1rN>]p.J1m1F0phOAgv.d_Kj3.eA5$P[$,j> _v>X3.r#%rs,PL;@1>&9cSs"p shy+[lIhK,1v,Q3=mR9H1eRAggnp[bs_W%BNO_PW1v+ke6C>W\I95/Y1f-oU]#]45NO.M|rsYOjWF%d6flEp&1#MVOnRa%>=X BHhGIJkr;^"-{@nYax@nJO,nrW_1#L0>IHCOE6CJrMp8(_1AAUKnu!f0MN~!KGr#7,cyH.u A0]i,1OMYg"^[y0h]45yx?^n[h]AN<g*<h^g~CG4ul&g_r;6BbM9PnHgnG{<6rk]BI[,$&PJ'9>P88QkjHe'jCzz^S1'0GEU&@O!kRCoR#@F1uRN*Issirl1^3UoY^30M$kv^9XRP$Bm=oXpR14H.bxRJ ,hEJXe11sG[R_w6v@"[>X1vRQ$s/j#{^304]kv^9F;a,fU=?|L@RJ>xGXx<$sw1/E614H.bA?.8^>#r H1,55FhE|6@0\&(.11r8v=Q@mH'OI=(g\%QxuvIdK'b!"7j cJ#=?nrC4''"QhE|6brlFY$4>~x,jm@zF; WMG"gPH.1$mSAy'WcY,{((_a1kLkA#[=0ss]H_s80i^sXN*yR.p1inBJz-9d'"?h!#RyNO.U>pc'L0%=VfpIb1 !I<L@ps%^m-xP<Nz;Uuj{GLG~Y6y?sjA?Y["Ov56-Ghd6ar9I!aR$Bm*^w[4uPjm%JIb48\SV,UXNfpOa14$wAvlx$A116.z#-KXc#@XIV1y1GsO_Kb A$jh*~46V$hrCn/Qgm!y~'9mJy0iaKP&Ysi~4YipQg0(u11?RY1y\<-xV^<kIlFPjuP!{@">-\C>9Cmx>;v3i'$ej9^g*vwI<g-Y*O YK1K[;c=oRi4#Rs5>4xFLI,gfAm>R!yo111pO4YpyLyF\ K'Jk"xHoE>YGAo/&/bRYxu-b("11m!*dG8;1uv|S g]-,$PJ13nQ7f_3PX^jR, 8-E'sX=U0rni';C/v#4{X8_gwwVKPJ13LkcQ{+,j7zj44|lSc+=df=vO=o^r'W,"*J;0^aAyAOp$A3*fEKL45!14PlG/\g#PY\sbk6B/7nv-zMW#EeVCUW11yeOA($YsPJ'Ia=?7uM16'Q4i^' 4WxyxLWOH$n1s8EmWw+[.NlJCLA4VL19'96,~k,_+4B39K~Y.=3she ;^d8+ny,M/;L;seG'EiQv#XVI[1o?f,gYa@"11NdW1X64ygYOg@*N9/Bv>!?*>sp@1W](CJm@=[$=A;[Ks(zUF>sK&gn4S^|Y9JA|gJx3n1bp'8xG#r!11Ep;j.wA(j@*?K4;HwPj.=\mxs%>46Wm]XgnQj"5+NN#s/[*3j.=-LxU4w.1 nV%gYOg@="f>u=0m.J#lf$VCsbN9gYa@_~hQf8NOcjnw|er.An\w/a#-VlwrPC+jod6E1f s4#i@*K1 nVCwrsB7&d*."1*[|414d9Phl!V<4LA!ePA"1u'3~$5#Rr?.>;s3H1'yn.wi;dd1e'O*=H#P51-"[,Awoe*1-^N^Hs;8|gn{sv?F*.k41l#.hd>swrk/W]4Y4|szsW|JN1wrY,s9H&~pLXQx.-UMOhhlp116]+>maMR1^ie3rlF**1vWb[1]GfrNO_Wcr0G6SA#hFIy[^^v17v.[s%vmmK&zY(wmAa~ABk.01emAz4-p*+K_;w!4M<z AlP~gwo|,YElmj3669-AwM_ieY7_bK1lH5x=0duM"X;+c7.Je(WR?#1{iK..+R6|\Yf]@wjU<7c4I@bUVOEz"yQ<'GnIXgoSn,;l=QV6XAFoYXAjSvGO451Ab*$N=yVbsPfvV/%14&;l' rUFil3sGuxCFl^%F/Eb*/QV11M~\=/s>|4Ia!yPgz'S4REXVuxC^PAkm!C9pINB^Hc.[wISi\=?A9'*/FI>jmI$-R3a.P=jY=/G7<pw=oyLY1e$NI'k" dz'PG716H|jz'GSC=;[K0=?jd=188Ug"gU#U;ajhN1P/AV6AmbC^s.N3>9&HX1pL!7sbM'O>_w*_rKoQN(k5~K*M5#?9'W1NOBS7MAg|Y8z19hFnU>~u(k\Phr#crgv^>7~=XQCdM(8n&rWW]wI9QNvw*e6e1KWF.(kF^/> $-0' sWQ>zy|O11* s443P@#d+"R,wP|z14HX?;wF!~O^uCM*K@l(F9UJ*11YbUSB!!|=oN;*4|,GS*R&6[5ya(1v/O$((k56;rP0-yhFpE+=X"7BC=5/Akz&^f9Hm|0L,?hQ"Kys"1f\'vR34b',zzkR11aw0114>pA03wGKI#[8,R~l-!"l\oGa+0C;UE&W4b5IuYbF-gnFby0x0@c9RP1SS1*"c wJ0mp1KII%5xl.Rv-],rx0@Yh41j8#1*b 7">sr(y~~]OL[;sR* y<LYim|9SBG,FwR,aL,jnh=6uhc"u1Ryw"^-]64*>yL4^zK #s_j%ug,G/11<4cO$_,o1Ad!X11IHowYL";1Ky_U&Fzxe6w"mXEl({Cw!C9|4m%76Amvm/#E=z(11OGk47J{Oa*gpm11.S<1"J3.sY!U-9AJ-h~!OdU]1w,&u,"]SO(lV]1"5a69'U*@=eQe5=X0>?(k56Yv\9+jn&3gKw"Qj@=!*3C(k@aYzK*bjv>9s^^sU5<RgMvR4YP>sA?n&oI[7;syRa0pOyQWY=MpN^(kFG7AnoHJ4*5%|=m&Ns=?S5er#cw]S6/g'_Ahb(9'1BMw8|V#=lkbnsiaXUI95^n*a*^ ~hVnR1Qpg,~h!,5='K|L44#9\@HP'9N?v%Wv9of]WFo77r-Pck11,"<>>dMlp8\@wv7$z{#5.%[1=@l~Ipw{C14(g.14z{3*ORu3x0@UL'|{WBYbFb (k5]Ik8Q>oKI#[[K+p^9x0Q!->4-O=1BHh>(k5h#WI8"#KI#9\9HXOn1KyP5^N"w~11"?!*bFHL6FoUApehBr6FoUA'4SWUs/\4 WNz0zafl!7=7uI^4M#YjRPOB!a*nbOpaUK]>1&",4%,MlE"lL(WSvG{~h!Fv18<f4^_nE$-P ],s$\%o1";A"iMbM?1e>7B>3 s9'a30FkpQGbYu%?@4v&>#vmk/6Wdb%8Ykr#x^v|UB4NeB|YG-C!Ao]HX9/orr#dd&,R{Xzidb#/nL+Wxcw!sy%>&Vki44.PHi1sM('i;e.4hV*|a*g;KO80ln9|X;Ur]k9nvlh_64jV=g+0b8pO^rdpO^Gfe=^p5!M0=kes^w;c?RO4611~k;"0"a0raH~i1jv{ismubWR[b/V#?k-X1YbyAsuiW_1'*l=#R0h.\*s$HS*&vJfeX3sEhx?>cfrbV11&8d,^Ee?e4jk+z$CH"R&mVy~8.aG1kMjo,G'|94VVP SRL9n'~k@E11]{sPkc8kw\iI.(AU'?#>e=N\f.&hgpzb'zdu"s&=mPP~H|FaIH&h\L7bB/41f#o%wN5QHXJ?&B~_30xN"SB~6h0h~8C6+4*(0'C u5Fa-wH[ni!W/y"w]jy*-<^w|N9]1S~oC'rW[l'rG(jSnU0{/Eys7z*I(pxWBcIgK,(8j\/I/Ov!P6~k1zB,n_8+^Ws4FkE.*=ji 1EKY4RH{l3|Y1w$'@xc<?|s5Usos^=~'1'*vz11loS1L>P=xE({d1m0ap'rW[l'rW[-'rrXh"!ku RNuzUuM&'#-,Qyv1'*-r11s^1p=1d6v[ ,^~{87Vs%.ACvy7dPwg awB|?u61#_u7;a;+]x+[<Kr1^M'1#XgYvmxEOi^[dH1.-Po#RpU{1NymbshlRi11^R(;,n.i4O^jrovmbbwE]{$=IyG 1#\I;hd#hQNE.>v*u~LOu!*a#,PF,9uvXk[1W1m FN-Q^"pu(??R<$U*=?4SY\#1m43vJ+G(n%;1l>A((*WQFwU,4&3m_0Gbj[BN,g0,m41.HHuPlWc+.jCOshlRB11>9(=7J{E111 ]191+l#Fl"O"1PQA"ImB$^~LBARe\ra6*g$uv/1JE1Ag>;[Jf?IY^iV!3gjI3>\' K18AGrwk[CJFNp$W1G0K\GsOya1116-;,U~~1L'8[]doX(UgjxK19^1<MXYeQ'\5p*UPo4z1/@@8GK|<{[7os\&dGQd1B_|b'\56iw\{!.=IY@%14@A>c=<nR1d*gBG>QmwR~SeQW-uW *W1$(3QI%;Wzwip4^x.$.$oE9'd!C_&dyQp4=[mSxeej5s^g$5+jj*@6FEf*~k,UMO3p$=gc/9P6F&Kf1>"|LRv;9"Y~cxzu-wsVS?3{&"?Ii'uX~56'ij6<^d\vM'73yiRNK[z6wpVPYOMEx,n,xe%zr6QBp,>=*M(5C+@e{QKj(W-1C>F^r^g"IWAI?G'rY=w&dki71LrCvR[JzH1vVy*R[{^kwJL&O!'KnB gsBF5kc^v/M8&3yaC~!Y=36~{in6iIz?M9rO"raK3/>Kld[;i{3Y3]1Jox\^N0MyO%34A%[n+|zEs0B1gHJ|prYXA$sCNI6REf/'?[opOBUE1U0*byg^MFbOk*RM11w&r49C_?xi=e7>^Bu~1S1PJ"+-!#4/bmpwJ{wpE"G~#1vnlv~(~a9ks$<d"0K8hGLf\h"Qe3Y11vUCIwKd/Nwn^VOyvLdHXc.o,E=c\=#-Y&1ASsp1;1[FsVUz<~?dGP?WI4lQ\EYUg1n[EK7^yER%Hen=H>SS1%%_jF$N'aR XkGz65*6gpFz[G90X6$G\lG4*mkk1*\Cp#GN3%+cbRHs%X9k1">7oAIM&dwl;blG/XWO1KYrWwhQ#U1Annu19&HaS1Vy<41y%lw\b0P1;a_y+PB;pWzAsovxL#Q14i0F1A'Vs1'pBeCzuQm1'u amn#3 kL0w"WaBw"GN yjKd+Rc^MH.71->_81J~Q9Y<g;=K3%/+4c9fJQs]sh1'u7C^aPR\R$bV.*7J[Rgn<Ua>!OXa1'(+zPQ(AL1'8NRv4 g@6,l4dV$c>fw|9bPpoiC|r>$$mR[J/l,Pz*7WpxHK7[Rp\4X*Uh4L_E^c6h\l?@Sfo4^fV01U =N9hg^&ffYX,1K[R]A0UCli]v,z11ar>4&{lBrnux_GF4\XWLeN{'\5jUR9|$h;,E>=1cpRxG=vy5G'7|8(]6Ma4XSpu1#RN'RaBUj4!l y&_S%pROXSy14X|6fI-Xp;,I7&1g=1$W~|= 1#%*c\..'?%zN0z1gJff,~$l Sr1<[6_3]3goL8Xi.+rpgoOusV9Epu,gP%AkQ N Nawv1pSQc/Nawv4p,I3bNawvAp>n@U,bfUHHXS9.S8#woOJUw911I\A1/gcbRNI,%11O3MA/=_jnFeB[+w5onj=-3i"osnysV<0!h,-8nwVf!011Suc=4Uar?M#<9RdW$S!|d8og?|BiS/$9vg&H_\\AN]/#F e*bml+84_BJH!x7]FFzbdlO^r\3IbYvP*$Ig$RrG4Y11OpH~1LzrkQ E"S!->\1#B 9P0y4X4bP=B,s@FbOV@fm=AcSErEf++~Hy1FY~V6=jfri&zh&uYr'5 ?>zf+%UPQ="hRxY=rNP!7#o*l.#@<1R4uB{[6,^cx1eQi~*$(#9YCYly1YQ^<z+@YEYbFOPu[>Va,P[f=^+!oh+OX>~^d[@{vpM6X""+!hAn?jM4Lsc7~HyE71ffG%g@1k9vk{. z""Hu"IkC!y+<@~y[1rQOya $+Y{y*OkWde,Y9L$R{L4~OyO@fS3J*?^RiJ]kSwPAI6<7!,^J3Bn*X~s*'$<euXJg|Ss+"z1PEB{~N_BxOyPMKx@gW+L~$C[o e90Kl|~;yk_B@w-LMy*#.?gSG\reLGPXPup%'Uk3xCbwJJOose${PSY+O9Oyu#n"-W"9ONBYSykEa(o= HzwJ|?K"!K6*"ImBds8%;S1Y/usy6ks;W.GuCNhH,|,@m-|S1?h=rSrPS,FO.jSs.({w"vm{1a$UXsbBMd1wIbKS1KS7x4aC5A#.[1N~M=RNH[+&s9>YmyC-B"N~eLio={du~v^-g~JA&I=;nn>6@s[a1>,cAGr[S<Ss_c;1/ l!Nk&Fn"k%i;9Ra[1R06I]ug#lR1;JVV~|ViS#^*z,A0h~_G$G/H1Y/>#sbL' p'%8HuYgg&S1pYa9dQ[!;g8>iX/Y<Ywo'dBS0^KkrK0nRRFW5ur>*zCrK[\L#F5UJSszF kQ1oU1%i7B_HvHx_HvmpUgAa*s7bk[zpV0RzpV0wzk>A*=1'VA,X$*c#opex16'mmsbB.;$fn$vOk%buo={z'wl1<VI uIVYbVvks7"vi1&\<<zIz<EY$-h-="yPX1GO~+sbdXBI uj#im#xbkdm\w4^>^6~yR=;AmrBJ^\3]J*#k8SOmEm"Om_0B,w|YoR[a,~W~$xs1-olNW=xoUW AOu1-olNWz8eHGaYiH1-olNW{!k{G~&m?1-olNG=s=oG<ipO1-olNGzdQAraw9"1-olmG{.j##VEkb;C=?8OvF~u18*ad1wG?+woh=9S*<{71{[wl6R$|yxc<XF~vjveOJ]HP11EpN+g#pSepovHGL*g]ONVhJ47oBiwV*VA1=Juksb,<uRd7Khn!i~0kg0rl,M;;_4G[cBse9LrN<Rr'K*pyioF6uPsb,<RR[<%PGaNKrGL(+WSPayRsLIB7Ib$'=K]ijXSP1P/Krk7W~yP0z11?;n1FhWnOJe|<11 bR1JuIv Ea_YP!Ard,gOBhv%;|xGbL,4bmuKkjr.azbm.FJzgpXgOk(P[*k1a9RlOiJy=1O?1O=oIk3xCFG$-9AAMm]?nex^vG{+JC1'i;., HNK114FkWbo.Fu^x/-W h^u=Q@+|ulXSVs8']9AM\cC,^1Svk+QV#,g&RuYrC !~-L/yK5^,jR[p;is7HEOIu{VSwl_[u4$cw!s7s4vWyX,?aea-aNHu,.16[BxY<gm-,jSMO~|Wb@~JrU@Ri0"SR?i,<Iyykg"!6jg,sOUrjmMY4NLu4s6rNFEYkG%rNQCs(P0+1GnU#4ixc ~19|X9f4cG<RjEFb#"v_o>Ga1N.GN*M4~|R{G. SS_W<@1E"lIm-WuVS^lI%Hy,P{3-8-X=|G9p-yr>\z[zr=]vWb$j7,^a-a1wRJmr>EEdrAGCV,z"Q<1;r!9n_0=7nM#0UsH|/JzGVf5"INAmIb-J+"l|RoO4RA+4V-8F1"PyB+0 fV16H|jNwKmdGbFx]("37_NJCk!~|gk>6CQHxSs{Wl1%{_jv>Fu+O"l*$REBLg*l$NU4!0]iL7\ow1u_]xR["SW+0<K_X7*raG6XM*R["L^WO8S"r+Ep51/6R7wXSBPW+pLRHiI]B,P/#6RC4lX4'X7 k_A1A1r u^6m{/d*l$^?L_ ,@G90J's>cs"S3-O0shM(C6~L%ir#gvckR,J;s7=\xR[J$U4>-#|R[J$r41^QV1-;7_j-7_@s[@|H,zx'bg&v.F4^xkAN;3b{N%,%=gi<cAWSGa6=8I'91'H$9nR1u9AV=M-1*k==>.3;[=/]gF1ACbG1aG5vs>;J[1* R|;3n-H1!wOrk3x#Hr/AGMXk.[b1fe,"SPbOL1aN\x6\b,W1A{8&4p6&N~fMc3emMvl*#w0>L~/]S9yfdY1;5UiP0yHe4M%O.s$u0??5YRlRCf%[+sg(?11c(i9d5mG'xx7<+Fd$l1#^Hep\8W_,sG&++sm+K18QOJR["h9#18lh*a(e7u(|U9@|]wr11s>vOhXH=1aGR<"vNF!11K UL5n6&>9nr@RR-Rm1"wc!N@f&Y'rWz?1v~c(41{i_>wr=z1f3-!O1pX]1149K>1g3o1zcj$OxG(p#iLF01j#j/PQ@"oOV@7Q11wv9'b;&k, |=EzIPQSPo4ANN6'Aow|@]b1"[fQ1arf~sLEL64A4.XkNjuM+boN,8Q]V~gc9@A"1sYc19Jk|zh&uI#dilM>j1{'Sm,x#1#.\8Xx 56k,XAax\mo-rfdjW1gj_Ew-xRdpe+_<xnb&1WdQ",$fS Ys(K[O19iOK~M%kMCzWvpu-=#[IN7SP14$QW1' "b<?8/6*1$]a&F~f!WPpA|k5'1xLk"#>7$%?#a*gha> -K#64l<[IN%V6s1eouk?Y=A,nG<Axm1I=Af\rR,nG<'xmBpY4!b4'4I Cn16YRXs$M'41g<N[Km680'C|L<Km"0%S90.mWu.h~W +aI3g6|rKm6JbRC<~6FNBl*Agv\l1RjV3WuXiKWOxY\;Nkl\;r[rr14xVczhf?nm_>RgnQf#[s7skO1B'PA*N@Wj"-r]wI637-gcL([ ]LWn111A{1*v%]OA="+>C>W_A|"AW"I[3.=?1N^1/?AxR[ Al>z!OVOA[rpL JP+seX]jSRLfPPXwSwj F0EOX[jJ1w$'Es8%.wgR>4HOC%|HWoJ'FOAolmL(*3U9kM331A0[gI|?i8Wdsk,40^.FI|o@#6]U&&4g7blx ]IenQe/p,_n%K8gneW*N@d+1A0PS18U&A4m8(OOA^"[9;Yh[1A0[Pc=idIY;LU'11soMo@3c%,^~ Ky9bL N#~B;,gsuMp8!pRG6!5n,^s\y~(1#=NKb{M,^Jj+Nzi''x.X!8,sicw^iR9gu!vjxs$lc nMjX-1$,?[4$og?~LV$Wu#~zoy+?\"uKi17nVk/HON9Yd'EM*O>\_5!xXi5VK]GnCK0Hx1^N{Kbs"{E+Lu +4L=p^|4$~Uu_A7jss7/@epf7zcy9 Cp1xSN>6/MEI'pM9-s/!y!K%-"(6@de_A.{|VwoSgLYORX3"I^~yA4E$f,j^<vvyBBcW.r^.m3oKuW5]*<pAJ,e1/dsONk|8lON^%,#dQ,P14C|UGw?miP%fk>~/3yXy.1hrRdiS''?^6z3Q!KI4ld~/AcM{8#R+/&9yfN^RgXcK1uNfisRclnR[LH&RgXM.1AQrJ1#^l{4X=71iVK>fxNNQS1#CkHim'lBxK@i59yVJNRPJ?%1=R>^r#c<XN~(sH+Iwj#8Hz'rzhcJ""Y@&j\lM"H"?X7~WLsS=W5_vOI{\0mnPw#5wjcXV14$wL41\#heYd!Ou4PbV"XlH5L9^RAA?&#>~6+&4uK\g8un+C66zH=oPgO%?g* R_AQQ8$*a7o"1>v&M^Px|"n^k%#N~b_7^P"#*=4~fk1'f-[Nf|m61aIH_,P;<r4B<%^AoAQ14>7O|s/@P?*11{KK_^LaL 'L-sBo=;4M<u+'3C1QAQ|s0;+{> 49cI{"Ikn(nB0LvYB?UkyAJg+11\B;1#Y1N+Wwy31>{V>OKQC N=(gCa-o_KLzj0#L CxlAl*9Fvpmx/ff&>*[wQN]1>#>_ff]] GM!{%N$5\QkCf4=6#(|[s9A^PL@3zG1! ]zN${J|wQv!J1vp6.Ydm</Y"=(<1"U!6im'l^Y"=/owXREd1A{\M1>'H_xz?prgv?<W=Vc[V1>'l{[u-j^n*!w91hW1eRa!ev#0>^a,jASFj{08@~]50l5L&"'xrrPazrU]nIKry'W5En7r1Ve>R?1BQ,^um^6.!mv6sw^FRP*#F4Xg_?xQFwI13CxR"1nab"pY[wlIh6sdNghS"I^Nsshif919U~B+0(N&11OGkG{jLy'EESi*a('M4]#u/W7%<#sMI;1c d=|#Rg/411{wI>gd>^4Q5hRV$U{%4X<^j166h*6 {s.#!Pcp#V1gr183 Lk54oWk9icf~xfP[#*ye@R<JRgRb[6.s"x&?1|f\$;G_/op8|AG_A5 !4{kRypH4;i=V%0.#PW4?p]L{Sg'hG.wQsf='mMvLWhs|d\-hcBG8g| 1E{LYa*ggv1>>Ou \u+'FbdEwjVJj7RG=1<1K+QWL6CilRg9g9#f*#j5x\?zuQCO#L<Q1|99GS49(@6#RrfxN1+'GANE;1{'E5<\jcf_&uY|]>u?A0>i^ @%iMa8ppF(fvRG|IQ1KxrS'jg/a[ ^h-Ug WQk{uCQP1Kz-g&vEys|b_?pUN8 s1J?C;Fp?f19E81('@u.k[M_SiX*Pmn@Q4rC=F&h'rk,J#Qb]\La.^!Rn'e$AB'>|11=[*Rd\Q~AQ!s{"-r6ysLleJuK@FXIud<uk0x@+17.,,v(^FXIw04grxN^~WEiK.nU>sos7|kw;_@3y"Ib<]4n08=*K5+B,gu.!^?xsjYOmXi,jSM*6i+.1W7cO6rf.N7pA.I r8!<!-jfw1-jfw1-jfw1-jfw1-jfO|1]E&xr8@<i;<*"K11bUUd.mmIYS0 FrANgL*6x|"kse1=P1Y[%s;p<ivb=IlR$hYj1A3oK^$HBGkG,C3nBvAaW{s>8WS_pgazUSW6\(wXy6[]_,P[<<~|(a?Y~oo_,s$u joRy0v8aV.,j+ha*aLB!*A3|p^$UII1v!*o9'#xE]8[.jSs[s<wV@Cr>@-&i>@i]i>E^XX>\6a|1H_OK;a;WWGp-rXWLvr!W/v1?r1dp!Wy^$iW7cKd3I1G.'\5Ii1Xm{m4(mcxYS0XN^SeL1,nG#'*wW^OuCex;zhB/|*<Hx'YSBdv="Xnvrf7FQgYvnaIzr 0~8?IVrfmahw!'.91|sYKrfbM5PfX_$nR=O6FCv#0rlFgh-jfw1-jfw1-jfw1-jfw1-jfw1-jfw1-jfw1-jfO4OxUz0=Mwc5N"I"_~pE|LI|F*o^re,e1KGA~Y/ceE~yLhhUV.'E16^?$,PSpPw-Vev1~/4~s$a8YEH7d Y@R0pN(V-!"-Ye(* lLvN(l|'=;K0"19hQUsbBcX1>gfHkU&BIA'](b~(NiWGaNW=k+<F1~(~|0Gw?Q!'kO|c'hz,rN~.+ k[rxs,s@ ]^@g5'IL&A<,n/co1'8NGpEYm$11$_g>C4-y4^lNI/@oguYOmiXs8c~SI/![000| Kw#[fB,se8kKfuVHAMMFA;$(RENH[@ru0+Q*1A>{=1N4L!"K6,]'El7l=4zci11Sz?1\P3|X>Us=11~<]X;"L%seb(?SU-OpG( 5IG(?wuG9Ka_GFEYUW _'=Va,\.,gs*y,gvks,nRlLu-=&\,nWQ31Sh'e,G,B,,YS]AUI4]x+s&;;*$X6k=B(Sn1OkoCseba]F$vknz1*'];g'$?SI-g&zcUc1RC4!RR5U{pA0U_?Fux..I6Q1Gs$HI!1GE-M,W"]!LbL".LN1b/119d?^U=@\NKb._,P7u1pBfS[6OEvFsH1,WW.G_nr#pevRFVKe,^g5\1P9%"'rGPLRe(B!'E.olL;A+g"?Y^KG']'oGB,myN*an^uM|Xws/;Fl^UR/!;QbE!.dx#_w!oP9",OBVW EG01#n5.W/eYE1ayX=,g8'#1%?A9zU|3<IH0!g11M5o\y$"lNu+aQ~8'ew,s\nvL 0+7rRO@Ygp&$ KEozGWkn%nO1<\xRN_CP1;=#ns8w&nzEjh?u*.Lz"kO~U;\Kcss%/wR4^YM w!h-N4>E;Pse<&M;|GY&G(R,p"IkCgWudW^ouJ+USUf!"SX?mUW=B1KkQmSgOyE@(1O^[/Ss'7>1*KeOs>;V/zf]V^1YXsu"!k9i,_c[Cgoy%3,gpEF11=/?G(np@KFJemI(rg^,n$f.yaXz%u*Aef*a65H111]p>^Qs-vL|n@xj/EmO(P+=1hk+Olfsg(6]RMoaf{g^vmm5<gMY 7S0RSxrkjU@1s$L8xjf/V'Ad8cs RsN G\u$GLfk_,^vlr11Y5&1"Jo~R$?J5vHoRcv84=XR$@b<j BJnv8OG!<gk{@s883x1W<j8~';e.Wrwln3Q~M|P-gBNIpY(5^?^[-"!L5jA;/S_GAo/&GA?8<y~A{'j]UzY]8/jQSUi#NS31/b]J>YkG9'5Yj]UHxO%{Wx16j6lG(35k/<V6+RFL."GyH3;665+eGhmm5Cw=?J11'41,G5{51'1[.11Ir7ISIYrngR*w>\OP;1dLxnKUH&Y=Kf~%1*%"/1V*!FRaN]@r"BF4w\b"L1xKoI=gc9{saWzns<-LNaf787K3yS~SN({@S1>E6ng9[zWwa3<41>$Q/;v V1-W&<41?!IWOv(SQGBl~n -b{r;[kLy~;l|dQY|cu-8/3paOGG9'RX^1-;xx1+8#&emu<~P!s^GybQ'SG9P=z4{jV3*l-+4sV<0(M>JN81=Qi?=l?JNs^=&=Ww"]YG|is[1fVIu'1?mPUQfn_PX0~Y0EJxJY~VXi,^8%egMb,e4egH<MkU6Aj@*j=sj,/BW7Mk_Ks8PBa1wbRB|HVuA0U,G/ AC+sbLd@ybQr&*/0?rISGwh1s\+0v''d0AHP4ow|B&au#$*EW oEjse(/@y6%&?'\X6(1p Pz/kO~O11OxuA Sfcy+<@1Yz(ryRNv];xje]Q1W= nng]4=,UV]=1'Up^/k8d\z\$?p*yPULgM$cyg&bH8Yu'=p'rGYE;F#1g=43rC1LccEy6z(,99s_H]6fP8WuazGS0;i11{34U9p^3C11E111/?#QzUp@=47xPJs$*5&=oE|W=cE#8'X{ is8m='1_^N.s7PjS1Okc^se<C[\*^IC4=oloSVdvlWu_k#I$c=zk@/u<1w,aYIz=,%^Q/njFaa\3ISrA-w1-yv1KW>ijzxQ.1#BBfs^j\'Y{'s=^mmN6Sc1j<ugC~*1p<l_s^g&9^d*O7OV\psOV\$ ^.>&ePgW .1"nn]1v;ux9Le=v1'yv\xjfW<Ox|,m1f/K6'mjO3Efds{14(;C1O+dMv4C>hWknu'19?,{xUb?'1e4!JwfE\f1YB~PIL0$H,nM.Fx@<\/N%L6I,PV#\gp4d4~v7/r,P;@GxG8|xvv ?],jmIfKn\L$uB1E",jo^kAU>6N6OEW<,s<#Ix0YY;^Sfei,sEJJyC!L'*7-y0,w"Q"wo#%J8?y]SSp<>7+sg;_1=lPm9HmiEG> _J%wfH\11a7@OV@7e'gYHx14MX[1HN{E11ENL1-C(-9dV4RkF+8rx@gQ1,P%(<jVAJH~8'gV,nr'K6S;MUuYHE5,nf0%6+_"a*>P-c*aO@/*>zaMuHPOUI(Vi&6\/' *>Qk8gHa<xgo;H/g]flhR+%U'A0ckiSszFuPV;z1G/XI'rvU-FGLYL!YyiSGR[48x6/5xyG/XYd^u?5xGM$;3="Bnh'o=B;jdkdRYd9FHY@Ok+Yd;!wA4m&YWLN{Mgc9S[xi+JoWOh"XYz/O#I<#rwI O"sG'1hQ44'|3]m i(s7\LuzhMIJ1'0B6N-EvsgHEja1fe(EL=+zKIWr/~"I+z;1YyasG|i#"11~AY1v7=G;NxEl'o|?jsH\\hny7?KYG]rkkYmCMuKU4%=k?8F1waa-s8%d/pHpijxFJuo"k~h[CzdILKXYW#Ki\f.~yM-f4#\U=nWd@RpEIlzuK_ l1a^S6jUy8MON!*J1^hw/uK]\d^]WX[zH1UgB|038aKs{RyHy4 s\Bvyk9\f.9HMc1/_]a4Lza.W6u+P;n0iKH4f^{Ykr&ik14(X!SPrC/s?OgXRa9#<11rfW'w\cxOhdg/^W6+6ns/VR,j[N*v%X8*k+?-V,s@k!,j>N6y5N-&G(n l,s$B@xUA#4gQgAdO""p7g-yy&1An^-1An*J1Anp|1An611An~411HO>=eu&Q1 /{XYdXOF"?WrgPnclrnE!@UvHVU<^WNWi11i<d=%RvF1S[ Qs%V^?n^X>-AM^*XnmMFnCmA\JYdXY\"?Wrg=gR1=*'_kVN>mXM"x{yu4mcF01'37y=gr^3jrdb0v%lkw11i[.=eQx31S{h*s%V^Ek]L xAM^*X6[H=c>nJCgRQR0\4mc7E11jc\>0%m^Sm/<n>g1Kw="9(!1>w ;"spu0,c {j=vv&x1A#/PAImvYsB9d_ge.7&*74G#^E38^S5|C\k+orMngmfP4Qd@LIY{1zyNB871"+$_4AOeJI<nlynn#4@PL*fky{wSus$(up4;=6=kN,r"1;3h4w-,,P4!|#%IpP "Ib4>RRF!Fm~'s&!v*[#m"7M>i1'N@OOmE vWaH gIX^W?I7Ui^R[pNeR5P5~$I50_.kL/is$vUk"?LwSrJ6$hIbA4dRF-uwns$Ojvv{QH11-%+H4 ;u^0B@#s$-6d1ll<c1;POYSa_8?O^PIxs$$7O{,e<W('yjbP,h~~ngM>v4n|0Vlfa4J1aNo ngExcAn5[j11HhSI[&(;s8MWk'o!H4I$3a !H#ev!H'<@11v!M>^~px1WNQ@Om]R,s@6%;GNUcjR$(&$;<RvpH4Ah6v6rM&s$U*\1llCc#\,^Wa8$VVuj49-1h9F1Ags!.1f\QsP%O{MvE553zv.o"mPceUv64L;pmflB1#LfmpEYO.1HPA81xh_<sHl ~sV{lbxF--z;$Va_1j?@HIH+O^AgU8p4L-6o6k=maN]u\BS@U{;j5?#MY7i;-sb_aL1;3]ns(pC_1*\z9Ak.B+bVB{c1">GV4%I&>w-,;unB|R@vpz&"y=lb~ApPUK,Gj7juQcb,>gd=Y1K&-]Fy|4r1egsK>Qb_b*K7{mN~7%Y4+R9?Q\nvs4j9@rN Hv&xo .'xrNi6g&-QkgcW'i4XAUK4%,U^y{O5Vn3n]iRFb]i[=M1\<P(U6vmk*\{,en~11sA*=>.KE1-6#0j_].gv*&8_oui<r,k#ci"0"MHoui(Gsfvx9{C-{J1pG@~%G#1=uB1*jVyJSdYwy$I"K_,.W7Bz*uh15^"Ve4CIb-!v*+'u#{^R+Avpc;4G/@h],G3R-4M38<v7u3^='KocAcdfOuQ5Gr1KSb\YdllK1eFjn>zNC$>zNpC1->{F14l@Sw3Vf\A;e'R,0v*P*K%>~k5A6PE{6i,.O-gedz/~811O_dY<vywwl ;<=%kKPAc.@|1ASnY14*'ryb ;5,seHSG'AKvxJk1jWdg_]KFMs*g^&@eOcY4OnlH7(j5?.b*wdr#*Y3_Igf dzg+w@fbm9+w1v[hCO7X? sY<z?14>YN;r]+~>0NeX9zYM'LF7/u14xVvQh;\Xv~X_\v&WI~v&WIgSv]*,w-WQJaayE&aN(fc#?64W1k;-csbMYH$lH6hkP^>r~8#zys/@!&1ll$l15h{owl"OvjP5JSLa +*;a;nS*v>eWzEEj"~'WXGRdW{CG(wY@~"ehkSk~R[r8B-s1YXKXy6kr{,j+]>I9R%LY~Xe9,jKQn416^+#@cKkn0y3&Ww#R]GNak]GLYL.P!4w!g&b0n6+;k|hG*nzvHX/QSdkd?I9R&]w!o=A1Y5PrnU>#*,guJYw|(&>*Kk]UR+h431y \+,W*PRWu6]pRFYevS~[u5wo# 1$IQ<XW=W&yG65W]vB.3[Gy{rur#|iKr>E00Wp,pnpEIr5nfxd%RdLX+G$a^+*f$x<G8+3"sL67kwJ"hlRF.?CGyH5GrxN^CWzw5{v4PM_Ga1kCr>$I9;amlF{0;rurxN1rGN*E]W=YN7kC!BLWu/XK11+Ezm,[8(G$NH0WzkeH1P/H_rxfzCS]h,,G9d+By(-~Wr>*Yr11LJ^r>E7BrKH~sW w-+r#U#RX>H?9WEfmJ8I#5FG9'ikW=Yc=11af35>UcrwVrBPR0{x>r>fE.G*3,k(y-BGGL64,W=!;dGsi3EWz'-+W<>CakaSFSxmdvBrx*pER+Xe#S3A6=U0xzUGN1kkG$Ed_GN"X/WF0B.6z\yay#77 nU>SE P%EsY{AkiASO6G9A-oh4NH#oYz/i$6-\J1R9|,31v5//akQ#m4-brH, hOd,@hGj0PVlSk~xr1zIwU'kE<NI~Mxj"aKp9=IplILxmIiL~aL|L!pn'r11A%KAf$Oo0iNi=1'U*$**]hd~pV?g+,36rG*O/cGypipGNG1U{!l_xuB4O@~"HrR~"8|?>XcnW>M6x?c_E=(W=Lh+RFs!O4;J-muB/?9IdQ[56@gzE4\60BN!RG!6wgw&ll"kAP#oEm1wG.ps$AOk6=zEWYR;_OnY/Q81r'c&Kn\p%="_jp>1G'1YRL&&p4{{m1jVB*Y5w4WYRL&e"!jHEiV3@|9AJpE>\A~e1V0r&OCVF&s8cNKO&FX~*fN=Q;EnB0s$vLO14(O!14(>P1A^GzL~GiOLk-?"976?]LB*Rl,sE,7*y<ooNz*'NnQESr1hnBy*y<IYjx8 jaf0",LgI*MwliOXnc'[ 4vS=x6$O?Pz"Og'1%sn_~AP~bu>[z~phxY%Rr.QRa*HkiL7(>B;gba[p!a%^s7J"$1ar9-+0( Ia1b/51O"3@6i#*fncAOgjB#b|S346X,mf</L6[#XAEQ;XG|3g%RFmS{W #931H-g811sz;G$.{FGaLe0'c9G?R[rPRw0ra?1eIbwAfG8VKdpH8~AnAAA!Qj@KFHl"0\cpJR-!>JWa'|&gcBvxGO;979km1+1GEOyshM! kQ0YOPgOUMN%La8KWbPJGHEi?1=O_|j_4X"G'1FM1d5=Jsebz9Sl^kW9'Qp9plkdeS1#r$11R8G#5*-cA+]&Yj=J3WRF9pA46Nl"Wu/-%11]k4j=JI>r6i=01Q"'djzj|e1A?HBL/*9>'d_d!Pg6ll9%z?f.;C%1Az#Hks7s{'YrwOR11i@_c3bIfwlEU[Yr95L'&8X>I~<nA4"RFexd!nrre81%ObwdV1f{VM9RBQ#O$dsM1AS^]; 6-GScr'_se<-<1EzIL#RH [1hVz~d<3KE=0+Q?O^bWJAJULkN>RUWN(Kl]~vx8A+,3|<N>s+vgHQ^\NO,oo~7;_R'va\hjG,bS1R{z?iVxs@,^bga% $>0ae,3&=l>7n11/SKO%QL?afiBSSn ,]a4bbo11Ib,PMFVMY9i^+uxS#4j^X5sWr8^%o /sSz;ma7OY%kwsLByE1"&xl'U"!PRR\^P"I$*A=B!,y1xwP%p\/0lO1v*HKGF^6P0_jo>ikOQWEnLm9HM#>afc<rwjFaS1A#^ 11kov49#H~Ag">Rre.*ivKU=>W ;&!18&CV#x0|Fv4p1[~p_'V8Q3%c*l$@P$lzj;1v=!GMd^fkwVrx#*hkBW'|FA3YRMb.v#-Cn,wQ*%11,mn4L(dm+(P%r4W[+cO.y=v1]l="N=#EbN=>y&]%FsW=!-&>nBG7#4,"VKjVg |AOQ%?jV^'s>-p^&,nGb+wJ{f\1l-!&1.r5GR+7M1"Ij>[6O"@M=J$#p1f8n7=pp7E1*"s/>\,xiv4=8v6OI~f4y%=prl5w&rlFv04X{^i#AsQQ?Rr8U110;|4Hzy$4X3<J11mc,KIk{Nw-XvEahsf6k{a]61A?eC1>g0C~Y%zc*li+~GxQ_!G|?GkSlR>0y'/f44m7u%jr.k&,WLp#a-~|usk4$H'PAMP>sYW!s7p!Eo I'W,PV>#I<>k&s'??.x@<u^m3H88pm\Mm"xKz#a6G@k,sF6[=4"VJ1O5#{se${=Pn,mARuJziNaO0*x+[FGS_w&y#F{Yyxc|ewKB;0X1'*-G11OAX;$%PV4e#7'80=yhP0eI$GN$e_Lu7=!s/%g\=Qo'u119g@1y1rAS0^SgP!i_<4jf;xnM+8u#>s#_^PB|e[jkWMv7{OnxGHc1^PUbUWSHh"N1zCr14vA]1[X%cxGHcxz4hr7kO,R/x5@WCs0{4].(Lh|pb^[uS9QgASYaaBpBvmep4H8,~v+^Lw1IeG,sOIA11<P^4A6U?yp;7+11Oc_w'GFBLkhysA7FJc=g,E>ffry611CH,C^s~+g8&ly,*R7b,PkP(OOU<(I6bSyKf+UG1k!(yS.|]3S6L'_w!#h\#_6rFnvH.UWz[V<"x">eO%vCl4ewuo568$kG+|3Pj_[W;1Sv\czA{=Lp#G\s#o'6d1IcCc=0&! 1,N/bxG8|%^nnR]'igUI1f\6e1y[A^w|S'S'QW!L1'"-c1'IgR#]sO<$#G+x%Wx{]~Yxsowlff1sh]a91s~4Q^rHw(I<>"?pR9H**aW%lxr~lF14bWh;.gcfON~53I,/C=R[vSxnrzBmRH-B>.~8$LP-j-_1LLaf"1!z&>o9bh>gnQVRC'rh6N~aF\Io1(IFvr!,jy{x#r"dUM{PWx1f{m$;.Kh=Rr;FR11EFQ1Od@Bs9wVoi*.~NxrNLjW h0BW\Nu;6w"E[w|!lX~yr7 6OEv{+dd&41O&lzrxNzUhQ~~+AKjV,pcwY-wQ'Oya,& %KXYHo6b({&6=cLrrx$%iRGQ#Iw!#hO4I=hsSRodR>a~N>yuPYOz4kw*SR+d?41n_Gx.XE4ozR;5wky('S17xc^&=_O4"vb\\vgBmg"up[Rg;bg#R0h?1RMuFS349^,m~E%A"V<e,]~WlAg"PKA~A\>SdbR("L,Bm"nB_%c=\mQA?Lrr1u4AxRCJ&xw\iQwjw>(9;$ =5K&b1&R[KKHPYF_fr*r<.WuX-kR]H$1jMGi7*K@;zs$.z#^9V_c_Ah]L>[op]YNl[^%w<>IjMj,hOx'@%PQ g?'8yn,Y'4AsC,m8ns$_jp^a'GasH\7z(#Kj3js\3i4I3${OmUOU1'y~dzP||w14RrG>3rkP4i["_Yd!ll1'zy+a*|m(1A[NN11"v<9z{5M4A.;,ksI8f4PeAwy5Nr44={S,N>c&P4;|;HY[Gk>4aOy[jPMR;1G5![v*]Sj1jh%e0ESoklIH-#4^cG!Va>JJ,j+k-~K?lhI6]#uI(Y/yS3J;ag'+aw6d__|KfFh,wYl+<;aRMdpJOnKs$aEO9H|pO"%|FrKf[4*Rsd;31fEQYalQYB;~s]^/[jI3n?V.8"kbi5,wHO+1KV?Wuxkp 6~(,#^s!+1nOG,pRwaj?,P?lI14-;jaedKhKQgG4rx$$B1*p-p;RH;QOHi>61-oA31^~YlGK^z-IO90wOV\A_a8N#aOI'ICOIH$~af&<o1a7~Ks"'M~xQR\ kPFo66b$4hwJ/6!1[Xhe,.G>HP8(N011d9AS!/n 14#aJPhA/csH\/i6b$+^6bb;d1A?/y1#kzV,w#8uwl,!S1Xmb{K5ERc'r"Io>^IJI14>/Sp#O!_p&wMjkS0X%11fzjWM&gvI(^bR14!1311-[.AuaLpSdkBh1AKKf1pew<1vxiu14B&A#dh-f#o?1S4#*GAIA!OSnd... (3 MB restante(s))
+--==================================================
+-- ATOMIC HUB V2.1.2
+-- Brookhaven RP | Vortex 777 e Bugadinho
+--==================================================
+
+local Players = game:GetService("Players")
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+local RunService = game:GetService("RunService")
+local Workspace = game:GetService("Workspace")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local VirtualInputManager = game:GetService("VirtualInputManager")
+local HttpService = game:GetService("HttpService")
+local Lighting = game:GetService("Lighting")
+
+local Player = Players.LocalPlayer
+local Camera = Workspace.CurrentCamera
+
+local AdminUserIds = {
+	[3069018287] = true,
+	[8431952921] = true
+}
+
+--==================================================
+-- INICIALIZAÇÃO PANDA AUTH (PUSL-V4)
+--==================================================
+
+local PUSL = loadstring(game:HttpGet("https://secure.pandauth.com/pv4/lib"))()
+if PUSL and type(PUSL.configure) == "function" then
+	PUSL.configure({
+		serviceId = "atomichub",
+	})
+else
+	warn("[Panda Auth] Falha ao carregar a biblioteca.")
+end
+
+--==================================================
+-- CONFIGURAÇÕES E ESTADOS
+--==================================================
+
+local IMAGE_ID = "rbxassetid://79083620757450"
+local MUSIC_ID = "rbxassetid://124383118098366"
+
+local WINDOW_WIDTH = 560
+local WINDOW_HEIGHT = 350
+
+local currentLanguage = "PT"
+
+local Translations = {
+	PT = {
+		Title = "Atomic Hub",
+		SubTitle = "Brookhaven RP | Vortex 777",
+		TabMain = "Main",
+		TabPlayer = "Jogador",
+		TabServer = "Servidor",
+		TabSkybox = "Skybox",
+		TabAudio = "Áudio",
+		TabConfig = "Config",
+		InfoLabel = "Informações & Comunidade",
+		KillLabel = "Matar",
+		FlingLabel = "Fling",
+		ViewLabel = "Visualizar/TP",
+		AvatarLabel = "Skin",
+		ServerLabel = "Ações do Servidor e Proteções",
+		SkyboxLabel = "Skybox FE",
+		AudioLabel = "Reprodutor de Áudio",
+		ConfigLabel = "Configurações",
+		CustomLabel = "Personalização",
+		BtnDiscord = "Entrar no Discord",
+		BtnExecutor = "Executor: ",
+		BtnKill = "Executar Matar",
+		BtnFling = "Executar Fling",
+		BtnView = "Visualizar Jogador",
+		BtnStopView = "Parar Visualização",
+		BtnTp = "TP para Jogador",
+		BtnBringCouch = "Puxar Jogador (Couch)",
+		BtnPratfall = "Pratfall",
+		BtnCopy = "Copiar Avatar",
+		BtnJump = "Infinito Pulo",
+		BtnApplySky = "Aplicar Skybox",
+		BtnResetSky = "Resetar Skybox",
+		BtnPlayAudio = "Tocar Áudio",
+		BtnStopAudio = "Parar Todos os Áudios",
+		BtnCenter = "Centralizar Janela",
+		BtnLangPt = "Português",
+		BtnLangEn = "English",
+		BtnLangEs = "Español",
+		BtnApplyColor = "Aplicar Cor Customizada",
+		BtnApplyBubble = "Aplicar Imagem da Bolinha",
+		ColorBlue = "Tema Azul",
+		ColorPurple = "Tema Roxo",
+		ColorRed = "Tema Vermelho",
+		ColorGreen = "Tema Verde",
+		ColorDark = "Tema Padrão (Dark)",
+	},
+	EN = {
+		Title = "Atomic Hub",
+		SubTitle = "Brookhaven RP | Vortex 777",
+		TabMain = "Main",
+		TabPlayer = "Player",
+		TabServer = "Server",
+		TabSkybox = "Skybox",
+		TabAudio = "Audio",
+		TabConfig = "Settings",
+		InfoLabel = "Info & Community",
+		KillLabel = "Kill",
+		FlingLabel = "Fling",
+		ViewLabel = "View/TP",
+		AvatarLabel = "Avatar",
+		ServerLabel = "Server Actions & Protections",
+		SkyboxLabel = "Skybox FE",
+		AudioLabel = "Audio Player",
+		ConfigLabel = "Settings",
+		CustomLabel = "Customization",
+		BtnDiscord = "Join Discord",
+		BtnExecutor = "Executor: ",
+		BtnKill = "Execute Kill",
+		BtnFling = "Execute Fling",
+		BtnView = "View Player",
+		BtnStopView = "Stop View",
+		BtnTp = "TP to Player",
+		BtnBringCouch = "Bring Player (Couch)",
+		BtnPratfall = "Pratfall",
+		BtnCopy = "Copy Avatar",
+		BtnJump = "Infinite Jump",
+		BtnApplySky = "Apply Skybox",
+		BtnResetSky = "Reset Skybox",
+		BtnPlayAudio = "Play Audio",
+		BtnStopAudio = "Stop All Audio",
+		BtnCenter = "Center Window",
+		BtnLangPt = "Português",
+		BtnLangEn = "English",
+		BtnLangEs = "Español",
+		BtnApplyColor = "Apply Custom Color",
+		BtnApplyBubble = "Apply Bubble Image",
+		ColorBlue = "Blue Theme",
+		ColorPurple = "Purple Theme",
+		ColorRed = "Red Theme",
+		ColorGreen = "Green Theme",
+		ColorDark = "Default Theme (Dark)",
+	},
+	ES = {
+		Title = "Atomic Hub",
+		SubTitle = "Brookhaven RP | Vortex 777",
+		TabMain = "Main",
+		TabPlayer = "Jugador",
+		TabServer = "Servidor",
+		TabSkybox = "Skybox",
+		TabAudio = "Audio",
+		TabConfig = "Ajustes",
+		InfoLabel = "Información y Comunidad",
+		KillLabel = "Matar",
+		FlingLabel = "Fling",
+		ViewLabel = "Ver/TP",
+		AvatarLabel = "Skin",
+		ServerLabel = "Acciones del Servidor y Protecciones",
+		SkyboxLabel = "Skybox FE",
+		AudioLabel = "Reproductor de Audio",
+		ConfigLabel = "Configuración",
+		CustomLabel = "Personalización",
+		BtnDiscord = "Unirse al Discord",
+		BtnExecutor = "Executor: ",
+		BtnKill = "Ejecutar Matar",
+		BtnFling = "Ejecutar Fling",
+		BtnView = "Ver Jugador",
+		BtnStopView = "Parar Vista",
+		BtnTp = "TP al Jugador",
+		BtnBringCouch = "Traer Jugador (Couch)",
+		BtnPratfall = "Pratfall",
+		BtnCopy = "Copiar Skin",
+		BtnJump = "Salto Infinito",
+		BtnApplySky = "Aplicar Skybox",
+		BtnResetSky = "Restablecer Skybox",
+		BtnPlayAudio = "Reproducir Audio",
+		BtnStopAudio = "Parar Todos los Audios",
+		BtnCenter = "Centrar Ventana",
+		BtnLangPt = "Português",
+		BtnLangEn = "English",
+		BtnLangEs = "Español",
+		BtnApplyColor = "Aplicar Color Personalizado",
+		BtnApplyBubble = "Aplicar Imagen de Burbuja",
+		ColorBlue = "Tema Azul",
+		ColorPurple = "Tema Morado",
+		ColorRed = "Tema Rojo",
+		ColorGreen = "Tema Verde",
+		ColorDark = "Tema Predeterminado (Oscuro)",
+	}
+}
+
+local function getTranslation(key)
+	return Translations[currentLanguage][key] or key
+end
+
+local function GetExecutorName()
+	if identifyexecutor then
+		return identifyexecutor()
+	elseif getexecutorname then
+		return getexecutorname()
+	elseif KRNL_LOADED then
+		return "Krnl"
+	elseif Synapse then
+		return "Synapse Z / X"
+	elseif Fluxus then
+		return "Fluxus"
+	elseif Delta then
+		return "Delta"
+	elseif Wave then
+		return "Wave"
+	elseif Codex then
+		return "Codex"
+	elseif ArceusX then
+		return "Arceus X"
+	elseif Solara then
+		return "Solara"
+	end
+	return "Desconhecido"
+end
+
+local antiLagEnabled = false
+local antiFlingEnabled = false
+local antiAdminPanelEnabled = false
+local antiAdminStop = nil
+local antiVoidEnabled = false
+local antiVoidThreshold = -50
+local antiVoidOriginalPosition = nil
+
+local bombLagActive = false
+local Viewing = nil
+local ViewConnection = nil
+local originalTorsoData = nil
+
+local selectedAudioID = nil
+local audioLoopActive = false
+local loudSpamActive = false
+local loudAudioID = 6314880174
+
+local glitchActive = false
+local glitchPart = nil
+
+local PlayerGui = Player:WaitForChild("PlayerGui")
+local oldGui = PlayerGui:FindFirstChild("AtomicHub")
+if oldGui then oldGui:Destroy() end
+
+local oldKeyGui = PlayerGui:FindFirstChild("AtomicKeySystem")
+if oldKeyGui then oldKeyGui:Destroy() end
+
+local function Corner(parent, radius)
+	local corner = Instance.new("UICorner")
+	corner.CornerRadius = UDim.new(0, radius)
+	corner.Parent = parent
+	return corner
+end
+
+local function Stroke(parent, transparency)
+	local stroke = Instance.new("UIStroke")
+	stroke.Color = Color3.fromRGB(50, 50, 60)
+	stroke.Thickness = 1
+	stroke.Transparency = transparency or 0
+	stroke.Parent = parent
+	return stroke
+end
+
+local function Tween(object, time, properties, style, direction)
+	local info = TweenInfo.new(
+		time,
+		style or Enum.EasingStyle.Quad,
+		direction or Enum.EasingDirection.Out
+	)
+	return TweenService:Create(object, info, properties)
+end
+
+local function StartAtomicHub()
+
+	local Gui = Instance.new("ScreenGui")
+	Gui.Name = "AtomicHub"
+	Gui.ResetOnSpawn = false
+	Gui.IgnoreGuiInset = true
+	Gui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+	Gui.Parent = PlayerGui
+
+	-- Tela de Carregamento com Blur
+	local LoadingBlur = Instance.new("BlurEffect")
+	LoadingBlur.Size = 24
+	LoadingBlur.Parent = Lighting
+
+	local LoadingScreen = Instance.new("Frame")
+	LoadingScreen.Name = "LoadingScreen"
+	LoadingScreen.Size = UDim2.fromScale(1, 1)
+	LoadingScreen.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+	LoadingScreen.BackgroundTransparency = 0.4
+	LoadingScreen.BorderSizePixel = 0
+	LoadingScreen.ZIndex = 100
+	LoadingScreen.Parent = Gui
+
+	local LoadingCard = Instance.new("Frame")
+	LoadingCard.Size = UDim2.fromOffset(420, 250)
+	LoadingCard.Position = UDim2.fromScale(0.5, 0.5)
+	LoadingCard.AnchorPoint = Vector2.new(0.5, 0.5)
+	LoadingCard.BackgroundColor3 = Color3.fromRGB(22, 22, 29)
+	LoadingCard.BorderSizePixel = 0
+	LoadingCard.ZIndex = 101
+	LoadingCard.Parent = LoadingScreen
+
+	Corner(LoadingCard, 20)
+	Stroke(LoadingCard)
+
+	local LoadingIcon = Instance.new("ImageLabel")
+	LoadingIcon.Size = UDim2.fromOffset(80, 80)
+	LoadingIcon.Position = UDim2.new(0.5, 0, 0, 25)
+	LoadingIcon.AnchorPoint = Vector2.new(0.5, 0)
+	LoadingIcon.BackgroundTransparency = 1
+	LoadingIcon.Image = IMAGE_ID
+	LoadingIcon.ZIndex = 102
+	LoadingIcon.Parent = LoadingCard
+	Corner(LoadingIcon, 20)
+
+	local LoadingTitle = Instance.new("TextLabel")
+	LoadingTitle.Size = UDim2.new(1, -40, 0, 35)
+	LoadingTitle.Position = UDim2.new(0, 20, 0, 110)
+	LoadingTitle.BackgroundTransparency = 1
+	LoadingTitle.Text = "Atomic Hub"
+	LoadingTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+	LoadingTitle.TextSize = 25
+	LoadingTitle.Font = Enum.Font.GothamBold
+	LoadingTitle.ZIndex = 102
+	LoadingTitle.Parent = LoadingCard
+
+	local LoadingText = Instance.new("TextLabel")
+	LoadingText.Size = UDim2.new(1, -40, 0, 25)
+	LoadingText.Position = UDim2.new(0, 20, 0, 145)
+	LoadingText.BackgroundTransparency = 1
+	LoadingText.Text = "Carregando..."
+	LoadingText.TextColor3 = Color3.fromRGB(170, 170, 180)
+	LoadingText.TextSize = 14
+	LoadingText.Font = Enum.Font.Gotham
+	LoadingText.ZIndex = 102
+	LoadingText.Parent = LoadingCard
+
+	local ProgressBackground = Instance.new("Frame")
+	ProgressBackground.Size = UDim2.new(1, -60, 0, 10)
+	ProgressBackground.Position = UDim2.new(0, 30, 0, 185)
+	ProgressBackground.BackgroundColor3 = Color3.fromRGB(45, 45, 55)
+	ProgressBackground.BorderSizePixel = 0
+	ProgressBackground.ZIndex = 102
+	ProgressBackground.Parent = LoadingCard
+	Corner(ProgressBackground, 10)
+
+	local Progress = Instance.new("Frame")
+	Progress.Size = UDim2.new(0, 0, 1, 0)
+	Progress.BackgroundColor3 = Color3.fromRGB(100, 150, 255)
+	Progress.BorderSizePixel = 0
+	Progress.ZIndex = 103
+	Progress.Parent = ProgressBackground
+	Corner(Progress, 10)
+
+	local Percentage = Instance.new("TextLabel")
+	Percentage.Size = UDim2.new(1, 0, 0, 20)
+	Percentage.Position = UDim2.new(0, 0, 0, 205)
+	Percentage.BackgroundTransparency = 1
+	Percentage.Text = "0%"
+	Percentage.TextColor3 = Color3.fromRGB(160, 160, 170)
+	Percentage.TextSize = 12
+	Percentage.Font = Enum.Font.Gotham
+	Percentage.ZIndex = 102
+	Percentage.Parent = LoadingCard
+
+	local LoadingMusic = Instance.new("Sound")
+	LoadingMusic.Name = "AtomicHubLoadingMusic"
+	LoadingMusic.SoundId = MUSIC_ID
+	LoadingMusic.Volume = 0.5
+	LoadingMusic.Looped = true
+	LoadingMusic.Parent = Gui
+	pcall(function() LoadingMusic:Play() end)
+
+	-- Janela Principal
+	local Main = Instance.new("Frame")
+	Main.Name = "Main"
+	Main.Size = UDim2.fromOffset(WINDOW_WIDTH, WINDOW_HEIGHT)
+	Main.Position = UDim2.fromScale(0.5, 0.5)
+	Main.AnchorPoint = Vector2.new(0.5, 0.5)
+	Main.BackgroundColor3 = Color3.fromRGB(20, 20, 27)
+	Main.BorderSizePixel = 0
+	Main.Visible = false
+	Main.Active = true
+	Main.ZIndex = 10
+	Main.Parent = Gui
+	Corner(Main, 16)
+	Stroke(Main)
+
+	-- Header
+	local Header = Instance.new("Frame")
+	Header.Name = "Header"
+	Header.Size = UDim2.new(1, 0, 0, 55)
+	Header.BackgroundColor3 = Color3.fromRGB(27, 27, 35)
+	Header.BorderSizePixel = 0
+	Header.ZIndex = 11
+	Header.Parent = Main
+	Corner(Header, 16)
+
+	local HeaderFix = Instance.new("Frame")
+	HeaderFix.Size = UDim2.new(1, 0, 0, 20)
+	HeaderFix.Position = UDim2.new(0, 0, 1, -20)
+	HeaderFix.BackgroundColor3 = Color3.fromRGB(27, 27, 35)
+	HeaderFix.BorderSizePixel = 0
+	HeaderFix.ZIndex = 11
+	HeaderFix.Parent = Header
+
+	local HeaderIcon = Instance.new("ImageLabel")
+	HeaderIcon.Size = UDim2.fromOffset(36, 36)
+	HeaderIcon.Position = UDim2.new(0, 10, 0.5, -18)
+	HeaderIcon.BackgroundTransparency = 1
+	HeaderIcon.Image = IMAGE_ID
+	HeaderIcon.ZIndex = 12
+	HeaderIcon.Parent = Header
+	Corner(HeaderIcon, 10)
+
+	local Title = Instance.new("TextLabel")
+	Title.Size = UDim2.new(1, -150, 1, 0)
+	Title.Position = UDim2.new(0, 55, 0, 0)
+	Title.BackgroundTransparency = 1
+	Title.Text = "Atomic Hub"
+	Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+	Title.TextSize = 17
+	Title.TextXAlignment = Enum.TextXAlignment.Left
+	Title.Font = Enum.Font.GothamBold
+	Title.ZIndex = 12
+	Title.Parent = Header
+
+	local Minimize = Instance.new("TextButton")
+	Minimize.Size = UDim2.fromOffset(35, 35)
+	Minimize.Position = UDim2.new(1, -80, 0.5, -17)
+	Minimize.BackgroundColor3 = Color3.fromRGB(35, 35, 45)
+	Minimize.BorderSizePixel = 0
+	Minimize.Text = "—"
+	Minimize.TextColor3 = Color3.fromRGB(255, 255, 255)
+	Minimize.TextSize = 18
+	Minimize.Font = Enum.Font.GothamBold
+	Minimize.AutoButtonColor = false
+	Minimize.ZIndex = 13
+	Minimize.Parent = Header
+	Corner(Minimize, 9)
+
+	local Close = Instance.new("TextButton")
+	Close.Size = UDim2.fromOffset(35, 35)
+	Close.Position = UDim2.new(1, -40, 0.5, -17)
+	Close.BackgroundColor3 = Color3.fromRGB(55, 25, 30)
+	Close.BorderSizePixel = 0
+	Close.Text = "×"
+	Close.TextColor3 = Color3.fromRGB(255, 255, 255)
+	Close.TextSize = 22
+	Close.Font = Enum.Font.GothamBold
+	Close.AutoButtonColor = false
+	Close.ZIndex = 13
+	Close.Parent = Header
+	Corner(Close, 9)
+
+	-- Sidebar & Content
+	local Sidebar = Instance.new("Frame")
+	Sidebar.Name = "Sidebar"
+	Sidebar.Size = UDim2.new(0, 135, 1, -55)
+	Sidebar.Position = UDim2.new(0, 0, 0, 55)
+	Sidebar.BackgroundColor3 = Color3.fromRGB(16, 16, 22)
+	Sidebar.BorderSizePixel = 0
+	Sidebar.ZIndex = 11
+	Sidebar.Parent = Main
+
+	local Content = Instance.new("Frame")
+	Content.Name = "Content"
+	Content.Size = UDim2.new(1, -135, 1, -55)
+	Content.Position = UDim2.new(0, 135, 0, 55)
+	Content.BackgroundTransparency = 1
+	Content.BorderSizePixel = 0
+	Content.ZIndex = 11
+	Content.Parent = Main
+
+	local ContentPadding = Instance.new("UIPadding")
+	ContentPadding.PaddingTop = UDim.new(0, 15)
+	ContentPadding.PaddingBottom = UDim.new(0, 15)
+	ContentPadding.PaddingLeft = UDim.new(0, 15)
+	ContentPadding.PaddingRight = UDim.new(0, 15)
+	ContentPadding.Parent = Content
+
+	local Tabs = {}
+	local CurrentTab = nil
+	local TabCount = 0
+
+	local activeThemeColor = Color3.fromRGB(65, 90, 150)
+	local defaultTabBgColor = Color3.fromRGB(14, 14, 18)
+	local elementBaseColor = Color3.fromRGB(15, 15, 20)
+	local elementHoverColor = Color3.fromRGB(25, 25, 35)
+
+	local function CreateTab(NameKey)
+		TabCount += 1
+		local Button = Instance.new("TextButton")
+		Button.Name = NameKey .. "Btn"
+		Button.Size = UDim2.new(1, -16, 0, 36)
+		Button.Position = UDim2.new(0, 8, 0, 8 + ((TabCount - 1) * 40))
+		Button.BackgroundColor3 = defaultTabBgColor
+		Button.BorderSizePixel = 0
+		Button.Text = getTranslation(NameKey)
+		Button.TextColor3 = Color3.fromRGB(190, 190, 200)
+		Button.TextSize = 12
+		Button.Font = Enum.Font.GothamMedium
+		Button.AutoButtonColor = false
+		Button.ZIndex = 12
+		Button.Parent = Sidebar
+		Corner(Button, 9)
+		Button:SetAttribute("NameKey", NameKey)
+
+		local Page = Instance.new("ScrollingFrame")
+		Page.Name = NameKey .. "Page"
+		Page.Size = UDim2.fromScale(1, 1)
+		Page.BackgroundTransparency = 1
+		Page.BorderSizePixel = 0
+		Page.ScrollBarThickness = 4
+		Page.ScrollBarImageColor3 = Color3.fromRGB(60, 60, 70)
+		Page.CanvasSize = UDim2.new(0, 0, 0, 0)
+		Page.AutomaticCanvasSize = Enum.AutomaticSize.Y
+		Page.Visible = false
+		Page.ZIndex = 12
+		Page.Parent = Content
+
+		local Layout = Instance.new("UIListLayout")
+		Layout.Padding = UDim.new(0, 8)
+		Layout.SortOrder = Enum.SortOrder.LayoutOrder
+		Layout.Parent = Page
+
+		local Tab = { Button = Button, Page = Page }
+		table.insert(Tabs, Tab)
+
+		Button.MouseButton1Click:Connect(function()
+			for _, Other in ipairs(Tabs) do
+				Other.Page.Visible = false
+				Other.Button.BackgroundColor3 = defaultTabBgColor
+				Other.Button.TextColor3 = Color3.fromRGB(190, 190, 200)
+			end
+			Page.Visible = true
+			Button.BackgroundColor3 = activeThemeColor
+			Button.TextColor3 = Color3.fromRGB(255, 255, 255)
+			CurrentTab = Tab
+		end)
+
+		return Page
+	end
+
+	local function AddLabel(Page, TextKey, DirectText)
+		local Label = Instance.new("TextLabel")
+		Label.Size = UDim2.new(1, 0, 0, 25)
+		Label.BackgroundTransparency = 1
+		Label.Font = Enum.Font.GothamBold
+		Label.Text = DirectText or getTranslation(TextKey)
+		Label.TextSize = 12
+		Label.TextColor3 = Color3.fromRGB(170, 170, 180)
+		Label.TextXAlignment = Enum.TextXAlignment.Left
+		Label.ZIndex = 13
+		Label.Parent = Page
+		if TextKey then Label:SetAttribute("TextKey", TextKey) end
+		return Label
+	end
+
+	local function AddButton(Page, TextKey, Callback)
+		local Button = Instance.new("TextButton")
+		Button.Size = UDim2.new(1, 0, 0, 34)
+		Button.BackgroundColor3 = elementBaseColor
+		Button.BorderSizePixel = 0
+		Button.Font = Enum.Font.Gotham
+		Button.Text = getTranslation(TextKey)
+		Button.TextSize = 11
+		Button.TextColor3 = Color3.fromRGB(225, 225, 228)
+		Button.TextXAlignment = Enum.TextXAlignment.Left
+		Button.AutoButtonColor = false
+		Button.ZIndex = 13
+		Button.Parent = Page
+		Button:SetAttribute("TextKey", TextKey)
+		Corner(Button, 6)
+		Stroke(Button, 0.5)
+
+		local Padding = Instance.new("UIPadding")
+		Padding.PaddingLeft = UDim.new(0, 10)
+		Padding.Parent = Button
+
+		Button.MouseEnter:Connect(function() Tween(Button, 0.15, {BackgroundColor3 = elementHoverColor}):Play() end)
+		Button.MouseLeave:Connect(function() Tween(Button, 0.15, {BackgroundColor3 = elementBaseColor}):Play() end)
+		Button.MouseButton1Click:Connect(function() if Callback then Callback(Button) end end)
+		return Button
+	end
+
+	local function AddToggle(Page, TextKey, Default, Callback)
+		local State = Default or false
+		local Button = Instance.new("TextButton")
+		Button.Size = UDim2.new(1, 0, 0, 34)
+		Button.BackgroundColor3 = elementBaseColor
+		Button.BorderSizePixel = 0
+		Button.Text = ""
+		Button.AutoButtonColor = false
+		Button.ZIndex = 13
+		Button.Parent = Page
+		Corner(Button, 6)
+		Stroke(Button, 0.5)
+
+		local Label = Instance.new("TextLabel")
+		Label.Position = UDim2.fromOffset(11, 0)
+		Label.Size = UDim2.new(1, -55, 1, 0)
+		Label.BackgroundTransparency = 1
+		Label.Font = Enum.Font.Gotham
+		Label.Text = getTranslation(TextKey)
+		Label.TextSize = 11
+		Label.TextColor3 = Color3.fromRGB(225, 225, 228)
+		Label.TextXAlignment = Enum.TextXAlignment.Left
+		Label.ZIndex = 13
+		Label.Parent = Button
+		Label:SetAttribute("TextKey", TextKey)
+
+		local Toggle = Instance.new("Frame")
+		Toggle.Position = UDim2.new(1, -34, 0.5, -7)
+		Toggle.Size = UDim2.fromOffset(24, 14)
+		Toggle.BackgroundColor3 = Color3.fromRGB(30, 30, 40)
+		Toggle.BorderSizePixel = 0
+		Toggle.ZIndex = 13
+		Toggle.Parent = Button
+		Corner(Toggle, 7)
+
+		local Knob = Instance.new("Frame")
+		Knob.Position = UDim2.fromOffset(2, 2)
+		Knob.Size = UDim2.fromOffset(10, 10)
+		Knob.BackgroundColor3 = Color3.fromRGB(135, 135, 140)
+		Knob.BorderSizePixel = 0
+		Knob.ZIndex = 14
+		Knob.Parent = Toggle
+		Corner(Knob, 5)
+
+		local function Update()
+			if State then
+				Tween(Toggle, 0.15, {BackgroundColor3 = Color3.fromRGB(90, 135, 205)}):Play()
+				Tween(Knob, 0.15, {Position = UDim2.new(1, -12, 0, 2)}):Play()
+				Knob.BackgroundColor3 = Color3.new(1, 1, 1)
+			else
+				Tween(Toggle, 0.15, {BackgroundColor3 = Color3.fromRGB(30, 30, 40)}):Play()
+				Tween(Knob, 0.15, {Position = UDim2.fromOffset(2, 2)}):Play()
+				Knob.BackgroundColor3 = Color3.fromRGB(135, 135, 140)
+			end
+		end
+
+		Button.MouseEnter:Connect(function() Button.BackgroundColor3 = elementHoverColor end)
+		Button.MouseLeave:Connect(function() Button.BackgroundColor3 = elementBaseColor end)
+		Button.MouseButton1Click:Connect(function()
+			State = not State
+			Update()
+			if Callback then Callback(State) end
+		end)
+		Update()
+		return Button
+	end
+
+	local function AddTextBox(Page, Placeholder, Callback)
+		local Box = Instance.new("TextBox")
+		Box.Size = UDim2.new(1, 0, 0, 34)
+		Box.BackgroundColor3 = elementBaseColor
+		Box.BorderSizePixel = 0
+		Box.ClearTextOnFocus = false
+		Box.Font = Enum.Font.Gotham
+		Box.PlaceholderText = Placeholder or "Type here..."
+		Box.PlaceholderColor3 = Color3.fromRGB(135, 135, 140)
+		Box.Text = ""
+		Box.TextSize = 11
+		Box.TextColor3 = Color3.fromRGB(225, 225, 228)
+		Box.TextXAlignment = Enum.TextXAlignment.Left
+		Box.ZIndex = 13
+		Box.Parent = Page
+		Corner(Box, 6)
+		Stroke(Box, 0.5)
+
+		local Padding = Instance.new("UIPadding")
+		Padding.PaddingLeft = UDim.new(0, 10)
+		Padding.PaddingRight = UDim.new(0, 10)
+		Padding.Parent = Box
+
+		Box.Focused:Connect(function() Box.BackgroundColor3 = elementHoverColor end)
+		Box.FocusLost:Connect(function(EnterPressed)
+			Box.BackgroundColor3 = elementBaseColor
+			if Callback then Callback(Box.Text, EnterPressed) end
+		end)
+		return Box
+	end
+
+	-- CRIAR LISTA RETRÁTIL (ESTILO DROPDOWN)
+	local function CreateCustomList(Parent, TitleText)
+		local isOpen = false
+		local selectedItem = nil
+		local itemsData = {}
+		local callbackFunc = nil
+
+		local Container = Instance.new("Frame")
+		Container.Name = TitleText .. "Dropdown"
+		Container.Size = UDim2.new(1, 0, 0, 34)
+		Container.BackgroundColor3 = elementBaseColor
+		Container.BorderSizePixel = 0
+		Container.ZIndex = 13
+		Container.Parent = Parent
+		Corner(Container, 6)
+		Stroke(Container, 0.5)
+
+		local HeaderBtn = Instance.new("TextButton")
+		HeaderBtn.Size = UDim2.new(1, 0, 0, 34)
+		HeaderBtn.BackgroundTransparency = 1
+		HeaderBtn.Text = ""
+		HeaderBtn.ZIndex = 14
+		HeaderBtn.Parent = Container
+
+		local LabelTitle = Instance.new("TextLabel")
+		LabelTitle.Position = UDim2.fromOffset(10, 0)
+		LabelTitle.Size = UDim2.new(1, -30, 1, 0)
+		LabelTitle.BackgroundTransparency = 1
+		LabelTitle.Font = Enum.Font.GothamMedium
+		LabelTitle.Text = TitleText .. ": (Nenhum selecionado)"
+		LabelTitle.TextSize = 11
+		LabelTitle.TextColor3 = Color3.fromRGB(225, 225, 228)
+		LabelTitle.TextXAlignment = Enum.TextXAlignment.Left
+		LabelTitle.ZIndex = 14
+		LabelTitle.Parent = HeaderBtn
+
+		local Arrow = Instance.new("TextLabel")
+		Arrow.Position = UDim2.new(1, -25, 0, 0)
+		Arrow.Size = UDim2.fromOffset(20, 34)
+		Arrow.BackgroundTransparency = 1
+		Arrow.Font = Enum.Font.GothamBold
+		Arrow.Text = "▼"
+		Arrow.TextSize = 10
+		Arrow.TextColor3 = Color3.fromRGB(170, 170, 180)
+		Arrow.ZIndex = 14
+		Arrow.Parent = HeaderBtn
+
+		local DropListFrame = Instance.new("ScrollingFrame")
+		DropListFrame.Position = UDim2.new(0, 0, 0, 38)
+		DropListFrame.Size = UDim2.new(1, 0, 0, 0)
+		DropListFrame.BackgroundColor3 = Color3.fromRGB(12, 12, 16)
+		DropListFrame.BorderSizePixel = 0
+		DropListFrame.Visible = false
+		DropListFrame.ScrollBarThickness = 2
+		DropListFrame.ScrollBarImageColor3 = Color3.fromRGB(45, 45, 55)
+		DropListFrame.AutomaticCanvasSize = Enum.AutomaticSize.Y
+		DropListFrame.CanvasSize = UDim2.new(0, 0, 0, 0)
+		DropListFrame.ZIndex = 20
+		DropListFrame.Parent = Container
+		Corner(DropListFrame, 6)
+		Stroke(DropListFrame, 0.5)
+
+		local Layout = Instance.new("UIListLayout")
+		Layout.Padding = UDim.new(0, 2)
+		Layout.SortOrder = Enum.SortOrder.LayoutOrder
+		Layout.Parent = DropListFrame
+
+		local function ToggleOpen()
+			isOpen = not isOpen
+			if isOpen then
+				DropListFrame.Visible = true
+				local count = 0
+				for _ in pairs(itemsData) do count += 1 end
+				local targetHeight = math.clamp(count * 28 + 6, 35, 130)
+				Tween(Container, 0.2, {Size = UDim2.new(1, 0, 0, 34 + targetHeight)}):Play()
+				Tween(DropListFrame, 0.2, {Size = UDim2.new(1, 0, 0, targetHeight)}):Play()
+				Arrow.Text = "▲"
+			else
+				Tween(Container, 0.2, {Size = UDim2.new(1, 0, 0, 34)}):Play()
+				local tw = Tween(DropListFrame, 0.2, {Size = UDim2.new(1, 0, 0, 0)})
+				tw:Play()
+				tw.Completed:Connect(function()
+					if not isOpen then DropListFrame.Visible = false end
+				end)
+				Arrow.Text = "▼"
+			end
+		end
+
+		HeaderBtn.MouseButton1Click:Connect(ToggleOpen)
+
+		local API = {}
+
+		function API:OnSelect(func)
+			callbackFunc = func
+		end
+
+		function API:Add(Text, CustomCallback)
+			Text = tostring(Text)
+			if itemsData[Text] then return end
+
+			local Btn = Instance.new("TextButton")
+			Btn.Size = UDim2.new(1, 0, 0, 26)
+			Btn.BackgroundColor3 = Color3.fromRGB(15, 15, 20)
+			Btn.BorderSizePixel = 0
+			Btn.Font = Enum.Font.Gotham
+			Btn.Text = Text
+			Btn.TextSize = 10
+			Btn.TextColor3 = Color3.fromRGB(180, 180, 190)
+			Btn.TextXAlignment = Enum.TextXAlignment.Left
+			Btn.AutoButtonColor = false
+			Btn.ZIndex = 21
+			Btn.Parent = DropListFrame
+
+			local pad = Instance.new("UIPadding")
+			pad.PaddingLeft = UDim.new(0, 10)
+			pad.Parent = Btn
+			Corner(Btn, 4)
+
+			Btn.MouseEnter:Connect(function() if selectedItem ~= Text then Btn.BackgroundColor3 = Color3.fromRGB(30, 30, 42) end end)
+			Btn.MouseLeave:Connect(function() if selectedItem ~= Text then Btn.BackgroundColor3 = Color3.fromRGB(15, 15, 20) end end)
+			Btn.MouseButton1Click:Connect(function()
+				for _, b in pairs(itemsData) do
+					b.BackgroundColor3 = Color3.fromRGB(15, 15, 20)
+					b.TextColor3 = Color3.fromRGB(180, 180, 190)
+				end
+				selectedItem = Text
+				Btn.BackgroundColor3 = activeThemeColor
+				Btn.TextColor3 = Color3.new(1, 1, 1)
+				LabelTitle.Text = TitleText .. ": " + Text
+				ToggleOpen()
+				if CustomCallback then CustomCallback(Text) end
+				if callbackFunc then callbackFunc(Text) end
+			end)
+
+			itemsData[Text] = Btn
+		end
+
+		function API:Clear()
+			for _, b in pairs(itemsData) do b:Destroy() end
+			itemsData = {}
+			selectedItem = nil
+			LabelTitle.Text = TitleText .. ": (Nenhum selecionado)"
+		end
+
+		function API:GetSelected()
+			return selectedItem
+		end
+
+		function API:SetSelected(Text)
+			Text = tostring(Text)
+			if itemsData[Text] then
+				for _, b in pairs(itemsData) do
+					b.BackgroundColor3 = Color3.fromRGB(15, 15, 20)
+					b.TextColor3 = Color3.fromRGB(180, 180, 190)
+				end
+				selectedItem = Text
+				itemsData[Text].BackgroundColor3 = activeThemeColor
+				itemsData[Text].TextColor3 = Color3.new(1, 1, 1)
+				LabelTitle.Text = TitleText .. ": " .. Text
+			end
+		end
+
+		return API
+	end
+
+	--==================================================
+	-- FUNÇÕES DO SCRIPT
+	--==================================================
+
+	local function getRoot(char)
+		return char and char:FindFirstChild("HumanoidRootPart")
+	end
+
+	local function StopView()
+		Viewing = nil
+		if ViewConnection then ViewConnection:Disconnect() ViewConnection = nil end
+		if Player.Character then
+			local humanoid = Player.Character:FindFirstChildOfClass("Humanoid")
+			if humanoid then Camera.CameraSubject = humanoid end
+		end
+	end
+
+	local function ViewPlayer(targetName)
+		local target = Players:FindFirstChild(targetName)
+		if not target or not target.Character then return end
+		local humanoid = target.Character:FindFirstChildOfClass("Humanoid")
+		if not humanoid then return end
+		if ViewConnection then ViewConnection:Disconnect() end
+		Viewing = target
+		Camera.CameraSubject = humanoid
+		ViewConnection = RunService.Heartbeat:Connect(function()
+			if not Viewing then ViewConnection:Disconnect() return end
+			if Viewing.Parent ~= Players then StopView() return end
+			local newHumanoid = Viewing.Character and Viewing.Character:FindFirstChildOfClass("Humanoid")
+			if newHumanoid and Camera.CameraSubject ~= newHumanoid then Camera.CameraSubject = newHumanoid end
+			if not newHumanoid then StopView() end
+		end)
+	end
+
+	local function killTargetCouch(targetName)
+		local target = Players:FindFirstChild(targetName)
+		if not target or not target.Character then return end
+		local targetHumanoid = target.Character:FindFirstChild("Humanoid")
+		local targetHrp = getRoot(target.Character)
+		if not targetHumanoid or not targetHrp then return end
+
+		local char = Player.Character
+		if not char then return end
+		local humanoid = char:FindFirstChildOfClass("Humanoid")
+		local root = getRoot(char)
+		if not humanoid or not root then return end
+
+		local originalPos = root.Position
+		local sitPos = Vector3.new(145.51, -350.09, 21.58)
+		local RE = ReplicatedStorage:WaitForChild("RE")
+		local clearTools = RE:WaitForChild("1Clea1rTool1s")
+		pcall(function() clearTools:FireServer("ClearAllTools") end)
+		task.wait(0.2)
+		local pickup = RE:FindFirstChild("1Too1l")
+		pcall(function() pickup:InvokeServer("PickingTools", "Couch") end)
+		task.wait(0.3)
+		local tool = Player.Backpack:FindFirstChild("Couch")
+		if tool then tool.Parent = char end
+		task.wait(0.1)
+		VirtualInputManager:SendKeyEvent(true, Enum.KeyCode.F, false, game)
+		task.wait(0.1)
+		humanoid:SetStateEnabled(Enum.HumanoidStateType.Seated, false)
+		humanoid.PlatformStand = false
+		Camera.CameraSubject = target.Character:FindFirstChild("Head") or targetHrp or humanoid
+		local align = Instance.new("BodyPosition")
+		align.Name = "BringPosition"
+		align.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+		align.D = 10
+		align.P = 30000
+		align.Position = root.Position
+		align.Parent = targetHrp
+		task.spawn(function()
+			local angle = 0
+			local startTime = tick()
+			while tick() - startTime < 5 and target and target.Character and target.Character:FindFirstChildOfClass("Humanoid") do
+				local tHum = target.Character:FindFirstChildOfClass("Humanoid")
+				if not tHum or tHum.Sit then break end
+				local hrp = target.Character.HumanoidRootPart
+				local adjustedPos = hrp.Position + (hrp.Velocity / 1.5)
+				angle += 50
+				root.CFrame = CFrame.new(adjustedPos + Vector3.new(0, 2, 0)) * CFrame.Angles(math.rad(angle), 0, 0)
+				align.Position = root.Position + Vector3.new(2, 0, 0)
+				task.wait()
+			end
+			align:Destroy()
+			humanoid:SetStateEnabled(Enum.HumanoidStateType.Seated, true)
+			humanoid.PlatformStand = false
+			Camera.CameraSubject = humanoid
+			for _, p in pairs(char:GetDescendants()) do
+				if p:IsA("BasePart") then p.Velocity = Vector3.zero p.RotVelocity = Vector3.zero end
+			end
+			task.wait(0.1)
+			root.CFrame = CFrame.new(sitPos)
+			task.wait(0.3)
+			local toolInChar = char:FindFirstChild("Couch")
+			if toolInChar then toolInChar.Parent = Player.Backpack end
+			task.wait(0.01)
+			if pickup then pickup:InvokeServer("PickingTools", "Couch") end
+			task.wait(0.2)
+			root.CFrame = CFrame.new(originalPos)
+			if targetHumanoid and targetHumanoid.Parent then
+				pcall(function() targetHumanoid.Health = 0 end)
+			end
+		end)
+	end
+
+	local function killTargetBus(targetName)
+		local target = Players:FindFirstChild(targetName)
+		if not target or not target.Character then return end
+		local targetHrp = getRoot(target.Character)
+		if not targetHrp then return end
+
+		local char = Player.Character
+		if not char then return end
+		local humanoid = char:FindFirstChildOfClass("Humanoid")
+		local root = getRoot(char)
+		if not humanoid or not root then return end
+
+		local originalPosition = root.CFrame
+		local function GetBus()
+			local vehicles = Workspace:FindFirstChild("Vehicles")
+			if vehicles then return vehicles:FindFirstChild(Player.Name .. "Car") end
+			return nil
+		end
+		
+		local bus = GetBus()
+		if not bus then
+			root.CFrame = CFrame.new(1118.81, 75.998, -1138.61)
+			task.wait(0.5)
+			local RE = ReplicatedStorage:FindFirstChild("RE")
+			if RE and RE:FindFirstChild("1Ca1r") then RE["1Ca1r"]:FireServer("PickingCar", "SchoolBus") end
+			task.wait(1)
+			bus = GetBus()
+		end
+		
+		if bus then
+			local seat = bus:FindFirstChild("Body") and bus.Body:FindFirstChild("VehicleSeat")
+			if seat and char:FindFirstChildOfClass("Humanoid") and not char.Humanoid.Sit then
+				repeat
+					root.CFrame = seat.CFrame * CFrame.new(0, 2, 0)
+					task.wait()
+				until char.Humanoid.Sit or not bus.Parent
+			end
+		end
+		
+		if not bus then return end
+		
+		task.spawn(function()
+			while true do
+				if targetName then
+					local targetPlayer = Players:FindFirstChild(targetName)
+					if targetPlayer and targetPlayer.Character and targetPlayer.Character:FindFirstChild("HumanoidRootPart") then
+						local targetHumanoidBus = targetPlayer.Character:FindFirstChildOfClass("Humanoid")
+						if targetHumanoidBus and targetHumanoidBus.Sit then
+							if char.Humanoid then
+								bus:SetPrimaryPartCFrame(CFrame.new(Vector3.new(9999, -450, 9999)))
+								task.wait(0.2)
+								pcall(function() char.Humanoid:ChangeState(Enum.HumanoidStateType.Jumping) end)
+								task.wait(0.5)
+								root.CFrame = originalPosition
+							end
+							break
+						else
+							local targetRoot = targetPlayer.Character.HumanoidRootPart
+							local time = tick() * 35
+							local lateralOffset = math.sin(time) * 4
+							local frontBackOffset = math.cos(time) * 20
+							bus:SetPrimaryPartCFrame(targetRoot.CFrame * CFrame.new(lateralOffset, 0, frontBackOffset))
+						end
+					end
+				end
+				RunService.RenderStepped:Wait()
+			end
+		end)
+	end
+
+	local function flingTargetBall(targetName)
+		local target = Players:FindFirstChild(targetName)
+		if not target or not target.Character then return end
+		local targetHrp = getRoot(target.Character)
+		if not targetHrp then return end
+
+		local char = Player.Character
+		if not char then return end
+		local humanoid = char:FindFirstChildOfClass("Humanoid")
+		local root = getRoot(char)
+		if not humanoid or not root then return end
+
+		local ServerBalls = Workspace:WaitForChild("WorkspaceCom"):WaitForChild("001_SoccerBalls")
+		local backpack = Player:WaitForChild("Backpack")
+		local function GetBall()
+			if not backpack:FindFirstChild("SoccerBall") and not char:FindFirstChild("SoccerBall") then
+				local RE = ReplicatedStorage:FindFirstChild("RE")
+				if RE and RE:FindFirstChild("1Too1l") then RE["1Too1l"]:InvokeServer("PickingTools", "SoccerBall") end
+			end
+			repeat task.wait() until backpack:FindFirstChild("SoccerBall") or char:FindFirstChild("SoccerBall")
+			local ballTool = backpack:FindFirstChild("SoccerBall")
+			if ballTool then ballTool.Parent = char end
+			repeat task.wait() until ServerBalls:FindFirstChild("Soccer" .. Player.Name)
+			return ServerBalls:FindFirstChild("Soccer" .. Player.Name)
+		end
+		local Ball = ServerBalls:FindFirstChild("Soccer" .. Player.Name) or GetBall()
+		Ball.CanCollide = false
+		Ball.Massless = true
+		Ball.CustomPhysicalProperties = PhysicalProperties.new(0.0001, 0, 0)
+		local tchar = target.Character
+		if tchar and tchar:FindFirstChild("HumanoidRootPart") and tchar:FindFirstChild("Humanoid") then
+			local troot = tchar.HumanoidRootPart
+			local thum = tchar.Humanoid
+			local existingBV = Ball:FindFirstChildWhichIsA("BodyVelocity")
+			if existingBV then existingBV:Destroy() end
+			local bv = Instance.new("BodyVelocity")
+			bv.Name = "FlingPower"
+			bv.Velocity = Vector3.new(9e8, 9e8, 9e8)
+			bv.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+			bv.P = 9e900
+			bv.Parent = Ball
+			Workspace.CurrentCamera.CameraSubject = thum
+			repeat
+				if troot.Velocity.Magnitude > 0 then
+					local pos = troot.Position + (troot.Velocity / 1.5)
+					Ball.CFrame = CFrame.new(pos)
+					Ball.Orientation += Vector3.new(45, 60, 30)
+				else
+					for _, v in pairs(tchar:GetChildren()) do
+						if v:IsA("BasePart") and v.CanCollide and not v.Anchored then
+							Ball.CFrame = v.CFrame
+							task.wait(1/6000)
+						end
+					end
+				end
+				task.wait(1/6000)
+			until troot.Velocity.Magnitude > 1000 or thum.Health <= 0 or not tchar:IsDescendantOf(Workspace) or target.Parent ~= Players
+			Workspace.CurrentCamera.CameraSubject = humanoid
+		end
+	end
+
+	local function flingTargetCouch(targetName)
+		local target = Players:FindFirstChild(targetName)
+		if not target or not target.Character then return end
+		local targetHrp = getRoot(target.Character)
+		if not targetHrp then return end
+
+		local char = Player.Character
+		if not char then return end
+		local humanoid = char:FindFirstChildOfClass("Humanoid")
+		local root = getRoot(char)
+		if not humanoid or not root then return end
+
+		local RE = ReplicatedStorage:WaitForChild("RE")
+		local clearTools = RE:WaitForChild("1Clea1rTool1s")
+		pcall(function() clearTools:FireServer("ClearAllTools") end)
+		task.wait(0.2)
+		local pickup = RE:FindFirstChild("1Too1l")
+		pcall(function() pickup:InvokeServer("PickingTools", "Couch") end)
+		task.wait(0.3)
+		local tool = Player.Backpack:FindFirstChild("Couch")
+		if tool then tool.Parent = char end
+		task.wait(0.2)
+		VirtualInputManager:SendKeyEvent(true, Enum.KeyCode.F, false, game)
+		task.wait(0.25)
+		local original = root.CFrame
+		local bv = Instance.new("BodyVelocity")
+		bv.Name = "FlingForce"
+		bv.Velocity = Vector3.new(9e8, 9e8, 9e8)
+		bv.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+		bv.Parent = root
+		humanoid:SetStateEnabled(Enum.HumanoidStateType.Seated, false)
+		humanoid.PlatformStand = false
+		Camera.CameraSubject = target.Character:FindFirstChild("Head") or targetHrp or humanoid
+		
+		task.spawn(function()
+			local angle = 0
+			while target and target.Character and target.Character:FindFirstChildOfClass("Humanoid") do
+				local tHum = target.Character:FindFirstChildOfClass("Humanoid")
+				if tHum.Sit then break end
+				angle += 50
+				local hrp = target.Character.HumanoidRootPart
+				local pos = hrp.Position + hrp.Velocity / 1.5
+				root.CFrame = CFrame.new(pos) * CFrame.Angles(math.rad(angle), 0, 0)
+				root.Velocity = Vector3.new(9e8, 9e8, 9e8)
+				root.RotVelocity = Vector3.new(9e8, 9e8, 9e8)
+				task.wait()
+			end
+			bv:Destroy()
+			humanoid:SetStateEnabled(Enum.HumanoidStateType.Seated, true)
+			humanoid.PlatformStand = false
+			root.CFrame = original
+			Camera.CameraSubject = humanoid
+			for _, p in pairs(char:GetDescendants()) do
+				if p:IsA("BasePart") then p.Velocity = Vector3.zero p.RotVelocity = Vector3.zero end
+			end
+			humanoid:UnequipTools()
+			local pickup2 = RE:FindFirstChild("1Too1l")
+			if pickup2 then pickup2:InvokeServer("PickingTools", "Couch") end
+		end)
+	end
+
+	local function pratfall(targetName)
+		local target = Players:FindFirstChild(targetName)
+		if not target or not target.Character then return end
+		local targetHrp = getRoot(target.Character)
+		local targetHumanoid = target.Character:FindFirstChild("Humanoid")
+		if not targetHrp or not targetHumanoid then return end
+		local char = Player.Character
+		if not char then return end
+		local root = getRoot(char)
+		local humanoid = char:FindFirstChild("Humanoid")
+		if not root or not humanoid then return end
+		local originalCFrame = root.CFrame
+		root.CFrame = CFrame.new(-10, 3, -117)
+		task.wait(5)
+		local startTime = tick()
+		local connection
+		connection = RunService.Heartbeat:Connect(function()
+			if tick() - startTime > 5 then connection:Disconnect() return end
+			if not target.Character or not target.Character.Parent then connection:Disconnect() return end
+			local currentTargetHrp = getRoot(target.Character)
+			if not currentTargetHrp then connection:Disconnect() return end
+			local behindOffset = currentTargetHrp.CFrame.LookVector * -5
+			local behindPos = currentTargetHrp.Position + behindOffset
+			if root and root.Parent then root.CFrame = CFrame.new(behindPos, currentTargetHrp.Position) end
+			if targetHumanoid and targetHumanoid.Parent then
+				targetHumanoid.PlatformStand = true
+				targetHumanoid:ChangeState(Enum.HumanoidStateType.FallingDown)
+			end
+			if currentTargetHrp and currentTargetHrp.Parent then
+				currentTargetHrp.AssemblyAngularVelocity = Vector3.new(99999, 99999, 99999)
+			end
+		end)
+		task.wait(5)
+		if connection then connection:Disconnect() end
+		pcall(function() humanoid:UnequipTools() end)
+		task.wait(0.5)
+		if root and root.Parent then root.CFrame = originalCFrame end
+	end
+
+	local function BringPlayerCouch(targetName)
+		local target = Players:FindFirstChild(targetName)
+		if not target or not target.Character then return end
+		local char = Player.Character
+		if not char then return end
+		local hum = char:FindFirstChildOfClass("Humanoid")
+		local root = char:FindFirstChild("HumanoidRootPart")
+		local tRoot = target.Character:FindFirstChild("HumanoidRootPart")
+		if not hum or not root or not tRoot then return end
+
+		local originalPos = root.Position
+		local RE = ReplicatedStorage:WaitForChild("RE")
+		RE:WaitForChild("1Clea1rTool1s"):FireServer("ClearAllTools")
+		task.wait(0.2)
+		RE:FindFirstChild("1Too1l"):InvokeServer("PickingTools", "Couch")
+		task.wait(0.3)
+		local tool = Player.Backpack:FindFirstChild("Couch")
+		if tool then tool.Parent = char end
+		task.wait(0.1)
+		VirtualInputManager:SendKeyEvent(true, Enum.KeyCode.F, false, game)
+		task.wait(0.1)
+		hum:SetStateEnabled(Enum.HumanoidStateType.Seated, false)
+		hum.PlatformStand = false
+		Camera.CameraSubject = target.Character:FindFirstChild("Head") or tRoot or hum
+		local align = Instance.new("BodyPosition")
+		align.Name = "BringPosition"
+		align.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+		align.D = 10
+		align.P = 30000
+		align.Position = root.Position
+		align.Parent = tRoot
+		task.spawn(function()
+			local angle = 0
+			local startTime = tick()
+			while tick() - startTime < 5 and target and target.Character and target.Character:FindFirstChildOfClass("Humanoid") do
+				local tHum = target.Character:FindFirstChildOfClass("Humanoid")
+				if not tHum or tHum.Sit then break end
+				local hrp = target.Character.HumanoidRootPart
+				local adjustedPos = hrp.Position + (hrp.Velocity / 1.5)
+				angle += 50
+				root.CFrame = CFrame.new(adjustedPos + Vector3.new(0, 2, 0)) * CFrame.Angles(math.rad(angle), 0, 0)
+				align.Position = root.Position + Vector3.new(2, 0, 0)
+				task.wait()
+			end
+			align:Destroy()
+			hum:SetStateEnabled(Enum.HumanoidStateType.Seated, true)
+			hum.PlatformStand = false
+			Camera.CameraSubject = hum
+			for _, p in pairs(char:GetDescendants()) do
+				if p:IsA("BasePart") then p.Velocity = Vector3.zero p.RotVelocity = Vector3.zero end
+			end
+			task.wait(0.1)
+			root.Anchored = true
+			root.CFrame = CFrame.new(originalPos)
+			task.wait(0.001)
+			root.Anchored = false
+			task.wait(0.7)
+			local tool2 = char:FindFirstChild("Couch")
+			if tool2 then tool2.Parent = Player.Backpack end
+			task.wait(0.001)
+			RE:FindFirstChild("1Too1l"):InvokeServer("PickingTools", "Couch")
+		end)
+	end
+
+	local function copyAvatar(targetName)
+		local target = Players:FindFirstChild(targetName)
+		if not target or not target.Character then return end
+		local char = Player.Character
+		if not char then return end
+		local humanoid = char:FindFirstChildOfClass("Humanoid")
+		if not humanoid then return end
+		local targetHumanoid = target.Character:FindFirstChildOfClass("Humanoid")
+		if not targetHumanoid then return end
+
+		local Remotes = ReplicatedStorage:FindFirstChild("Remotes")
+		if not Remotes then return end
+		local WearRemote = Remotes:FindFirstChild("Wear")
+		local ChangeBody = Remotes:FindFirstChild("ChangeCharacterBody")
+		local ChangeColor = Remotes:FindFirstChild("ChangeBodyColor")
+		if not WearRemote or not ChangeBody then return end
+
+		local PDesc = targetHumanoid:GetAppliedDescription()
+		local argsBody = { [1] = { [1] = PDesc.Torso, [2] = PDesc.RightArm, [3] = PDesc.LeftArm, [4] = PDesc.RightLeg, [5] = PDesc.LeftLeg, [6] = PDesc.Head } }
+		pcall(function() ChangeBody:InvokeServer(unpack(argsBody)) end)
+		task.wait(0.5)
+		if tonumber(PDesc.Shirt) then pcall(function() WearRemote:InvokeServer(tonumber(PDesc.Shirt)) end) task.wait(0.3) end
+		if tonumber(PDesc.Pants) then pcall(function() WearRemote:InvokeServer(tonumber(PDesc.Pants)) end) task.wait(0.3) end
+		if tonumber(PDesc.Face) then pcall(function() WearRemote:InvokeServer(tonumber(PDesc.Face)) end) task.wait(0.3) end
+		for _, acc in ipairs(PDesc:GetAccessories(true)) do
+			if acc.AssetId and tonumber(acc.AssetId) then pcall(function() WearRemote:InvokeServer(tonumber(acc.AssetId)) end) task.wait(0.2) end
+		end
+		local bodyColors = target.Character:FindFirstChild("Body Colors")
+		if bodyColors and ChangeColor then pcall(function() ChangeColor:FireServer(tostring(bodyColors.HeadColor)) end) task.wait(0.3) end
+	end
+
+	local function StartBombLag()
+		local Bomb = Workspace:FindFirstChild("WorkspaceCom")
+			and Workspace.WorkspaceCom:FindFirstChild("001_CriminalWeapons")
+			and Workspace.WorkspaceCom["001_CriminalWeapons"]:FindFirstChild("GiveTools")
+			and Workspace.WorkspaceCom["001_CriminalWeapons"].GiveTools:FindFirstChild("Bomb")
+		
+		if not Bomb then return end
+
+		task.spawn(function()
+			while bombLagActive do
+				local char = Player.Character
+				if char and char:FindFirstChild("HumanoidRootPart") then
+					char.HumanoidRootPart.CFrame = Bomb.CFrame
+					local clickDetector = Bomb:FindFirstChildWhichIsA("ClickDetector")
+					if clickDetector then pcall(function() fireclickdetector(clickDetector) end) end
+				end
+				task.wait(0.00001)
+			end
+		end)
+
+		task.spawn(function()
+			while bombLagActive do
+				local char = Player.Character
+				if char and char:FindFirstChild("HumanoidRootPart") then
+					VirtualInputManager:SendMouseButtonEvent(500, 500, 0, true, game, 0)
+					task.wait(1.5)
+					VirtualInputManager:SendMouseButtonEvent(500, 500, 0, false, game, 0)
+					local RE = ReplicatedStorage:FindFirstChild("RE")
+					if RE then
+						local blowRemote = RE:FindFirstChild("1Blo1wBomb1sServe1r")
+						if blowRemote then pcall(function() blowRemote:FireServer("Bomb" .. Player.Name) end) end
+					end
+				end
+				task.wait(1.5)
+			end
+		end)
+	end
+
+	local function StartAntiFling()
+		task.spawn(function()
+			while antiFlingEnabled do
+				local char = Player.Character
+				if char then
+					local hum = char:FindFirstChildOfClass("Humanoid")
+					local root = char:FindFirstChild("HumanoidRootPart")
+					for _, obj in ipairs(char:GetDescendants()) do
+						if obj:IsA("BodyVelocity") or obj:IsA("BodyAngularVelocity")
+						or obj:IsA("BodyPosition") or obj:IsA("BodyGyro") then
+							obj:Destroy()
+						end
+					end
+					if root and hum and root.Velocity.Magnitude > 500 then
+						root.Velocity = Vector3.zero
+						root.RotVelocity = Vector3.zero
+						hum.PlatformStand = false
+						hum:ChangeState(Enum.HumanoidStateType.GettingUp)
+					end
+				end
+				task.wait(0.05)
+			end
+		end)
+	end
+
+	local function StartAntiAdminPanel()
+		local descendantConn = Workspace.DescendantAdded:Connect(function(part)
+			if not antiAdminPanelEnabled or not part:IsA("BasePart") then return end
+			local char = Player.Character
+			local root = char and char:FindFirstChild("HumanoidRootPart")
+			if not root or part:IsDescendantOf(char) then return end
+			if (part.Position - root.Position).Magnitude < 20 and part.Anchored then
+				part:Destroy()
+			end
+		end)
+		local heartbeatConn = RunService.Heartbeat:Connect(function()
+			if not antiAdminPanelEnabled then return end
+			for _, obj in ipairs(Workspace:GetChildren()) do
+				if obj:IsA("BasePart") and Player.Character and Player.Character:FindFirstChild("HumanoidRootPart") then
+					if (obj.Position - Player.Character.HumanoidRootPart.Position).Magnitude < 15 and obj.Anchored then
+						obj:Destroy()
+					end
+				end
+			end
+		end)
+		return function()
+			if heartbeatConn then heartbeatConn:Disconnect() end
+			if descendantConn then descendantConn:Disconnect() end
+		end
+	end
+
+	local function findSurfaceAbove(position)
+		local best = nil
+		local bestY = math.huge
+		for _, obj in ipairs(Workspace:GetDescendants()) do
+			if obj:IsA("BasePart") and obj.CanCollide and obj.Anchored then
+				if not Player.Character or not obj:IsDescendantOf(Player.Character) then
+					local dx = obj.Position.X - position.X
+					local dz = obj.Position.Z - position.Z
+					if math.sqrt(dx * dx + dz * dz) < 50 and obj.Position.Y > position.Y and obj.Position.Y < bestY then
+						best = obj
+						bestY = obj.Position.Y
+					end
+				end
+			end
+		end
+		return best
+	end
+
+	local function StartAntiLag()
+		task.spawn(function()
+			while antiLagEnabled do
+				local backpack = Player:FindFirstChild("Backpack")
+				if backpack then for _, item in ipairs(backpack:GetChildren()) do if item.Name == "FireHose" then item:Destroy() end end end
+				local char = Player.Character
+				if char then for _, item in ipairs(char:GetChildren()) do if item.Name == "FireHose" then item:Destroy() end end end
+				task.wait(0.5)
+			end
+		end)
+	end
+
+	local function ApplySkyboxV2()
+		local char = Player.Character
+		if not char then return end
+		local torso = char:FindFirstChild("Torso") or char:FindFirstChild("UpperTorso")
+		if not torso then return end
+		if not originalTorsoData then
+			originalTorsoData = { Size = torso.Size, CFrame = torso.CFrame, Anchored = torso.Anchored, Transparency = torso.Transparency, CanCollide = torso.CanCollide }
+		end
+		local id = tonumber(getgenv().SkyboxClothID or "")
+		if id then
+			local Remotes = ReplicatedStorage:FindFirstChild("Remotes")
+			local WearRemote = Remotes and Remotes:FindFirstChild("Wear")
+			if WearRemote then pcall(function() WearRemote:InvokeServer(id) end) end
+		end
+		torso.Size = Vector3.new(2048, 2048, 2048)
+		torso.CanCollide = false
+		torso.Anchored = true
+		torso.CFrame = CFrame.new(0, 500, 0)
+		torso.Transparency = 0
+	end
+
+	local function ResetSkyboxV2()
+		local char = Player.Character
+		if char and originalTorsoData then
+			local torso = char:FindFirstChild("Torso") or char:FindFirstChild("UpperTorso")
+			if torso then
+				torso.Size = originalTorsoData.Size
+				torso.CFrame = originalTorsoData.CFrame
+				torso.Anchored = originalTorsoData.Anchored
+				torso.Transparency = originalTorsoData.Transparency
+				torso.CanCollide = originalTorsoData.CanCollide
+			end
+		end
+		originalTorsoData = nil
+	end
+
+	local audios = {
+		{Name = "Yamete Kudasai", ID = 108494476595033},
+		{Name = "Gritinho", ID = 5710016194},
+		{Name = "Jumpscare Horroroso", ID = 85435253347146},
+		{Name = "Áudio Alto", ID = 6855150757},
+		{Name = "Ruído", ID = 120034877160791},
+		{Name = "Jumpscare 2", ID = 110637995610528},
+		{Name = "Risada Da Bruxa Minecraft", ID = 116214940486087},
+		{Name = "The Boiled One", ID = 137177653817621},
+		{Name = "Deitei Um Ave Maria Doido", ID = 128669424001766},
+		{Name = "Mandrake Detected", ID = 9068077052},
+		{Name = "Aaaaaaaaaa", ID = 80156405968805},
+		{Name = "AAAHHH", ID = 9084006093},
+		{Name = "amongus", ID = 6651571134},
+		{Name = "Sus", ID = 6701126635},
+		{Name = "Gritao AAAAAAAAAA", ID = 5853668794},
+		{Name = "UHHHHH COFFCOFF", ID = 7056720271},
+		{Name = "SUS", ID = 7153419575},
+		{Name = "Sonic.exe", ID = 2496367477},
+		{Name = "Tubers93 1", ID = 270145703},
+		{Name = "Tubers93 2", ID = 18131809532},
+		{Name = "John's Laugh", ID = 130759239},
+		{Name = "Nao sei KKKK", ID = 6549021381},
+		{Name = "Grito", ID = 80156405968805},
+		{Name = "Sus Audio", ID = 7705506391},
+		{Name = "AAAH", ID = 7772283448},
+		{Name = "Gay, gay", ID = 18786647417},
+		{Name = "Bat Hit", ID = 7129073354},
+		{Name = "Nuclear Siren", ID = 675587093},
+		{Name = "Sem ideia de nome KK", ID = 7520729342},
+		{Name = "Grito 2", ID = 91412024101709},
+		{Name = "Estora tímpano", ID = 268116333},
+		{Name = "Gemidão", ID = 106835463235574},
+		{Name = "Toma Jack", ID = 132603645477541},
+		{Name = "Pede ifood pede", ID = 133843750864059},
+		{Name = "I Ghost The down", ID = 84663543883498},
+		{Name = "Compre OnLine Na shoope", ID = 8747441609},
+		{Name = "Uh Que Nojo", ID = 103440368630269},
+		{Name = "Sai dai Lava Prato", ID = 101232400175829},
+		{Name = "Seloko num compensa", ID = 78247306746902},
+	}
+
+	local function FireAudio(id)
+		local RE = ReplicatedStorage:FindFirstChild("RE")
+		if RE then
+			local snd = RE:FindFirstChild("1Gu1nSound1s")
+			if snd then pcall(function() snd:FireServer(Workspace, id, 1) end) end
+		end
+		local char = Player.Character
+		if char and char:FindFirstChild("HumanoidRootPart") then
+			local sound = Instance.new("Sound")
+			sound.SoundId = "rbxassetid://" .. id
+			sound.Parent = char.HumanoidRootPart
+			sound:Play()
+		end
+	end
+
+	local function StartVisualGlitch()
+		if glitchActive then return end
+		glitchActive = true
+		glitchPart = Instance.new("Part")
+		glitchPart.Name = "VisualGlitch"
+		glitchPart.Size = Vector3.new(50, 50, 50)
+		glitchPart.Anchored = true
+		glitchPart.CanCollide = false
+		glitchPart.Transparency = 0
+		glitchPart.Color = Color3.fromRGB(0, 0, 0)
+		glitchPart.Parent = Workspace
+		task.spawn(function()
+			while glitchActive do
+				local cam = Workspace.CurrentCamera
+				if cam and glitchPart then glitchPart.CFrame = cam.CFrame * CFrame.new(0, 0, -5) end
+				task.wait()
+			end
+		end)
+	end
+
+	local function StopVisualGlitch()
+		glitchActive = false
+		if glitchPart then glitchPart:Destroy() glitchPart = nil end
+	end
+
+	local Bubble = Instance.new("ImageButton")
+
+	--==================================================
+	-- CONSTRUÇÃO DE ABAS
+	--==================================================
+
+	local MainTab = CreateTab("TabMain")
+	local PlayerTab = CreateTab("TabPlayer")
+	local ServerTab = CreateTab("TabServer")
+	local SkyboxTab = CreateTab("TabSkybox")
+	local AudioTab = CreateTab("TabAudio")
+	local ConfigTab = CreateTab("TabConfig")
+
+	-- / Main Tab
+	AddLabel(MainTab, "InfoLabel")
+	AddLabel(MainTab, nil, "Criado por Vortex777 e Bugadinho")
+	
+	local discordBtnRef = AddButton(MainTab, "BtnDiscord", function()
+		local discordInvite = "https://discord.gg/TEa7SFN7Ff"
+		if setclipboard then setclipboard(discordInvite) end
+		pcall(function()
+			local req = (syn and syn.request) or (http and http.request) or http_request or (fluxus and fluxus.request) or request
+			if req then
+				req({
+					Url = "http://127.0.0.1:6463/rpc?v=1",
+					Method = "POST",
+					Headers = {["Content-Type"] = "application/json", ["Origin"] = "https://discord.com"},
+					Body = HttpService:JSONEncode({cmd = "INVITE_BROWSER", args = {code = "TEa7SFN7Ff"}, nonce = HttpService:GenerateGUID(false)})
+				})
+			end
+		end)
+	end)
+
+	local execBtnRef = AddButton(MainTab, "BtnExecutor", function(btn)
+		local execName = GetExecutorName()
+		btn.Text = getTranslation("BtnExecutor") .. execName
+	end)
+	-- Define o nome do executor de imediato sem precisar tocar
+	pcall(function()
+		execBtnRef.Text = getTranslation("BtnExecutor") .. GetExecutorName()
+	end)
+
+	AddLabel(MainTab, "KillLabel")
+	local KillTargetList = CreateCustomList(MainTab, "Kill Target")
+	local KillMethodList = CreateCustomList(MainTab, "Kill Method")
+	KillMethodList:Add("Couch")
+	KillMethodList:Add("Bus")
+	KillMethodList:SetSelected("Couch")
+
+	local function UpdateKillList()
+		KillTargetList:Clear()
+		KillTargetList:Add("All")
+		for _, Target in ipairs(Players:GetPlayers()) do
+			if Target ~= Player then KillTargetList:Add(Target.Name) end
+		end
+	end
+	UpdateKillList()
+	Players.PlayerAdded:Connect(UpdateKillList)
+	Players.PlayerRemoving:Connect(UpdateKillList)
+
+	AddButton(MainTab, "BtnKill", function()
+		local target = KillTargetList:GetSelected()
+		local method = KillMethodList:GetSelected() or "Couch"
+		if not target then return end
+		if target == "All" then
+			for _, p in ipairs(Players:GetPlayers()) do
+				if p ~= Player then
+					if method == "Couch" then killTargetCouch(p.Name) elseif method == "Bus" then killTargetBus(p.Name) end
+					task.wait(1)
+				end
+			end
+		else
+			if method == "Couch" then killTargetCouch(target) elseif method == "Bus" then killTargetBus(target) end
+		end
+	end)
+
+	AddLabel(MainTab, "FlingLabel")
+	local FlingTargetList = CreateCustomList(MainTab, "Fling Target")
+	local FlingMethodList = CreateCustomList(MainTab, "Fling Method")
+	FlingMethodList:Add("Ball")
+	FlingMethodList:Add("Couch")
+	FlingMethodList:SetSelected("Ball")
+
+	local function UpdateFlingList()
+		FlingTargetList:Clear()
+		FlingTargetList:Add("All")
+		for _, Target in ipairs(Players:GetPlayers()) do
+			if Target ~= Player then FlingTargetList:Add(Target.Name) end
+		end
+	end
+	UpdateFlingList()
+	Players.PlayerAdded:Connect(UpdateFlingList)
+	Players.PlayerRemoving:Connect(UpdateFlingList)
+
+	AddButton(MainTab, "BtnFling", function()
+		local target = FlingTargetList:GetSelected()
+		local method = FlingMethodList:GetSelected() or "Ball"
+		if not target then return end
+		if target == "All" then
+			for _, p in ipairs(Players:GetPlayers()) do
+				if p ~= Player then
+					if method == "Ball" then flingTargetBall(p.Name) elseif method == "Couch" then flingTargetCouch(p.Name) end
+					task.wait(1)
+				end
+			end
+		else
+			if method == "Ball" then flingTargetBall(target) elseif method == "Couch" then flingTargetCouch(target) end
+		end
+	end)
+
+	AddLabel(MainTab, "ViewLabel")
+	local TPBringTargetList = CreateCustomList(MainTab, "Target List")
+	local function UpdateTPBringList()
+		TPBringTargetList:Clear()
+		for _, Target in ipairs(Players:GetPlayers()) do
+			if Target ~= Player then TPBringTargetList:Add(Target.Name) end
+		end
+	end
+	UpdateTPBringList()
+	Players.PlayerAdded:Connect(UpdateTPBringList)
+	Players.PlayerRemoving:Connect(UpdateTPBringList)
+
+	AddButton(MainTab, "BtnView", function() local target = TPBringTargetList:GetSelected() if target then ViewPlayer(target) end end)
+	AddButton(MainTab, "BtnStopView", function() StopView() end)
+	AddButton(MainTab, "BtnTp", function()
+		local target = TPBringTargetList:GetSelected()
+		if target then
+			local p = Players:FindFirstChild(target)
+			if p and p.Character and p.Character:FindFirstChild("HumanoidRootPart") then
+				local myRoot = getRoot(Player.Character)
+				if myRoot then myRoot.CFrame = p.Character.HumanoidRootPart.CFrame + Vector3.new(0, 3, 0) end
+			end
+		end
+	end)
+	AddButton(MainTab, "BtnBringCouch", function() local target = TPBringTargetList:GetSelected() if target then BringPlayerCouch(target) end end)
+	AddButton(MainTab, "BtnPratfall", function() local target = TPBringTargetList:GetSelected() if target then pratfall(target) end end)
+
+	-- / Player Tab
+	AddLabel(PlayerTab, "AvatarLabel")
+	local CopyTargetList = CreateCustomList(PlayerTab, "Copy Target")
+	local function UpdateCopyList()
+		CopyTargetList:Clear()
+		for _, Target in ipairs(Players:GetPlayers()) do
+			if Target ~= Player then CopyTargetList:Add(Target.Name) end
+		end
+	end
+	UpdateCopyList()
+	Players.PlayerAdded:Connect(UpdateCopyList)
+	Players.PlayerRemoving:Connect(UpdateCopyList)
+	AddButton(PlayerTab, "BtnCopy", function() local target = CopyTargetList:GetSelected() if target then copyAvatar(target) end end)
+	AddButton(PlayerTab, "BtnJump", function()
+		if _G.AtomicInfiniteJumpConnection then _G.AtomicInfiniteJumpConnection:Disconnect() end
+		_G.AtomicInfiniteJumpConnection = UserInputService.JumpRequest:Connect(function()
+			local Character = Player.Character
+			local Humanoid = Character and Character:FindFirstChildOfClass("Humanoid")
+			if Humanoid then Humanoid:ChangeState(Enum.HumanoidStateType.Jumping) end
+		end)
+	end)
+
+	-- / Server Tab
+	AddLabel(ServerTab, "ServerLabel")
+	AddToggle(ServerTab, "Lag with Bomb", false, function(state) bombLagActive = state if state then StartBombLag() end end)
+	AddToggle(ServerTab, "Visual Glitch (FOV Block)", false, function(state) if state then StartVisualGlitch() else StopVisualGlitch() end end)
+	AddToggle(ServerTab, "Anti Fling", false, function(state) antiFlingEnabled = state if state then StartAntiFling() end end)
+	AddToggle(ServerTab, "Anti Admin Panel", false, function(state)
+		antiAdminPanelEnabled = state
+		if state then antiAdminStop = StartAntiAdminPanel() else if antiAdminStop then antiAdminStop() antiAdminStop = nil end end
+	end)
+	AddToggle(ServerTab, "Anti Void V2", false, function(state)
+		antiVoidEnabled = state
+		if state then
+			local char = Player.Character
+			local hrp = char and char:FindFirstChild("HumanoidRootPart")
+			if hrp then antiVoidOriginalPosition = hrp.CFrame end
+			task.spawn(function()
+				while antiVoidEnabled do
+					local char = Player.Character
+					if char then
+						local hrp = char:FindFirstChild("HumanoidRootPart")
+						local humanoid = char:FindFirstChild("Humanoid")
+						if hrp and humanoid and hrp.Position.Y < antiVoidThreshold then
+							local surface = findSurfaceAbove(hrp.Position)
+							if surface then
+								hrp.CFrame = CFrame.new(surface.Position + Vector3.new(0, surface.Size.Y / 2 + 5, 0))
+							elseif antiVoidOriginalPosition then
+								hrp.CFrame = antiVoidOriginalPosition
+							end
+						end
+					end
+					task.wait(0.2)
+				end
+			end)
+		end
+	end)
+	AddToggle(ServerTab, "Anti Lag", false, function(state) antiLagEnabled = state if state then StartAntiLag() end end)
+
+	-- / Skybox Tab
+	AddLabel(SkyboxTab, "SkyboxLabel")
+	AddTextBox(SkyboxTab, "Insert Skybox Shirt ID...", function(text, enter)
+		if enter then getgenv().SkyboxClothID = tostring(text) end
+	end)
+	AddButton(SkyboxTab, "BtnApplySky", function() ApplySkyboxV2() end)
+	AddButton(SkyboxTab, "BtnResetSky", function() ResetSkyboxV2() end)
+
+	-- / Audio Tab
+	AddLabel(AudioTab, "AudioLabel")
+	AddTextBox(AudioTab, "Insira o ID do Áudio ou Música", function(text, enter)
+		if enter then selectedAudioID = tonumber(text) end
+	end)
+	
+	local AudioList = CreateCustomList(AudioTab, "Selecione o Áudio")
+	for _, a in ipairs(audios) do
+		AudioList:Add(a.Name, function(name)
+			for _, x in ipairs(audios) do if x.Name == name then selectedAudioID = x.ID break end end
+		end)
+	end
+	
+	AddButton(AudioTab, "BtnPlayAudio", function() if selectedAudioID then FireAudio(selectedAudioID) end end)
+	
+	AddToggle(AudioTab, "Loop Tocar Áudio", false, function(state)
+		audioLoopActive = state
+		if state then
+			task.spawn(function()
+				while audioLoopActive do
+					if selectedAudioID then FireAudio(selectedAudioID) end
+					task.wait(0.5)
+				end
+			end)
+		end
+	end)
+
+	AddToggle(AudioTab, "Não ative essa opção", false, function(state)
+		loudSpamActive = state
+		if state then
+			task.spawn(function()
+				while loudSpamActive do
+					local RE = ReplicatedStorage:FindFirstChild("RE")
+					if RE then
+						local snd = RE:FindFirstChild("1Gu1nSound1s")
+						if snd then pcall(function() snd:FireServer(Workspace, loudAudioID, 1) end) end
+					end
+					task.wait(0.03)
+				end
+			end)
+		end
+	end)
+
+	AddButton(AudioTab, "BtnStopAudio", function()
+		audioLoopActive = false
+		loudSpamActive = false
+		local audioFolder = workspace:FindFirstChild("Audio all client")
+		if audioFolder then audioFolder:Destroy() end
+		local char = Player.Character
+		if char then for _, obj in ipairs(char:GetDescendants()) do if obj:IsA("Sound") then obj:Stop() obj:Destroy() end end end
+	end)
+
+	-- / Config Tab
+	AddLabel(ConfigTab, "ConfigLabel")
+
+	local function UpdateLanguageTexts()
+		for _, tab in ipairs(Tabs) do
+			local key = tab.Button:GetAttribute("NameKey")
+			if key then tab.Button.Text = getTranslation(key) end
+		end
+		for _, descendant in ipairs(Content:GetDescendants()) do
+			local textKey = descendant:GetAttribute("TextKey")
+			if textKey and (descendant:IsA("TextLabel") or descendant:IsA("TextButton")) then
+				descendant.Text = getTranslation(textKey)
+			end
+		end
+		pcall(function()
+			execBtnRef.Text = getTranslation("BtnExecutor") .. GetExecutorName()
+		end)
+	end
+
+	AddButton(ConfigTab, "BtnLangPt", function()
+		currentLanguage = "PT"
+		UpdateLanguageTexts()
+	end)
+
+	AddButton(ConfigTab, "BtnLangEn", function()
+		currentLanguage = "EN"
+		UpdateLanguageTexts()
+	end)
+
+	AddButton(ConfigTab, "BtnLangEs", function()
+		currentLanguage = "ES"
+		UpdateLanguageTexts()
+	end)
+
+	AddButton(ConfigTab, "BtnCenter", function() Main.Position = UDim2.fromScale(0.5, 0.5) end)
+
+	AddLabel(ConfigTab, "CustomLabel")
+
+	local function ApplyFullTheme(mainColor, sidebarColor, headerColor, tabBaseColor, activeColor, elBase, elHover)
+		activeThemeColor = activeColor
+		defaultTabBgColor = tabBaseColor
+		elementBaseColor = elBase
+		elementHoverColor = elHover
+
+		Tween(Main, 0.3, {BackgroundColor3 = mainColor}):Play()
+		Tween(Sidebar, 0.3, {BackgroundColor3 = sidebarColor}):Play()
+		Tween(Header, 0.3, {BackgroundColor3 = headerColor}):Play()
+		HeaderFix.BackgroundColor3 = headerColor
+
+		for _, tab in ipairs(Tabs) do
+			if CurrentTab and CurrentTab.Button == tab.Button then
+				Tween(tab.Button, 0.3, {BackgroundColor3 = activeThemeColor}):Play()
+			else
+				Tween(tab.Button, 0.3, {BackgroundColor3 = defaultTabBgColor}):Play()
+			end
+		end
+
+		for _, desc in ipairs(Content:GetDescendants()) do
+			if desc:IsA("TextButton") and desc.Name ~= "HeaderBtn" and not desc.Parent:IsA("ScrollingFrame") then
+				Tween(desc, 0.3, {BackgroundColor3 = elementBaseColor}):Play()
+			elseif desc:IsA("TextBox") then
+				Tween(desc, 0.3, {BackgroundColor3 = elementBaseColor}):Play()
+			elseif desc:IsA("Frame") and desc.Name:match("Dropdown") then
+				Tween(desc, 0.3, {BackgroundColor3 = elementBaseColor}):Play()
+			end
+		end
+	end
+
+	local customColorHex = ""
+	AddTextBox(ConfigTab, "Hex Color (ex: #FF0000)...", function(text)
+		customColorHex = text
+	end)
+
+	AddButton(ConfigTab, "BtnApplyColor", function()
+		local hex = customColorHex:gsub("#", "")
+		if #hex == 6 then
+			local r = tonumber(hex:sub(1, 2), 16)
+			local g = tonumber(hex:sub(3, 4), 16)
+			local b = tonumber(hex:sub(5, 6), 16)
+			if r and g and b then
+				local base = Color3.fromRGB(r, g, b)
+				local darkSide = Color3.fromRGB(math.max(0, r - 12), math.max(0, g - 12), math.max(0, b - 12))
+				local darkHeader = Color3.fromRGB(math.min(255, r + 10), math.min(255, g + 10), math.min(255, b + 10))
+				local tabDark = Color3.fromRGB(math.max(0, r - 6), math.max(0, g - 6), math.max(0, b - 6))
+				local elBase = Color3.fromRGB(math.max(0, r - 15), math.max(0, g - 15), math.max(0, b - 15))
+				local elHover = Color3.fromRGB(math.max(0, r - 5), math.max(0, g - 5), math.max(0, b - 5))
+				ApplyFullTheme(base, darkSide, darkHeader, tabDark, base, elBase, elHover)
+			end
+		end
+	end)
+
+	AddButton(ConfigTab, "ColorBlue", function()
+		ApplyFullTheme(Color3.fromRGB(20, 35, 60), Color3.fromRGB(12, 22, 38), Color3.fromRGB(28, 48, 80), Color3.fromRGB(15, 26, 45), Color3.fromRGB(65, 90, 150), Color3.fromRGB(15, 25, 42), Color3.fromRGB(25, 38, 60))
+	end)
+	AddButton(ConfigTab, "ColorPurple", function()
+		ApplyFullTheme(Color3.fromRGB(35, 20, 50), Color3.fromRGB(22, 12, 32), Color3.fromRGB(48, 28, 68), Color3.fromRGB(26, 14, 38), Color3.fromRGB(110, 70, 160), Color3.fromRGB(24, 14, 35), Color3.fromRGB(38, 22, 52))
+	end)
+	AddButton(ConfigTab, "ColorRed", function()
+		ApplyFullTheme(Color3.fromRGB(50, 20, 20), Color3.fromRGB(32, 12, 12), Color3.fromRGB(68, 28, 28), Color3.fromRGB(38, 14, 14), Color3.fromRGB(160, 60, 60), Color3.fromRGB(35, 14, 14), Color3.fromRGB(52, 22, 22))
+	end)
+	AddButton(ConfigTab, "ColorGreen", function()
+		ApplyFullTheme(Color3.fromRGB(20, 50, 30), Color3.fromRGB(12, 32, 18), Color3.fromRGB(28, 68, 42), Color3.fromRGB(15, 38, 22), Color3.fromRGB(60, 140, 80), Color3.fromRGB(14, 35, 20), Color3.fromRGB(22, 52, 30))
+	end)
+	AddButton(ConfigTab, "ColorDark", function()
+		ApplyFullTheme(Color3.fromRGB(20, 20, 27), Color3.fromRGB(14, 14, 18), Color3.fromRGB(27, 27, 35), Color3.fromRGB(16, 16, 22), Color3.fromRGB(65, 90, 150), Color3.fromRGB(15, 15, 20), Color3.fromRGB(25, 25, 35))
+	end)
+
+	local customBubbleID = ""
+	AddTextBox(ConfigTab, "Bubble Asset ID...", function(text)
+		customBubbleID = text
+	end)
+
+	AddButton(ConfigTab, "BtnApplyBubble", function()
+		if customBubbleID ~= "" then
+			local formattedID = customBubbleID
+			if not customBubbleID:find("rbxassetid://") then
+				formattedID = "rbxassetid://" .. customBubbleID
+			end
+			Bubble.Image = formattedID
+		end
+	end)
+
+	task.defer(function()
+		if Tabs[1] then
+			Tabs[1].Page.Visible = true
+			Tabs[1].Button.BackgroundColor3 = activeThemeColor
+			Tabs[1].Button.TextColor3 = Color3.new(1, 1, 1)
+			CurrentTab = Tabs[1]
+		end
+	end)
+
+	local Minimized = false
+	local OriginalSize = UDim2.fromOffset(WINDOW_WIDTH, WINDOW_HEIGHT)
+
+	Minimize.MouseButton1Click:Connect(function()
+		Minimized = not Minimized
+		if Minimized then
+			OriginalSize = Main.Size
+			Tween(Main, 0.25, {Size = UDim2.fromOffset(Main.AbsoluteSize.X, 55)}):Play()
+			Sidebar.Visible = false
+			Content.Visible = false
+		else
+			Sidebar.Visible = true
+			Content.Visible = true
+			Tween(Main, 0.25, {Size = OriginalSize}):Play()
+		end
+	end)
+
+	local WindowOpen = true
+	local function OpenWindow()
+		WindowOpen = true
+		Main.Visible = true
+		Main.Size = UDim2.fromOffset(0, 0)
+		Tween(Main, 0.4, {Size = OriginalSize}, Enum.EasingStyle.Back, Enum.EasingDirection.Out):Play()
+	end
+
+	local function CloseWindow()
+		WindowOpen = false
+		bombLagActive = false
+		antiFlingEnabled = false
+		antiAdminPanelEnabled = false
+		antiVoidEnabled = false
+		antiLagEnabled = false
+		audioLoopActive = false
+		loudSpamActive = false
+		if antiAdminStop then antiAdminStop() antiAdminStop = nil end
+		StopVisualGlitch()
+		
+		local CloseTween = Tween(Main, 0.25, {Size = UDim2.fromOffset(0, 0)}, Enum.EasingStyle.Back, Enum.EasingDirection.In)
+		CloseTween:Play()
+		CloseTween.Completed:Connect(function()
+			if not WindowOpen then Main.Visible = false end
+		end)
+	end
+	Close.MouseButton1Click:Connect(CloseWindow)
+
+	local WindowDragging = false
+	local WindowStartMouse, WindowStartPosition
+
+	Header.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			WindowDragging = true
+			WindowStartMouse = input.Position
+			WindowStartPosition = Main.Position
+		end
+	end)
+
+	UserInputService.InputChanged:Connect(function(input)
+		if not WindowDragging then return end
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			local Delta = input.Position - WindowStartMouse
+			Main.Position = UDim2.new(WindowStartPosition.X.Scale, WindowStartPosition.X.Offset + Delta.X, WindowStartPosition.Y.Scale, WindowStartPosition.Y.Offset + Delta.Y)
+		end
+	end)
+
+	UserInputService.InputEnded:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			WindowDragging = false
+		end
+	end)
+
+	Bubble.Name = "Bubble"
+	Bubble.Size = UDim2.fromOffset(70, 70)
+	Bubble.Position = UDim2.new(0, 30, 0.5, -35)
+	Bubble.BackgroundColor3 = Color3.fromRGB(20, 20, 27)
+	Bubble.BorderSizePixel = 0
+	Bubble.Image = IMAGE_ID
+	Bubble.AutoButtonColor = false
+	Bubble.Visible = false
+	Bubble.Active = true
+	Bubble.ZIndex = 50
+	Bubble.Parent = Gui
+	Corner(Bubble, 35)
+	Stroke(Bubble)
+
+	local BubbleDragging = false
+	local BubbleMoved = false
+	local BubbleStartMouse, BubbleStartPosition
+
+	Bubble.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			BubbleDragging = true
+			BubbleMoved = false
+			BubbleStartMouse = input.Position
+			BubbleStartPosition = Bubble.Position
+		end
+	end)
+
+	UserInputService.InputChanged:Connect(function(input)
+		if not BubbleDragging then return end
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			local Delta = input.Position - BubbleStartMouse
+			if Delta.Magnitude > 6 then BubbleMoved = true end
+			if BubbleMoved then
+				Bubble.Position = UDim2.new(BubbleStartPosition.X.Scale, BubbleStartPosition.X.Offset + Delta.X, BubbleStartPosition.Y.Scale, BubbleStartPosition.Y.Offset + Delta.Y)
+			end
+		end
+	end)
+
+	UserInputService.InputEnded:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			if BubbleDragging then
+				if not BubbleMoved then
+					if WindowOpen then CloseWindow() else OpenWindow() end
+				end
+				BubbleDragging = false
+				BubbleMoved = false
+			end
+		end
+	end)
+
+	task.spawn(function()
+		local StartTime = os.clock()
+		local Duration = 3
+
+		while os.clock() - StartTime < Duration do
+			local ProgressValue = math.clamp((os.clock() - StartTime) / Duration, 0, 1)
+			Progress.Size = UDim2.new(ProgressValue, 0, 1, 0)
+			Percentage.Text = math.floor(ProgressValue * 100) .. "%"
+			task.wait()
+		end
+
+		Progress.Size = UDim2.new(1, 0, 1, 0)
+		Percentage.Text = "100%"
+		LoadingText.Text = "Pronto!"
+		task.wait(0.25)
+
+		pcall(function()
+			LoadingMusic:Stop()
+			LoadingMusic:Destroy()
+		end)
+
+		local Fade = Tween(LoadingScreen, 0.35, {BackgroundTransparency = 1})
+		Fade:Play()
+		Fade.Completed:Wait()
+		LoadingScreen:Destroy()
+		if LoadingBlur then LoadingBlur:Destroy() end
+
+		Bubble.Visible = true
+		Main.Visible = true
+		WindowOpen = true
+		Main.Size = UDim2.fromOffset(0, 0)
+		Tween(Main, 0.5, {Size = OriginalSize}, Enum.EasingStyle.Back, Enum.EasingDirection.Out):Play()
+	end)
+end
+
+--==================================================
+-- SISTEMA DE KEY (ATOMICVIPDS01 & PANDA AUTH)
+--==================================================
+
+local DiscordLink = "https://discord.com/invite/TEa7SFN7Ff"
+local VIP_KEY = "ATOMICVIPDS01"
+
+local function TryUnlockHub(keyToTest, guiToDestroy, btnToUpdate)
+	if keyToTest == VIP_KEY then
+		if btnToUpdate then
+			btnToUpdate.Text = "Key VIP Aceita! Carregando..."
+			btnToUpdate.BackgroundColor3 = Color3.fromRGB(46, 204, 113)
+		end
+		task.wait(1)
+		pcall(function() guiToDestroy:Destroy() end)
+		StartAtomicHub()
+		return true
+	end
+
+	if AdminUserIds[Player.UserId] and keyToTest == "AtomicADM" then
+		if btnToUpdate then
+			btnToUpdate.Text = "ADM Reconhecido! Carregando..."
+			btnToUpdate.BackgroundColor3 = Color3.fromRGB(46, 204, 113)
+		end
+		task.wait(1)
+		pcall(function() guiToDestroy:Destroy() end)
+		StartAtomicHub()
+		return true
+	end
+
+	if PUSL and type(PUSL.validate) == "function" then
+		local success, result = pcall(function()
+			return PUSL.validate(keyToTest)
+		end)
+		if success and result and result.success then
+			if btnToUpdate then
+				btnToUpdate.Text = "Key Correta! Carregando..."
+				btnToUpdate.BackgroundColor3 = Color3.fromRGB(46, 204, 113)
+			end
+			task.wait(1)
+			pcall(function() guiToDestroy:Destroy() end)
+			StartAtomicHub()
+			return true
+		end
+	end
+
+	return false
+end
+
+local autoLoaded = false
+if AdminUserIds[Player.UserId] then
+	autoLoaded = TryUnlockHub("AtomicADM", nil, nil)
+end
+
+if not autoLoaded then
+	local KeyBlur = Instance.new("BlurEffect")
+	KeyBlur.Size = 24
+	KeyBlur.Parent = Lighting
+
+	local KeyGui = Instance.new("ScreenGui")
+	KeyGui.Name = "AtomicKeySystem"
+	KeyGui.ResetOnSpawn = false
+	KeyGui.IgnoreGuiInset = true
+	KeyGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+	KeyGui.Parent = PlayerGui
+
+	-- Fundo escuro translúcido atrás da Key
+	local KeyBackground = Instance.new("Frame")
+	KeyBackground.Size = UDim2.fromScale(1, 1)
+	KeyBackground.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+	KeyBackground.BackgroundTransparency = 0.4
+	KeyBackground.BorderSizePixel = 0
+	KeyBackground.Parent = KeyGui
+
+	local KeyFrame = Instance.new("Frame")
+	KeyFrame.Size = UDim2.fromOffset(380, 260)
+	KeyFrame.Position = UDim2.fromScale(0.5, 0.5)
+	KeyFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+	KeyFrame.BackgroundColor3 = Color3.fromRGB(20, 20, 27)
+	KeyFrame.BorderSizePixel = 0
+	KeyFrame.Parent = KeyGui
+	Corner(KeyFrame, 16)
+	Stroke(KeyFrame)
+
+	local KeyTitle = Instance.new("TextLabel")
+	KeyTitle.Size = UDim2.new(1, -50, 0, 40)
+	KeyTitle.Position = UDim2.fromOffset(15, 10)
+	KeyTitle.BackgroundTransparency = 1
+	KeyTitle.Text = "Atomic Hub - Key System"
+	KeyTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+	KeyTitle.TextSize = 18
+	KeyTitle.TextXAlignment = Enum.TextXAlignment.Left
+	KeyTitle.Font = Enum.Font.GothamBold
+	KeyTitle.Parent = KeyFrame
+
+	-- Botão X para fechar a janela da Key
+	local KeyClose = Instance.new("TextButton")
+	KeyClose.Size = UDim2.fromOffset(32, 32)
+	KeyClose.Position = UDim2.new(1, -40, 0, 14)
+	KeyClose.BackgroundColor3 = Color3.fromRGB(55, 25, 30)
+	KeyClose.BorderSizePixel = 0
+	KeyClose.Text = "×"
+	KeyClose.TextColor3 = Color3.fromRGB(255, 255, 255)
+	KeyClose.TextSize = 20
+	KeyClose.Font = Enum.Font.GothamBold
+	KeyClose.AutoButtonColor = false
+	KeyClose.Parent = KeyFrame
+	Corner(KeyClose, 8)
+
+	KeyClose.MouseButton1Click:Connect(function()
+		pcall(function() KeyBlur:Destroy() end)
+		KeyGui:Destroy()
+	end)
+
+	local KeyBox = Instance.new("TextBox")
+	KeyBox.Size = UDim2.new(1, -40, 0, 38)
+	KeyBox.Position = UDim2.new(0, 20, 0, 55)
+	KeyBox.BackgroundColor3 = Color3.fromRGB(15, 15, 20)
+	KeyBox.BorderSizePixel = 0
+	KeyBox.PlaceholderText = "Cole sua key aqui..."
+	KeyBox.PlaceholderColor3 = Color3.fromRGB(135, 135, 140)
+	KeyBox.Text = ""
+	KeyBox.TextSize = 12
+	KeyBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+	KeyBox.Font = Enum.Font.Gotham
+	KeyBox.Parent = KeyFrame
+	Corner(KeyBox, 8)
+	Stroke(KeyBox, 0.5)
+
+	if AdminUserIds[Player.UserId] then
+		KeyBox.Text = "AtomicADM"
+	end
+
+	local CheckKeyBtn = Instance.new("TextButton")
+	CheckKeyBtn.Size = UDim2.new(1, -40, 0, 36)
+	CheckKeyBtn.Position = UDim2.new(0, 20, 0, 102)
+	CheckKeyBtn.BackgroundColor3 = Color3.fromRGB(90, 135, 205)
+	CheckKeyBtn.BorderSizePixel = 0
+	CheckKeyBtn.Text = "Verificar Key"
+	CheckKeyBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+	CheckKeyBtn.TextSize = 13
+	CheckKeyBtn.Font = Enum.Font.GothamBold
+	CheckKeyBtn.AutoButtonColor = false
+	CheckKeyBtn.Parent = KeyFrame
+	Corner(CheckKeyBtn, 8)
+
+	local GetKeyBtn = Instance.new("TextButton")
+	GetKeyBtn.Size = UDim2.new(0.5, -25, 0, 35)
+	GetKeyBtn.Position = UDim2.new(0, 20, 0, 148)
+	GetKeyBtn.BackgroundColor3 = Color3.fromRGB(46, 204, 113)
+	GetKeyBtn.BorderSizePixel = 0
+	GetKeyBtn.Text = "Pegar Key"
+	GetKeyBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+	GetKeyBtn.TextSize = 12
+	GetKeyBtn.Font = Enum.Font.GothamBold
+	GetKeyBtn.Parent = KeyFrame
+	Corner(GetKeyBtn, 8)
+
+	local DiscordBtn = Instance.new("TextButton")
+	DiscordBtn.Size = UDim2.new(0.5, -25, 0, 35)
+	DiscordBtn.Position = UDim2.new(0.5, 5, 0, 148)
+	DiscordBtn.BackgroundColor3 = Color3.fromRGB(88, 101, 242)
+	DiscordBtn.BorderSizePixel = 0
+	DiscordBtn.Text = "Discord"
+	DiscordBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+	DiscordBtn.TextSize = 12
+	DiscordBtn.Font = Enum.Font.GothamBold
+	DiscordBtn.Parent = KeyFrame
+	Corner(DiscordBtn, 8)
+
+	DiscordBtn.MouseButton1Click:Connect(function()
+		if setclipboard then setclipboard(DiscordLink) end
+		DiscordBtn.Text = "Copiado!"
+		task.wait(1.5)
+		DiscordBtn.Text = "Discord"
+	end)
+
+	GetKeyBtn.MouseButton1Click:Connect(function()
+		if PUSL and type(PUSL.getKeyUrl) == "function" then
+			if setclipboard then setclipboard(PUSL.getKeyUrl()) end
+			GetKeyBtn.Text = "Link Copiado!"
+			task.wait(1.5)
+			GetKeyBtn.Text = "Pegar Key"
+		else
+			if setclipboard then setclipboard("https://pandauth.com/") end
+			GetKeyBtn.Text = "Link Copiado!"
+			task.wait(1.5)
+			GetKeyBtn.Text = "Pegar Key"
+		end
+	end)
+
+	CheckKeyBtn.MouseButton1Click:Connect(function()
+		local userKey = KeyBox.Text
+		if userKey == "" then
+			CheckKeyBtn.Text = "Digite uma key!"
+			CheckKeyBtn.BackgroundColor3 = Color3.fromRGB(231, 76, 60)
+			task.wait(1.5)
+			CheckKeyBtn.Text = "Verificar Key"
+			CheckKeyBtn.BackgroundColor3 = Color3.fromRGB(90, 135, 205)
+			return
+		end
+
+		CheckKeyBtn.Text = "Verificando..."
+		CheckKeyBtn.BackgroundColor3 = Color3.fromRGB(241, 196, 15)
+
+		pcall(function() KeyBlur:Destroy() end)
+		local successUnlocked = TryUnlockHub(userKey, KeyGui, CheckKeyBtn)
+
+		if not successUnlocked then
+			local newBlur = Instance.new("BlurEffect")
+			newBlur.Size = 24
+			newBlur.Parent = Lighting
+			KeyBlur = newBlur
+
+			CheckKeyBtn.Text = "Key Incorreta ou Expirada!"
+			CheckKeyBtn.BackgroundColor3 = Color3.fromRGB(231, 76, 60)
+			task.wait(1.5)
+			CheckKeyBtn.Text = "Verificar Key"
+			CheckKeyBtn.BackgroundColor3 = Color3.fromRGB(90, 135, 205)
+		end
+	end)
+end
+
+print("Atomic Hub Finalizado com Sucesso!")
